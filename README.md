@@ -1,6 +1,6 @@
 # M-108- INFORMATION STORAGE AND RETRIEVAL SYSTEM
 
-This repository contains [Slides](https://manika-lamba.github.io/SOL) for Paper M-108 taught for MLIS course at the School of Open Learning, University of Delhi.
+This repository contains [Slides](https://manika-lamba.github.io/SOL) & [Reading Material](https://github.com/manika-lamba/SOL/tree/main/Reading%20Material%20-%20PDFs) for Paper M-108 taught for MLIS course at the School of Open Learning, University of Delhi.
 
 ## SYLLABUS
 
