@@ -9,7 +9,7 @@ This repository contains Slides, Recorded Live Videos, & Reading Material for Pa
 
 ### UNIT – I: Fundamental Concepts
 - Concept, Characteristics, Objectives, Types, Operations and Design 
-- compatibility of ISAR System
+- Compatibility of ISAR System
 - Information Retrieval Process and Search Strategy 
 - Evaluation of ISAR System
 - Vocabulary Control Tools: Classification Schedules, Subject Heading Lists and Thesaurus
