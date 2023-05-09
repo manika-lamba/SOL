@@ -3,6 +3,7 @@
 This repository contains Slides, Recorded Live Videos, & Reading Material for Paper M-108 taught for MLIS course at the School of Open Learning, University of Delhi. 
 
 ### [Day 1 - 7th May 2023](https://github.com/manika-lamba/SOL/tree/main/7_May_2023) 
+### [Day 2 - 14th May 2023](https://github.com/manika-lamba/SOL/tree/main/14_May_2023)
 
 ## SYLLABUS
 
