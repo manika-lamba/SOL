@@ -1,32 +1,9 @@
-# M-108- INFORMATION STORAGE AND RETRIEVAL SYSTEM
+# Day 1 (7th March 2023)
 
-This repository contains [Slides](https://manika-lamba.github.io/SOL) & [Reading Material](https://github.com/manika-lamba/SOL/tree/main/Reading%20Material%20-%20PDFs) for Paper M-108 taught for MLIS course at the School of Open Learning, University of Delhi.
+This folder contains [Slides](https://manika-lamba.github.io/SOL), [Reading Material](https://github.com/manika-lamba/SOL/tree/main/Reading%20Material%20-%20PDFs), & [Video]()  
 
-## SYLLABUS
+[![Day 1]({})]({https://www.youtube.com/embed/toZX2bLmY0E} "Link Title")
 
-### UNIT – I: Fundamental Concepts
-- Concept, Characteristics, Objectives, Types, Operations and Design 
-- compatibility of ISAR System
-- Information Retrieval Process and Search Strategy 
-- Evaluation of ISAR System
-- Vocabulary Control Tools: Classification Schedules, Subject Heading Lists and Thesaurus
-- Need, Structure and Construction of Thesaurus 
-- Principles and Evolution of Bibliographic Description
+<a href="{https://www.youtube.com/embed/toZX2bLmY0E}" title="Day 1"><img src="{image-url}" alt="Day 1" /></a>
 
-### UNIT – II: Knowledge Management
-- Introduction to Indexing Systems 
-- Introduction to Indexing in Corporate System 
-- Introduction to Indexing in Research System
-
-### UNIT – III: Bibliographic Description
-- Rules for Bibliographic Description 
-- Standards for Bibliographic Record Formats 
-- Metadata Concept
-- Metadata Standards: Dublin Core, MARC 21, etc.
-
-### UNIT – IV: Search Techniques and Information Retrieval
-- Man and Machine Retrieval System
-- Search Strategies: Boolean Operations, Proximity Search, Heuristic Search, Navigational Search, etc.
-- Internet Searching and Meta Search Engines 
-- Data Mining, Data Harvesting and Semantic Web 
-- Knowledge Management Retrieval
+<iframe width="560" height="315" src="https://www.youtube.com/embed/toZX2bLmY0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
