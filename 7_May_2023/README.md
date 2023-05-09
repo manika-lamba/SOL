@@ -1,4 +1,4 @@
-# Day 1 (7th March 2023)
+# Day 1 - 7th May 2023
 
 This repository contains the Slides, Video, & Reading Material for Day-1 Lecture.
 
