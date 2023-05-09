@@ -44,3 +44,4 @@ This repository contains Slides, Recorded Live Videos, & Reading Material for Pa
 7. [Modern Information Retrieval](https://web.cs.ucla.edu/~miodrag/cs259-security/baeza-yates99modern.pdf)
 8. [Information Retrieval in Digital Libraries:Bringing Search to the Net](https://www.science.org/doi/epdf/10.1126/science.275.5298.327)
 9. [INFORMATION RETRIEVAL PROCESSES AND TECHNIQUES](https://github.com/manika-lamba/SOL/blob/main/Unit-17.pdf)
+10. [Modern Information Retrieval](https://srikarthiks.files.wordpress.com/2016/07/t2-modern-information-retrieval.pdf)
