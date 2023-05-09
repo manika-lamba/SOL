@@ -33,3 +33,14 @@ This repository contains Slides, Recorded Live Videos, & Reading Material for Pa
 - Internet Searching and Meta Search Engines 
 - Data Mining, Data Harvesting and Semantic Web 
 - Knowledge Management Retrieval
+
+## Additional Resources
+1. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+2. [Information Search and Retrieval System in Libraries](https://ir.inflibnet.ac.in/bitstream/1944/1596/1/3.pdf)
+3. [INFORMATION RETRIEVAL SYSTEM: CONCEPT AND SCOPE](https://nios.ac.in/media/documents/SrSecLibrary/LCh-015B.pdf)
+4. [INFORMATION RETRIEVAL book](http://openlib.org/home/krichel/courses/lis618/readings/rijsbergen79_infor_retriev.pdf)
+5. [Basic concepts of information retrieval systems](https://www.alastore.ala.org/sites/default/files/pdfs/chowdhuryIR1.pdf)
+6. [INFORMATION RETRIEVAL AND DIGITAL LIBRARIES](http://eknygos.lsmuni.lt/springer/282/237-275.pdf)
+7. [Modern Information Retrieval](https://web.cs.ucla.edu/~miodrag/cs259-security/baeza-yates99modern.pdf)
+8. [Information Retrieval in Digital Libraries:Bringing Search to the Net](https://www.science.org/doi/epdf/10.1126/science.275.5298.327)
+9. [INFORMATION RETRIEVAL PROCESSES AND TECHNIQUES]()
