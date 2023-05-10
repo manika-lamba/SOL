@@ -1,6 +1,6 @@
 # M-108- INFORMATION STORAGE AND RETRIEVAL SYSTEM
 
-This repository contains Slides, Recorded Live Videos, & Reading Material for Paper M-108 taught for MLIS course at the School of Open Learning, University of Delhi. 
+This repository contains Slides, Recorded Live Videos, Quizzes, & Reading Material for Paper M-108 taught for MLIS course at the School of Open Learning, University of Delhi. 
 
 ### [Week 1](https://github.com/manika-lamba/SOL/tree/main/7_May_2023) 
 ### [Week 2](https://github.com/manika-lamba/SOL/tree/main/14_May_2023)
@@ -8,6 +8,12 @@ This repository contains Slides, Recorded Live Videos, & Reading Material for Pa
 ## COMPULSARY READING
 
 [Introduction to modern information retrieval by G G Chowdhury](https://archive.org/details/introductiontomo0000chow/mode/2up?view=theater)
+
+## PREVIOUS YEAR QUESTION PAPERS
+
+- [2021](https://github.com/manika-lamba/SOL/blob/main/questions-papers/2021.pdf)
+- [2020](https://github.com/manika-lamba/SOL/blob/main/questions-papers/2020.pdf)
+- [2015-2019](https://github.com/manika-lamba/SOL/blob/main/questions-papers/2015-2019.pdf)
 
 ## SYLLABUS
 
