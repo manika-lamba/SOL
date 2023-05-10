@@ -1,6 +1,6 @@
-# Day 1 - 7th May 2023
+# Week 1 
 
-This repository contains the Slides, Video, & Reading Material for Day-1 Lecture.
+This repository contains the Slides, Video, & Reading Material for the Discussion Lecture held on **7th May 2023**.
 
 ## [Slides](https://manika-lamba.github.io/SOL/7_May_2023/#/title-slide)
 
