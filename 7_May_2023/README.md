@@ -1,6 +1,6 @@
 # Week 1 
 
-This repository contains the Slides, Video, & Reading Material for the Discussion Lecture held on **7th May 2023**.
+This repository contains the Slides, Recorded Video, Quiz, & Reading Material for the Discussion Lecture held on **7th May 2023**.
 
 1. [Slides](https://manika-lamba.github.io/SOL/7_May_2023/#/title-slide)
 
