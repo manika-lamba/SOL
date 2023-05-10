@@ -5,7 +5,7 @@ This repository contains Slides, Recorded Live Videos, & Reading Material for Pa
 ### [Week 1](https://github.com/manika-lamba/SOL/tree/main/7_May_2023) 
 ### [Week 2](https://github.com/manika-lamba/SOL/tree/main/14_May_2023)
 
-# COMPULSARY READING
+## COMPULSARY READING
 
 [Introduction to modern information retrieval by G G Chowdhury](https://archive.org/details/introductiontomo0000chow/mode/2up?view=theater)
 
