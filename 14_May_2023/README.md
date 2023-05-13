@@ -16,7 +16,8 @@ This repository contains the Slides, Video, & Reading Material for Discussion Le
 - [Evaluation](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Evaluation.pdf)
 - [Compatibility](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Compatibility_ISAR.pdf)
 - [Searching Techniques](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Searching.pdf)
-- [IR Model](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/IR_Models.pdf)
-- [IR Model (2)](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/IR_Models(2).pdf)
+- [IR Model (1)](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Information%20Retrieval%20Models.pdf)
+- [IR Model (2)](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/IR_Models.pdf)
+- [IR Model (3)](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/IR_Models(2).pdf)
 - [Querying/Searching IR](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Querying-IR-Model.pdf)
 
