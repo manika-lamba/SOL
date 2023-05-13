@@ -16,6 +16,7 @@ This repository contains the Slides, Video, & Reading Material for Discussion Le
 - [Evaluation](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Evaluation.pdf)
 - [Compatibility](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Compatibility_ISAR.pdf)
 - [Searching Techniques](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Searching.pdf)
+- [IR Models in NLP](https://hackmd.io/@32-6dKctTbKTXzKk1r-wPQ/SkavEXa42)
 - [IR Model (1)](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Information%20Retrieval%20Models.pdf)
 - [IR Model (2)](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/IR_Models.pdf)
 - [IR Model (3)](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/IR_Models(2).pdf)
