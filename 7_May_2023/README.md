@@ -4,7 +4,7 @@ This repository contains the Slides, Recorded Video, Quiz, & Reading Material fo
 
 1. Slides
 - [Information Retrival](https://manika-lamba.github.io/SOL/7_May_2023/#/title-slide)
-- [Information Storage & Retrieval Systems (ISAR)](https://manika-lamba.github.io/isar/ISAR/)
+- [Information Storage & Retrieval Systems (ISAR)](https://manika-lamba.github.io/isar/#/title-slide)
 
 2. [Video](https://www.youtube.com/embed/toZX2bLmY0E "Day 1 Lecture")
 
