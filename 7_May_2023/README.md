@@ -15,3 +15,4 @@ This repository contains the Slides, Recorded Video, Quiz, & Reading Material fo
 - [Introduction to Information Retrieval](https://github.com/manika-lamba/SOL/blob/main/7_May_2023/reading-material/Introduction-to-Information-Retrieval.pdf) 
 - [Basic Concepts and Components of Information Retrieval Systems](https://github.com/manika-lamba/SOL/blob/main/7_May_2023/reading-material/Basic-Concepts-Components-IR.pdf)
 - [ISAR Systems](https://github.com/manika-lamba/SOL/blob/main/7_May_2023/reading-material/ISAR_Systems.pdf)
+- [IRS](https://github.com/manika-lamba/SOL/blob/main/7_May_2023/reading-material/IRS.pdf)
