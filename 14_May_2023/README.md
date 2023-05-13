@@ -8,7 +8,7 @@ This repository contains the Slides, Video, & Reading Material for Discussion Le
 
 2. [Video]
 
-3. [Quiz]()
+3. [Quiz](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/quiz.pdf)
 
 4. Reading Material
 - [ISAR Systems](https://github.com/manika-lamba/SOL/blob/main/7_May_2023/reading-material/ISAR_Systems.pdf)
