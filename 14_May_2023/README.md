@@ -15,5 +15,5 @@ This repository contains the Slides, Video, & Reading Material for Discussion Le
 - [IRS](https://github.com/manika-lamba/SOL/blob/main/7_May_2023/reading-material/IRS.pdf)
 - [Evaluation](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Evaluation.pdf)
 - [Compatibility](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Compatibility_ISAR.pdf)
-- [Searching Techniques]()
+- [Searching Techniques](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/reading-material/Searching.pdf)
 
