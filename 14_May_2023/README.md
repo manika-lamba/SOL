@@ -6,7 +6,7 @@ This repository contains the Slides, Video, & Reading Material for Discussion Le
 
 - [Information Storage & Retrieval Systems (ISAR)](https://manika-lamba.github.io/isar/#/title-slide)
 
-2. [Video]
+2. [Video](https://www.youtube.com/live/P24BEbKSw14?feature=share)
 
 3. [Quiz](https://github.com/manika-lamba/SOL/blob/main/14_May_2023/quiz.pdf)
 
