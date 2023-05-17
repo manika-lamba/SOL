@@ -695,3 +695,4 @@ A. *Topical Headings*
 - It represents a concept or object treated in in a bibliographic item. It reflects what the item is about. Eg. Economy, German language, Soldiers as artists
 :::
 :::
+
