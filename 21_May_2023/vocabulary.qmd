@@ -32,6 +32,8 @@ editor:
 
 ## What Will You Learn - Part A? {background-color="#438496"}
 
+# VOCABULARY & CONTROLLED VOCABULARY {background-color="#438496"}
+
 ## WHAT IS VOCABULARY?
 
 -   Vocabulary is a set of terms (words, codes, etc.) that are used in a
@@ -51,7 +53,7 @@ editor:
 ## DIFFERENCES BETWEEN INDEX & VOCABULARY?
 
 |                  | Indexes         | CVs                                                     |
-|-------------------|-------------------|------------------------------------|
+|-------------------|-------------------|----------------------------------|
 | **End product**  | index           | term list                                               |
 | **Use**          | content locator | content tagging, website navigation, search enhancement |
 | **Project time** | weeks           | months                                                  |
@@ -108,6 +110,8 @@ editor:
     this case** - have to be chosen to handle choice between variant
     spelling of the same words, choice among the scientific and popular
     terms and choice between synonyms among other different issues
+
+# CV: PURPOSE, CHARACTERSTICS, CATEGORIES, & TYPES {background-color="#438496"}
 
 ## PURPOSE OF CV
 
@@ -277,9 +281,13 @@ ii) Terms belong to different categories. The term should be implied
 
 ![](images/cv%20types.png){fig-align="center"}
 
+# CV : CLASSIFICATION {background-color="#438496"}
+
 ## CV CLASSIFICATION BY FUNCTIONALITY
 
 ![](images/functionality.png){fig-align="\"center"}\
+
+# FLAT CONTROLLED VOCABULARY {background-color="#438496"}
 
 ## FLAT CV TYPES
 
@@ -314,47 +322,376 @@ ii) Terms belong to different categories. The term should be implied
 
 ## FLAT CV TYPES (Cont.)
 
-2. **Glossaries**
+2.  **Glossaries**
 
-- A glossary is a list of terms, usually with definitions
+-   A glossary is a list of terms, usually with definitions
 
-- Terms may be from a specific
-subject field or from a particular work
+-   Terms may be from a specific subject field or from a particular work
 
-- Terms are defined within a specific environment and rarely include variant meanings
+-   Terms are defined within a specific environment and rarely include
+    variant meanings
 
-- EG. Environmental Protection Agency (EPA), Terms of the Environment, Glossary of Library and Information Science
+-   EG. Environmental Protection Agency (EPA), Terms of the Environment,
+    Glossary of Library and Information Science
 
 ## FLAT CV TYPES (Cont.)
+
 ::: columns
 ::: {.column width="50%"}
-3. **Dictionaries**
+3.  **Dictionaries**
 
-- Dictionaries are alphabetical lists of words and their definitions
+-   Dictionaries are alphabetical lists of words and their definitions
 
-- Variant senses are provided where applicable
+-   Variant senses are provided where applicable
 
-- Dictionaries are more general in scope than are glossaries
+-   Dictionaries are more general in scope than are glossaries
 
-- They may also provide information about the origin of a word, variants 
+-   They may also provide information about the origin of a word,
+    variants
 :::
 
-
 ::: {.column width="50%"}
-(by spelling and morphology), and multiple meanings across disciplines
-- While a dictionary may also provide synonyms and through the definitions, related words, there is no explicit hierarchical structure or attempt to group them by concept
+(by spelling and morphology), and multiple meanings across disciplines -
+While a dictionary may also provide synonyms and through the
+definitions, related words, there is no explicit hierarchical structure
+or attempt to group them by concept
 
-- EG. Oxford English Dictionary, Subject Dictionary
+-   EG. Oxford English Dictionary, Subject Dictionary
 :::
 :::
 
 ## FLAT CV TYPES (Cont.)
 
-4. **Gazetters**
+::: columns
+::: {.column width="50%"}
+4.  **Gazetters**
 
-- A gazetter is a list of place names
+-   A gazetter is a list of place names
 
-- Traditional gazetters have been published as books or have appeared as indexes to atlases
+-   Traditional gazetters have been published as books or have appeared
+    as indexes to atlases
 
-- Each entry may also be identified by feature type, such as river, city, or school
+-   Each entry may also be identified by feature type, such as river,
+    city, or school
 
+-   Geospatially referenced
+:::
+
+::: {.column width="50%"}
+gazatteers provide coordinates for locating the place on the earth's
+surface
+
+-   The term gazetteer has several other meanings, including
+    announcement publication such as a patent or legal gazetteer
+
+-   These gazetters are often organized using classification schemes or
+    subject categories
+
+-   EG U.S. Code of Geographic Names
+:::
+:::
+
+## FLAT CV TYPES (Cont.)
+
+5.  **Code List**
+
+-   It is consists of a set of codes & meanings used in a specific
+    project
+
+# MULTI-LEVEL CONTROLLED VOCABULARY {background-color="#438496"}
+
+## MULTI-LEVEL CV TYPES
+
+::: columns
+::: {.column width="50%"}
+1.  **Subject Headings**
+
+-   This scheme type provides a set of controlled terms to represent the
+    subjects of items in a collection
+
+-   The main objective of subject cataloguing is to fulfill the subject
+    related needs of the readers
+
+-   Subject Heading scheme helps the cataloguer/indexer to
+:::
+
+::: {.column width="50%"}
+summarizing the thought content of the document in to a no. of accepted
+term
+
+-   Subject Heading schemes are:
+
+    -   Medical Subject Headings (MeSH)
+    -   Library of Congress Headings (LCSH)
+    -   SEARS List of Subject Headings
+:::
+:::
+
+## MEDICAL SUBJECT HEADING (MeSH)
+
+-   MeSH is the controlled vocabulary thesaurus that gives uniformity
+    and consistency to the indexing and cataloging of biomedical
+    literature. It connects all the different ways to express a concept,
+    such as "cancer."
+
+-   MeSH are standardized vocabulary of app. 20,000 terms that describe
+    the biomedical concepts covered in the MEDLINE/PubMed database.
+    MEDLINE is directly searchable from PubMed
+
+-   MeSH consists of a set of terms or subject headings that are
+    arranged in both an alphabetic and a hierarchical structure
+
+-   MeSH thesaurus is produced by the National Library of Medicine (NLM)
+
+## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+
+-   When each article is indexed, an indexer at NLM assigns from 5 to 20
+    headings describing the concepts covered in the article
+
+-   MeSH headings are powerful searching tools
+
+-   They locate documents by assigned controlled vocabulary, not free
+    text words, and are independent of the occurrence of specific words
+    in any other field
+
+-   MeSH headings allow you to retrieve all references to a particular
+    topic, even if different terminology was used in the records
+
+## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+
+::: columns
+::: {.column width="50%"}
+-   MeSH vocabulary includes several important features. The four most
+    important are:
+
+i)  **Main Headings (MeSH headings/preferred terms/descriptors)**
+
+-   They represent concepts found in the biomedical literature
+:::
+
+::: {.column width="50%"}
+-   These records are topical headings that are used to index citations
+    in MEDLINE, for cataloging of publications, and for use in other
+    databases
+
+-   Most main headings indicate the subject of an indexed item
+
+-   For a journal article, main headings describe what the article is
+    about
+:::
+:::
+
+## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+
+-   Main headings are generally added or revised in MeSH vocabulary on
+    an annual basis
+
+![](images/MainHeadings.png){fig-align="center"}
+
+## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+
+::: columns
+::: {.column width="50%"}
+ii) **Subheadings (qualifiers)**
+
+-   They are associated with MeSH main headings to pinpoint the specific
+    aspect of the concept represented by the subject heading
+
+-   They are a way of grouping together those citations that are
+    concerned with a particular characteristics
+:::
+
+::: {.column width="50%"}
+of a subject
+
+-   EG Liver may be qualified with subheading drug-effects
+    ("Liver-drug-effects")
+
+![](images/SubHeadings.png){fig-align="center" width="400"}
+:::
+:::
+
+## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+::: columns
+::: {.column width="50%"}
+iii) **Check Tags**
+
+- These are special use descriptors that do not represent subject matter per se but that reflect parameters or aspects of subject concept
+
+- Special efforts in indexing assures that these will be included or "checked" each time they appear as 
+:::
+
+
+::: {.column width="50%"}
+
+aspects in an item being indexed
+
+- Following list of descriptors must be entered by an indexer for very journal article citation to which they apply
+
+    - ANIMAL  - HUMANS  
+    - FEMALE  - MALE      
+:::
+:::
+
+## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+::: columns
+::: {.column width="50%"}
+iv) **Publication Characteristics (types)**
+
+- They describe the type of publication being indexed (i.e. format of the publication) or characteristics of the research (i.e. research design)
+
+- They are also Publication Type term that describe 
+:::
+
+
+::: {.column width="50%"}
+
+what type of organization funded the research
+
+- They are of 3 main categories:
+
+    - Publication Components (eg. Abstracts)
+    - Publication Formats (eg. Lectures, Letter)
+    - Study Characteristics (eg. Clinical Trial, Twin Study)
+    
+
+:::
+:::
+
+## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+::: columns
+::: {.column width="50%"}
+
+![](images/Publication.png)
+
+
+:::
+
+
+::: {.column width="50%"}
+
+
+![](images/publication2.png)
+:::
+:::
+
+## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+
+::: columns
+::: {.column width="50%"}
+v) **Age Group Headings**
+
+-  There is a collection of age group heading in MeSH which are assigned whenever someone in that age group is noted in a paper
+- All age groups listed in the paper are indexed. Age groups are rarely assigned to major MeSH field
+:::
+
+
+::: {.column width="50%"}
+![](images/age.png)
+:::
+:::
+
+## LIBRARY OF CONGRESS SUBJECT HEADING (LCSH)
+
+- LCSH came in to existence in the year 1898 by the Library of Congress (LoC), USA and is also maintained by the same
+
+- LCSH system was originally designed as a controlled vocabulary for representing the subject and form of the books and serials in the LoC collection
+
+- Now it is widely accepted by Libraries & Information Center around the world
+
+- LCSH is also known as "Big Red Books"
+
+- It consists of 5 volumes and published annually
+
+## LCSH (Cont.)
+
+- Subject authority records are available online
+
+- The last print edition was published in 2016. Access to the continuously revised vocabulary is now available via subscription and [free services](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html)
+
+- At present running edition is 44th (2022)
+
+- There were 382,713 authority records in the file as of March 2022
+
+- The creation and revision of subject headings is a
+continuous process. Approximately 4,000 new headings,
+including headings with subdivisions, are added to LCSH each
+year
+
+## LCSH (Cont.)
+
+#### Principles of Heading Construction
+
+1. Fundamental principles of LCSH
+2. Structure of subject headings
+3. Generation of headings & cross references
+4. Main headings
+5. Subdivisions
+6. Pre-coordination & synthesis
+7. Term relationships
+8. Scope notes
+9. Class numbers
+
+
+## LCSH (Cont.)
+
+#### Fundamental principles of LCSH
+
+1. The fundamental principle guiding the development of LoC subject headings system are effective responses to 
+
+    - User needs
+    - Uniform heading (one heading per subject - control of synonyms)
+    - Unique heading (one subject per heading control of homographs)
+    - Specific & direct entry
+    - Stability
+    - Consistency
+    
+## LCSH (Cont.)
+
+#### Structure of Subject Headings
+::: columns
+::: {.column width="50%"}
+
+*A. Single Concept Headings*
+
+- Automobiles
+- Botany
+- Budget deficits
+- Electric
+- Interference
+- Boards of trade
+- Clerks of court
+:::
+
+
+
+::: {.column width="50%"}
+
+*B. Pre-coordinated Multiple-Concept Headings*
+
+- Budget in business
+- Church & industry
+- Earth-rotation
+- Biology-Scholarships
+:::
+:::
+
+## LCSH (Cont.)
+::: columns
+::: {.column width="50%"}
+#### Main Headings
+
+- It is that part of the subject heading string hich represents the main concept without subdivision
+
+- Main headings may be categorized according to their functions (topical headings, form headings, & different kinds of proper name headings)
+:::
+
+
+::: {.column width="50%"}
+#### Types & Functions of Main Headings
+
+A. *Topical Headings*
+
+- It represents a concept or object treated in in a bibliographic item. It reflects what the item is about. Eg. Economy, German language, Soldiers as artists
+:::
+:::
