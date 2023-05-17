@@ -1,0 +1,217 @@
+---
+title: CONTROLLED VOCABULARY
+subtitle: |
+  **[Paper-M-108]{.orange}**
+author: |
+  [Dr. Manika Lamba](https://manika-lamba.github.io)
+date: '21st May 2023'
+slide-number: true
+#footer: |
+#  **[Download Material](https://github.com/manika-lamba/SOL)**
+# uncomment for French presentations:
+#lang: fr
+# for blind readers:
+#slide-tone: true
+# for @olevitt:
+chalkboard: # press the B key to toggle chalkboard
+  theme: whiteboard
+# uncomment to use the multiplex mode:
+#multiplex: true
+format:
+  # pick the light mode (onyxia-revealjs) or the dark mode (onyxia-dark-revealjs)
+  onyxia-revealjs:
+    #incremental: true   
+  #onyxia-dark-revealjs:
+    output-file: index.html
+# visual editor configuration:
+editor:
+  render-on-save: true
+---
+
+## What Will You Learn - Part A? {background-color="#438496"}
+
+## WHAT IS VOCABULARY?
+
+-   Vocabulary is a set of terms (words, codes, etc.) that are used in a specific community
+
+-   It provides a mechanism for communication (written, oral, or electronic) as the meaning of terms are known & agreed upon by the community members
+
+-   When a vocabulary is formally *managed*, it becomes **Controlled Vocabulary**. Where *managed* means the terms are stored & maintained using agreed-upon *procedures*
+
+-   *Procedures* should exist for adding terms, modifying terms, & more rarely, deprecating terms from a controlled vocabulary
+
+## DIFFERENCES BETWEEN INDEX & VOCABULARY?
+
+|                  | Indexes         | CVs                                                     |
+|------------------|------------------|-------------------------------------|
+| **End product**  | index           | term list                                               |
+| **Use**          | content locator | content tagging, website navigation, search enhancement |
+| **Project time** | weeks           | months                                                  |
+| **Methodology**  | reading         | research                                                |
+
+: Table 1: Indexes and controlled vocabularies compared
+
+## DIFFERENCES BETWEEN INDEX & VOCABULARY? (Cont.)
+
+-   Indexes and CVs are intimately connected
+-   For example, it is often the case that for large or long-term indexing projects, such as journal or newspaper indexes, a CV is created first to ensure consistency in indexing by multiple indexers over long time spans
+
+## CONTROLLED VOCABULARY (CV)
+
+-   CV is a carefully selected list of words and phrase, which are used to tag units of **information** so that they may be more easily retrieved by a search
+
+-   The terms are chosen by and organized by trained professionals (including Librarians and information scientist) who posses expertise in the subject area
+
+-   CV terms can accurately describe what a given document is actually about, even if the terms themselves don not occurs within the text
+
+-   Fully developed CV systems are LCSH, Sears List, Thesaurus etc.
+
+## CONTROLLED VOCABULARY (Cont.)
+
+::: columns
+::: {.column width="50%"}
+-   In other words, CV is a collection of terms that are:
+
+    -   **Accepted**: Terms must adhere to community practices
+    -   **Defined**: Terms are precisely characterized. Typically, this means the terms have rigorous definitions
+:::
+
+::: {.column width="50%"}
+-   **Managed**: In general, there will be a body of experts that create and maintain the CV. The maintenance of CV will involve periodic review, addition of new terms, modification of terms, and occasionally deprecation of terms
+:::
+:::
+
+## CONTROLLED VOCABULARY (Cont.)
+
+-   For example in the LCSH (a subject heading system that uses a controlled vocabulary), **authorized terms**- **subject heading in this case** - have to be chosen to handle choice between variant spelling of the same words, choice among the scientific and popular terms and choice between synonyms among other different issues
+
+## PURPOSE OF CV
+
+#### CV can serve several different purposes:
+
+-   It can help users to find data (also known as a **discovery vocabulary**)
+
+-   It can assist in the interpretation of data (also known as **usage vocabulary**)
+
+-   It can provide human-understandable meaning (also known as **semantic vocabulary**)
+
+-   It can produce machine-readable format information (also known as **syntactic vocabulary**)
+
+## PURPOSE OF CV (Cont.)
+
+#### CV provide these abilities by:
+
+-   Establishing the permissible terms to be used
+-   Maintaining the proper and agreed-upon spelling of the terms
+-   Clarifying terms for those who are new to the community
+-   Eliminating the use of arbitrary terms that can cause inconsistencies and confusion
+
+From the above we can say that CV ensure consistencies in indexing, tagging or categorizing and to guide the user where the desire information is
+
+## WITH AND WITHOUT CV
+
+![Fig. 1: With & Without CV](images/with-without.png){fig-align="center" width="1300"}
+
+## CHARACTERISTICS OF CV
+
+-   Most important characteristics of CV is **relationship**
+
+-   Terms in CV are related in certain ways:
+
+1.  **Equivalence Relationship**
+
+-   It is the most basic term [relationship in synonyms]{style="color: blue;"}
+
+-   It is important to note that [context]{style="color: blue;"} is important in determining synonyms
+
+-   Example, if you use "automobiles" on your homepage & "cars" on next page, users might get confused. Users might start to wonder if there is a difference between the two terms. Instead you choose "automobiles" & don't use "cars".
+
+## CHARACTERISTICS OF CV (Cont.)
+
+::: columns
+::: {.column width="50%"}
+-   So, using "automobiles" as ["preferred term"]{style="color: blue;"} & "cars" as variant term that is representing the same concept
+
+-   There are many examples where alternate terms are used:
+
+a)  Synonyms (two words with the same meaning, like "jeans" and "dungarees")
+:::
+
+::: {.column width="50%"}
+b)  Homonyms (words that sound the same, but have different meanings, like "bank" the financial institution and "bank" the side of a stream or river)
+c)  Common misspellings
+d)  Changes in content (e.g., countries that change their name or have multiple spellings)
+:::
+:::
+
+## CHARACTERISTICS OF CV (Cont.)
+
+::: columns
+::: {.column width="50%"}
+e)  Identifying "Best Bets" or the most popular pages associated with a certain term
+f)  Connecting a woman's married name to her maiden name
+g)  Connecting abbreviations to the full word (e.g., NY and New York, the chemical symbol Si with the element Silicon)
+:::
+
+::: {.column width="50%"}
+#### Types of Equivalence Relationship:
+
+-   There are 2 types of synonym equivalence lists - [Synonym rings]{style="color: blue;"}: They are used in searching behind the scenes as a way to connect various terms of a concept. EG. When someone searches for "Si", give them all documents with both "Si" & "Silicon"
+:::
+:::
+
+## CHARACTERISTICS OF CV (Cont.)
+
+#### Types of Equivalence Relationship (Cont.)
+
+-   [Authority files]{style="color: blue;"}: When you need to display one of these terms in your navigation and pick one to be a preferred term, then you have an authority file
+
+2.  **Hierarchical Relationship**
+
+-   Terms display hierarchical relationship when one term is broader in meaning than its child terms (which has a narrower meaning)
+
+-   Pairs of the terms are represented in their super ordinate & subordinate status
+
+## CHARACTERISTICS OF CV (Cont.)
+
+-   Super ordinate term (BT) representing the whole while the subordinate term (NT) representing a member or a part
+
+-   EG. **LIBRARY USERS**
+
+    -   **BT** Persons
+    -   **NT** Internet access for library users
+        -   Library catalogs and users
+
+-   It can help you formulate your homepage navigation. It could improve your searching and browsing. It can help users broaden and narrow their search results quickly by showing them where each set of results fits into the site's hierarchy
+
+## CHARACTERISTICS OF CV (Cont.)
+
+4.  **Associative Relationship**
+
+-   It denotes the relationship between the term that is neither hierarchical nor equivalence
+
+-   Yet the terms are mentally associated to such an extent that link between them should be made explicit in CV and revel alternative terms that could be used in indexing or retrieval
+
+-   It is very difficult to define the relationship between the term and therefore to determine between a pairs of terms, some guidelines are follow:
+
+## CHARACTERISTICS OF CV (Cont.)
+
+#### The Associative terms are divided into two categories:
+
+i)  Terms belonging to the same category. For example *Sibling* with overlapping meaning, such as 'Ship' and 'boats'
+ii) Terms belong to different categories. The term should be implied when other is used in indexing. For example, an action or product and product of the action. Such as Programming \<-\> Software
+
+## CV CATEGORY & TYPES
+
+> `To many people, the English language is a well-known vocabulary. We have many ways of representing the terms in the English language. For example, if we want to figure out what a specific word means we might consult a glossary; if we want to know the origin of a term we might consult a dictionary; and if we want to know how the term relates to other terms we might consult a thesaurus. We also need to recognize that the meaning of terms may change through time. Generations use terms in different ways (cool in one generation means a low temperature, while cool in another is a positive adjective).`
+
+## CV CATEGORY & TYPES (Cont.)
+
+-   To enable formal management, a controlled vocabulary can be organized in several ways. There are three broad categories of controlled vocabularies:
+
+![](images/cv%20types.png){fig-align="center"}
+
+## CV CLASSIFICATION BY FUNCTIONALITY
+
+![](images/functionality.png){fig-align="center}
+
