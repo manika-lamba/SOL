@@ -1134,7 +1134,27 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 
 ## SEARS LIST (Cont.)
 
-3)  Subdivisions are used to subdivide a preferred heading
+![](images/cv-1.jpg){fig-align="center" width="1000"} 
+
+## SEARS LIST (Cont.)
+
+![](images/cv-2.jpg){fig-align="center"}
+
+## SEARS LIST (Cont.)
+
+![](images/cv-3.jpg){fig-align="center"}
+
+## SEARS LIST (Cont.)
+
+![](images/cv-4.jpg){fig-align="center"}
+
+## SEARS LIST (Cont.)
+
+![](images/cv-5.jpg){fig-align="center"}
+
+## SEARS LIST (Cont.)
+
+![](images/cv-6.jpg){fig-align="center"}
 
 ## TAXONOMY
 
@@ -1216,11 +1236,11 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 
 ## SEMANTIC WEB
 
-![](images/Semantic Network-2.jpg){fig-align="center" width="5000"}
+![](images/Semantic%20Network-2.jpg){fig-align="center" width="5000"}
 
 ## SEMANTIC WEB (Cont.)
 
-![](images/Semantic Network-3.jpg){fig-align="center" width="5000"}
+![](images/Semantic%20Network-3.jpg){fig-align="center" width="5000"}
 
 # CONTROLLED VOCABULARY VS. NATURAL LANGUAGE {background-color="#438496"}
 
@@ -1231,4 +1251,5 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 ![](images/100.jpg){fig-align="center" width="5000"}
 
 ## CV Vs. Natural Language (Cont.)
+
 ![](images/101.jpg){fig-align="center" width="5000"}
