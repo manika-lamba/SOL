@@ -6,7 +6,7 @@ This repository contains the Slides, Recorded Video, Quiz, & Reading Material fo
 
 2. [Video]
 
-3. [Quiz]
+3. [Quiz](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/quiz.pdf)
 
 4. Reading Material
 - [What is Controlled Vocabulary](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/reading_materials/what%20is%20controlled%20vocabulary.pdf)
