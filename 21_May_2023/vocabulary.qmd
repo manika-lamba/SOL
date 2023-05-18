@@ -30,8 +30,6 @@ editor:
     wrap: 72
 ---
 
-## What Will You Learn - Part A? {background-color="#438496"}
-
 # VOCABULARY & CONTROLLED VOCABULARY {background-color="#438496"}
 
 ## WHAT IS VOCABULARY?
