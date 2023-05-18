@@ -861,8 +861,184 @@ D. General and Specific references
 
 -   It is denoted by *see also (SA)*
 
-- Example:
+-   Example:
 
-    - Chemistry
+    -   Chemistry
 
-       - SA headings beginning with the word Chemical
+        -   SA headings beginning with the word Chemical
+
+## LCSH (Cont.)
+
+::: columns
+::: {.column width="50%"}
+7.  [**Subject Heading for Special Materials in
+    LCSH**]{style="color: blue;"}
+
+-   The assignment of subject heading for audiovisual and special
+    instructional materials should follow the same principles that are
+    applied to books
+
+-   The heading most specifically describing the contents of the
+    material should be used
+:::
+
+::: {.column width="50%"}
+-   And the same headings should be applied to book and non book
+    material alike
+
+-   Example:
+
+    -   American poetry-Periodicals
+
+    -   Tuberculosis-Statistics-Periodicals
+
+    -   Jesus Christ-Travel-Palestine-Maps-To 1800
+
+    -   Accounting-Periodical
+:::
+:::
+
+## LCSH (Cont.)
+
+::: columns
+::: {.column width="50%"}
+8.  [**Scope Notes**]{style="color: blue;"}
+
+-   Notes are provided under some headings in order to define the scope,
+    to explain the relationships among headings, and to assist in the
+    proper application of the headings so that consistency in assigning
+    headings to documents on like subjects may be achieved
+:::
+
+::: {.column width="50%"}
+A)  Definitions
+B)  Relations to other headings
+C)  Instructions, explanations
+:::
+:::
+
+## LCSH (Cont.)
+
+9.  [**Class Numbers**]{style="color: blue;"}
+
+-   A Library of Congress Classification number is added to a heading if
+    the caption for the number is identical or nearly identical in
+    scope, meaning, and language to the subject heading, or if the topic
+    is explicitly mentioned in an "Including" note under the caption for
+    the number
+
+-   Multiple class numbers may be added to a heading when the subject is
+    treated from more than one perspective
+
+-   For the heading of a subject covered by a span of class numbers, the
+    full span of pertinent class numbers is included
+
+## LCSH (Cont.)
+
+#### DISADVANTAGES
+
+-   It is American biased
+
+-   The words that are used in it are the words that are popular in
+    American dialect and which are not popular to Indian conditions
+
+-   Many discrepancies regarding the subject headings can also be seen
+    in its like
+
+    -   Labor-Labour
+
+    -   Color-Colour
+
+    -   Elevators-Lifts
+
+## SEARS LIST OF SUBJECT HEADING
+::: columns
+::: {.column width="50%"}
+-   The Sears List of Subject Headings (popularly called the Sears List)
+    is a known tool for assigning standardized subject headings to all
+    types of documents in a general small libraries having up to 20,000
+    titles in all subjects
+    
+-   Sears List of Subject Headings was first designed in 1923 by Minnie
+    Earl Sears (1873-1933) 
+:::
+
+::: {.column width="50%"}
+
+and has been continuing with her name
+![](images/sears.jpg){fig-align="center"}
+
+:::
+:::
+
+## SEARS LIST (Cont.)
+-   It was designed with the objective of small libraries for simple and
+    broader subject headings
+
+-   The first edition contained only 3200 preferred headings
+
+-   The 2nd (1926) and 3rd (1933) editions were again edited by her
+
+-   [23rd is its latest print edition published in 2022](https://greyhouse.com/Media/GreyHousePublishing/sears_list_22/index.html?page=1)
+
+- From fourth to fourteenth came in to exist in between
+(1939/1991) with addition of new word, modernize the
+terminology of old ones and so on
+
+- But the format
+continued the same with some new features such as the
+addition of Abridged DDC numbers
+
+## SEARS LIST (Cont.)
+- The orientation to the online environment started with
+the 13th edition (1986)
+-15th edition is considered to be a innovative era of Sears.
+The latest knowledge from information science and
+information seeking behavior has been deployed to
+modernize the internal structure and grammar of the
+sears List
+- 16th edition (1997), 17th edition (2000), 18th edition (2004), 19th edition (2007), 20th edition (2010), 21st (2014), 22nd edition (2018), 23rd edition (2022)
+- There are some changes has been seen in 15th edition
+like adoption of thesaurus format by using abbreviations,
+i.e. NT, BT, RT, USE and SA instead of X,XX etc. It
+gave every page a new look
+
+## SEARS LIST (Cont.)
+
+::: columns
+::: {.column width="50%"}
+- Joseph Miler edited till 19th Edition but in later it was
+edited with the assistance of some associated editor
+- Published by HW Wilson
+:::
+
+
+
+::: {.column width="50%"}
+![](images/1.png)
+![](images/2.png)
+:::
+:::
+
+## SEARS LIST (Cont.)
+
+#### Principles of the SEARS list   
+
+- It is based on the
+principles of the LoC Subject
+headings
+
+- The principles are:
+
+1. [**Specific entry**]{style="color: blue;"}
+
+- It means that subject
+should be entered under its most specific
+heading, not under the class to which it
+belongs
+
+- For example,
+- Rose should be entered under "Rose"/"Lotus" not under "flowers"
+- Penguin is entered "Penguins" not under
+Birds or even not under water Birds
+
