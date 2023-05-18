@@ -53,7 +53,7 @@ editor:
 ## DIFFERENCES BETWEEN INDEX & VOCABULARY?
 
 |                  | Indexes         | CVs                                                     |
-|-------------------|-------------------|----------------------------------|
+|--------------------|--------------------|--------------------------------|
 | **End product**  | index           | term list                                               |
 | **Use**          | content locator | content tagging, website navigation, search enhancement |
 | **Project time** | weeks           | months                                                  |
@@ -176,17 +176,17 @@ width="1300"}
 
 -   There are many examples where alternate terms are used:
 
-a)  Synonyms (two words with the same meaning, like "jeans" and
-    "dungarees")
+a)  [Synonyms]{style="color: blue;"} (two words with the same meaning,
+    like "jeans" and "dungarees")
 :::
 
 ::: {.column width="50%"}
-b)  Homonyms (words that sound the same, but have different meanings,
-    like "bank" the financial institution and "bank" the side of a
-    stream or river)
-c)  Common misspellings
-d)  Changes in content (e.g., countries that change their name or have
-    multiple spellings)
+b)  [Homonyms]{style="color: blue;"} (words that sound the same, but
+    have different meanings, like "bank" the financial institution and
+    "bank" the side of a stream or river)
+c)  [Common misspellings]{style="color: blue;"}
+d)  [Changes in content]{style="color: blue;"} (e.g., countries that
+    change their name or have multiple spellings)
 :::
 :::
 
@@ -194,11 +194,12 @@ d)  Changes in content (e.g., countries that change their name or have
 
 ::: columns
 ::: {.column width="50%"}
-e)  Identifying "Best Bets" or the most popular pages associated with a
-    certain term
+e)  [Identifying "Best Bets"]{style="color: blue;"} or the most popular
+    pages associated with a certain term
 f)  Connecting a woman's married name to her maiden name
-g)  Connecting abbreviations to the full word (e.g., NY and New York,
-    the chemical symbol Si with the element Silicon)
+g)  [Connecting abbreviations]{style="color: blue;"} to the full word
+    (e.g., NY and New York, the chemical symbol Si with the element
+    Silicon)
 :::
 
 ::: {.column width="50%"}
@@ -225,13 +226,15 @@ g)  Connecting abbreviations to the full word (e.g., NY and New York,
 -   Terms display hierarchical relationship when one term is broader in
     meaning than its child terms (which has a narrower meaning)
 
--   Pairs of the terms are represented in their super ordinate &
-    subordinate status
+-   Pairs of the terms are represented in their [super
+    ordinate]{style="color: blue;"} & [subordinate
+    status]{style="color: blue;"}
 
 ## CHARACTERISTICS OF CV (Cont.)
 
--   Super ordinate term (BT) representing the whole while the
-    subordinate term (NT) representing a member or a part
+-   [Super ordinate term (BT)]{style="color: blue;"} representing the
+    whole while the [subordinate term (NT)]{style="color: blue;"}
+    representing a member or a part
 
 -   EG. **LIBRARY USERS**
 
@@ -263,11 +266,13 @@ g)  Connecting abbreviations to the full word (e.g., NY and New York,
 
 #### The Associative terms are divided into two categories:
 
-i)  Terms belonging to the same category. For example *Sibling* with
-    overlapping meaning, such as 'Ship' and 'boats'
-ii) Terms belong to different categories. The term should be implied
-    when other is used in indexing. For example, an action or product
-    and product of the action. Such as Programming \<-\> Software
+i)  [Terms belonging to the same category]{style="color: blue;"}. For
+    example *Sibling* with overlapping meaning, such as 'Ship' and
+    'boats'
+ii) [Terms belong to different categories]{style="color: blue;"}. The
+    term should be implied when other is used in indexing. For example,
+    an action or product and product of the action. Such as Programming
+    \<-\> Software
 
 ## CV CATEGORY & TYPES
 
@@ -512,65 +517,62 @@ of a subject
 :::
 
 ## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+
 ::: columns
 ::: {.column width="50%"}
 iii) **Check Tags**
 
-- These are special use descriptors that do not represent subject matter per se but that reflect parameters or aspects of subject concept
+-   These are special use descriptors that do not represent subject
+    matter per se but that reflect parameters or aspects of subject
+    concept
 
-- Special efforts in indexing assures that these will be included or "checked" each time they appear as 
+-   Special efforts in indexing assures that these will be included or
+    "checked" each time they appear as
 :::
 
-
 ::: {.column width="50%"}
-
 aspects in an item being indexed
 
-- Following list of descriptors must be entered by an indexer for very journal article citation to which they apply
+-   Following list of descriptors must be entered by an indexer for very
+    journal article citation to which they apply
 
-    - ANIMAL  - HUMANS  
-    - FEMALE  - MALE      
+    -   ANIMAL - HUMANS\
+    -   FEMALE - MALE\
 :::
 :::
 
 ## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+
 ::: columns
 ::: {.column width="50%"}
 iv) **Publication Characteristics (types)**
 
-- They describe the type of publication being indexed (i.e. format of the publication) or characteristics of the research (i.e. research design)
+-   They describe the type of publication being indexed (i.e. format of
+    the publication) or characteristics of the research (i.e. research
+    design)
 
-- They are also Publication Type term that describe 
+-   They are also Publication Type term that describe
 :::
 
-
 ::: {.column width="50%"}
-
 what type of organization funded the research
 
-- They are of 3 main categories:
+-   They are of 3 main categories:
 
-    - Publication Components (eg. Abstracts)
-    - Publication Formats (eg. Lectures, Letter)
-    - Study Characteristics (eg. Clinical Trial, Twin Study)
-    
-
+    -   Publication Components (eg. Abstracts)
+    -   Publication Formats (eg. Lectures, Letter)
+    -   Study Characteristics (eg. Clinical Trial, Twin Study)
 :::
 :::
 
 ## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
+
 ::: columns
 ::: {.column width="50%"}
-
 ![](images/Publication.png)
-
-
 :::
 
-
 ::: {.column width="50%"}
-
-
 ![](images/publication2.png)
 :::
 :::
@@ -579,12 +581,13 @@ what type of organization funded the research
 
 ::: columns
 ::: {.column width="50%"}
-v) **Age Group Headings**
+v)  **Age Group Headings**
 
--  There is a collection of age group heading in MeSH which are assigned whenever someone in that age group is noted in a paper
-- All age groups listed in the paper are indexed. Age groups are rarely assigned to major MeSH field
+-   There is a collection of age group heading in MeSH which are
+    assigned whenever someone in that age group is noted in a paper
+-   All age groups listed in the paper are indexed. Age groups are
+    rarely assigned to major MeSH field
 :::
-
 
 ::: {.column width="50%"}
 ![](images/age.png)
@@ -593,106 +596,273 @@ v) **Age Group Headings**
 
 ## LIBRARY OF CONGRESS SUBJECT HEADING (LCSH)
 
-- LCSH came in to existence in the year 1898 by the Library of Congress (LoC), USA and is also maintained by the same
+-   LCSH came in to existence in the year 1898 by the Library of
+    Congress (LoC), USA and is also maintained by the same
 
-- LCSH system was originally designed as a controlled vocabulary for representing the subject and form of the books and serials in the LoC collection
+-   LCSH system was originally designed as a controlled vocabulary for
+    representing the subject and form of the books and serials in the
+    LoC collection
 
-- Now it is widely accepted by Libraries & Information Center around the world
+-   Now it is widely accepted by Libraries & Information Center around
+    the world
 
-- LCSH is also known as "Big Red Books"
+-   LCSH is also known as "Big Red Books"
 
-- It consists of 5 volumes and published annually
+-   It consists of 5 volumes and published annually
 
 ## LCSH (Cont.)
 
-- Subject authority records are available online
+-   Subject authority records are available online
 
-- The last print edition was published in 2016. Access to the continuously revised vocabulary is now available via subscription and [free services](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html)
+-   The last print edition was published in 2016. Access to the
+    continuously revised vocabulary is now available via subscription
+    and [free
+    services](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html)
 
-- At present running edition is 44th (2022)
+-   At present running edition is 44th (2022)
 
-- There were 382,713 authority records in the file as of March 2022
+-   There were 382,713 authority records in the file as of March 2022
 
-- The creation and revision of subject headings is a
-continuous process. Approximately 4,000 new headings,
-including headings with subdivisions, are added to LCSH each
-year
+-   The creation and revision of subject headings is a continuous
+    process. Approximately 4,000 new headings, including headings with
+    subdivisions, are added to LCSH each year
 
 ## LCSH (Cont.)
 
 #### Principles of Heading Construction
 
-1. Fundamental principles of LCSH
-2. Structure of subject headings
-3. Generation of headings & cross references
-4. Main headings
-5. Subdivisions
-6. Pre-coordination & synthesis
-7. Term relationships
-8. Scope notes
-9. Class numbers
-
+1.  [Fundamental principles of LCSH]{style="color: blue;"}
+2.  [Structure of subject headings]{style="color: blue;"}
+3.  [Generation of headings & cross references]{style="color: blue;"}
+4.  [Main headings]{style="color: blue;"}
+5.  [Subdivisions]{style="color: blue;"}
+6.  [Pre-coordination & synthesis]{style="color: blue;"}
+7.  [Term relationships]{style="color: blue;"}
+8.  [Scope notes]{style="color: blue;"}
+9.  [Class numbers]{style="color: blue;"}
 
 ## LCSH (Cont.)
 
-#### Fundamental principles of LCSH
+1.  [**Fundamental principles of LCSH**]{style="color: blue;"}
 
-1. The fundamental principle guiding the development of LoC subject headings system are effective responses to 
+-   The fundamental principle guiding the development of LoC subject
+    headings system are effective responses to
 
-    - User needs
-    - Uniform heading (one heading per subject - control of synonyms)
-    - Unique heading (one subject per heading control of homographs)
-    - Specific & direct entry
-    - Stability
-    - Consistency
-    
+    -   User needs
+    -   Uniform heading (one heading per subject - control of synonyms)
+    -   Unique heading (one subject per heading control of homographs)
+    -   Specific & direct entry
+    -   Stability
+    -   Consistency
+
 ## LCSH (Cont.)
 
-#### Structure of Subject Headings
 ::: columns
 ::: {.column width="50%"}
+2.  [**Structure of Subject Headings**]{style="color: blue;"}
 
 *A. Single Concept Headings*
 
-- Automobiles
-- Botany
-- Budget deficits
-- Electric
-- Interference
-- Boards of trade
-- Clerks of court
+-   Automobiles
+-   Botany
+-   Budget deficits
+-   Electric
+-   Interference
+-   Boards of trade
+-   Clerks of court
 :::
 
-
-
 ::: {.column width="50%"}
-
 *B. Pre-coordinated Multiple-Concept Headings*
 
-- Budget in business
-- Church & industry
-- Earth-rotation
-- Biology-Scholarships
+-   Budget in business
+-   Church & industry
+-   Earth-rotation
+-   Biology-Scholarships
 :::
 :::
 
 ## LCSH (Cont.)
+
 ::: columns
 ::: {.column width="50%"}
-#### Main Headings
+3.  [**Main Headings**]{style="color: blue;"}
 
-- It is that part of the subject heading string hich represents the main concept without subdivision
+-   It is that part of the subject heading string which represents the
+    main concept without subdivision
 
-- Main headings may be categorized according to their functions (topical headings, form headings, & different kinds of proper name headings)
+-   Main headings may be categorized according to their functions
+    (topical headings, form headings, & different kinds of proper name
+    headings)
 :::
-
 
 ::: {.column width="50%"}
 #### Types & Functions of Main Headings
 
 A. *Topical Headings*
 
-- It represents a concept or object treated in in a bibliographic item. It reflects what the item is about. Eg. Economy, German language, Soldiers as artists
+-   It represents a concept or object treated in in a bibliographic
+    item. It reflects what the item is about. Eg. Economy, German
+    language, Soldiers as artists
 :::
 :::
 
+## LCSH (Cont.)
+
+::: columns
+::: {.column width="50%"}
+B. *Form Headings*
+
+-   A form heading reflects the form of the material
+
+-   There are various forms of reading material in the library. Eg. (a)
+    Bibliographic Form (b) Artistic and Literary form
+:::
+
+::: {.column width="50%"}
+#### Syntax
+
+**Topical and form headings**
+
+-   All main headings consist of single nouns or noun equivalents. Noun
+    equivalents may be in the form of adjectives or gerunds or in the
+    form of adjectival phrases, conjunctive phrases, or prepositional
+    phrases
+
+-   Qualifiers are added to headings when necessary
+:::
+:::
+
+## LCSH (Cont.)
+
+A. *Single Noun Headings*
+
+-   Many topical and form headings consist of a single noun or a noun
+    equivalent in the form of a single adjective or gerund
+
+-   Nouns representing concrete objects are normally in the plural form,
+    and nouns representing abstract concepts appear in the singular.
+    Examples Enzymes, Running, Art, Education, Religion, Philosophies,
+    Deaf, Agriculture
+
+## LCSH (Cont.)
+
+::: columns
+::: {.column width="50%"}
+B. *Phrase Headings*
+
+-   Some concepts that involve two areas of knowledge can be expressed
+    only by more or less complex phrases. Example Bible as literature,
+    Freedom of information
+
+-   There are various types of Phrase Headings which are as follows:
+:::
+
+::: {.column width="50%"}
+1)  *Adjectival headings:* Computer architecture, Social classes
+2)  *Conjunctive phrase headings:* Children and politics, Boats and
+    boating
+3)  *Prepositional phrase headings:* Directors of Corporations, Doctor
+    of philosophy degree
+4)  *Inverted phrase headings:* Children's literature - Canadian,
+    Education - Higher, Taxation - Exemption from
+:::
+:::
+
+## LCSH (Cont.)
+
+::: columns
+::: {.column width="50%"}
+4.  [**Subdivisions**]{style="color: blue;"}
+
+-   Subdivisions are extensions of the main heading. They normally
+    represent aspects of the main heading
+
+i)  *Topical subdivisions:* Intellectual life, Marketing, Religious
+    aspects
+ii) *Form subdivisions:* Bibliography, Periodicals, Poetry, Tables
+:::
+
+::: {.column width="50%"}
+iii) *Geographic subdivisions:* Geographic subdivision again divided in
+     to two parts namely
+
+<!-- -->
+
+a.  *Direct Subdivision:* Music-Japan, Music-California
+b.  *Indirect Subdivision:* Music-France-Paris, Music-Ontario-Toronto
+:::
+:::
+
+## LCSH (Cont.)
+
+iv) *Chronological subdivisions*
+
+-   Art, Modern-20th century
+-   India-History-1800-1899 (19th century)
+-   France-History-Revolution, 1797-1802
+-   Lebanon-History-1982-1984
+-   Poland-Economic conditions-1945-
+-   United States-History-1945-1953
+-   Bermuda Islands-Description andtravel-1979-
+
+## LCSH (Cont.)
+
+5.  [**Pre-coordination and synthesis**]{style="color: blue;"}
+
+-   A heading may contain a single concept or a combination of multiple
+    concepts
+
+-   The combination may be formed when the heading is being established
+    or when it is assigned to a particular bibliographic item
+
+A. *Multiple-concept main headings:* Children and politics, Electricity
+in art, Religious education of teenage boys
+
+B. *Headings with Subdivisions:* Birth control-Moral and ethical
+aspects, Cinematography-Electronic equipment, Philosophy and
+Ancient-Oriental
+
+## LCSH (Cont.)
+
+6.  [**Term Relationship**]{style="color: blue;"}
+
+-   There are four types of term relationships in LCSH
+
+A. Equivalence relationships
+
+-   USE references are made from unauthorized or non preferred terms to
+    an authorized or preferred heading
+
+-   UF (Used For) precedes the term not used
+
+-   The codes USE and UF function as reciprocals
+
+![](images/equi.png){fig-align="center"}
+
+## LCSH (Cont.)
+
+B. Hierarchical relationships
+
+![](images/bt-nt.png){fig-align="center"}
+
+## LCSH (Cont.)
+
+C. Associative relationships
+![](images/associative.png){fig-align="center"}
+
+## LCSH (Cont.)
+
+D. General and Specific references
+
+-   A general reference is a reference made not to specific individual
+    headings but to an entire group of headings, frequently listing one
+    or more headings by way of example
+
+-   It is denoted by *see also (SA)*
+
+- Example:
+
+    - Chemistry
+
+       - SA headings beginning with the word Chemical
