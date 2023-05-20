@@ -1164,14 +1164,6 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 
 ## TAXONOMY (Cont.)
 
-![](images/Taxonomy-4.jpg){fig-align="center" width="5000"}
-
-## TAXONOMY (Cont.)
-
-![](images/Taxonomy-5.jpg){fig-align="center" width="5000"}
-
-## TAXONOMY (Cont.)
-
 ![](images/Taxonomy-6.jpg){fig-align="center" width="5000"}
 
 # RELATIONAL CONTROLLED VOCABULARY {background-color="#438496"}
@@ -1202,19 +1194,6 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 
 ## ONTOLOGY
 
-![](images/Ontology-2.jpg){fig-align="center" width="5000"}
-
-## ONTOLOGY (Cont.)
-
-![](images/Ontology-3.jpg){fig-align="center" width="5000"}
-
-## ONTOLOGY (Cont.)
-
-![](images/Ontology-4.jpg){fig-align="center" width="5000"}
-
-## ONTOLOGY (Cont.)
-
-![](images/Ontology-5.jpg){fig-align="center" width="5000"}
 
 ## ONTOLOGY (Cont.)
 
@@ -1233,6 +1212,19 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 ![](images/Ontology-9.jpg){fig-align="center" width="5000"}
 
 ## SEMANTIC WEB
+
+![](images/Ontology-2.jpg){fig-align="center" width="5000"}
+
+## SEMANTIC WEB (Cont.)
+
+![](images/Ontology-3.jpg){fig-align="center" width="5000"}
+
+## SEMANTIC WEB (Cont.)
+
+
+![](images/Ontology-4.jpg){fig-align="center" width="5000"}
+
+## SEMANTIC WEB (Cont.)
 
 ![](images/Semantic%20Network-2.jpg){fig-align="center" width="5000"}
 
