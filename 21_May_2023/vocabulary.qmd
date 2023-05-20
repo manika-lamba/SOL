@@ -29,17 +29,7 @@ editor:
   markdown: 
     wrap: 72
 ---
-# CONTROLLED VOCABULARY VS. NATURAL LANGUAGE {background-color="#438496"}
 
-![](images/99.jpg){fig-align="center" width="5000"}
-
-## CV Vs. Natural Language (Cont.)
-
-![](images/100.jpg){fig-align="center" width="5000"}
-
-## CV Vs. Natural Language (Cont.)
-
-![](images/101.jpg){fig-align="center" width="5000"}
 
 # VOCABULARY & CONTROLLED VOCABULARY {background-color="#438496"}
 
@@ -119,6 +109,18 @@ editor:
     this case** - have to be chosen to handle choice between variant
     spelling of the same words, choice among the scientific and popular
     terms and choice between synonyms among other different issues
+
+# CONTROLLED VOCABULARY VS. NATURAL LANGUAGE {background-color="#438496"}
+
+![](images/99.jpg){fig-align="center" width="5000"}
+
+## CV Vs. Natural Language (Cont.)
+
+![](images/100.jpg){fig-align="center" width="5000"}
+
+## CV Vs. Natural Language (Cont.)
+
+![](images/101.jpg){fig-align="center" width="5000"}
 
 # CV: PURPOSE, CHARACTERSTICS, CATEGORIES, & TYPES {background-color="#438496"}
 
