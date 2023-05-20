@@ -29,6 +29,17 @@ editor:
   markdown: 
     wrap: 72
 ---
+# CONTROLLED VOCABULARY VS. NATURAL LANGUAGE {background-color="#438496"}
+
+![](images/99.jpg){fig-align="center" width="5000"}
+
+## CV Vs. Natural Language (Cont.)
+
+![](images/100.jpg){fig-align="center" width="5000"}
+
+## CV Vs. Natural Language (Cont.)
+
+![](images/101.jpg){fig-align="center" width="5000"}
 
 # VOCABULARY & CONTROLLED VOCABULARY {background-color="#438496"}
 
@@ -1132,7 +1143,7 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 
 ## SEARS LIST (Cont.)
 
-![](images/cv-1.jpg){fig-align="center" width="1000"} 
+![](images/cv-1.jpg){fig-align="center" width="1000"}
 
 ## SEARS LIST (Cont.)
 
@@ -1157,6 +1168,13 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 ## TAXONOMY
 
 ![](images/Taxonomy-2.jpg){fig-align="center" width="5000"}
+
+-   It is the classification of entities in an ordered system that
+    indicates natural relationships
+
+-   Thus, taxonomy is a controlled vocabulary used to describe or
+    characterize explicit concepts of information, fur purpose of
+    capture, management, & presentation
 
 ## TAXONOMY (Cont.)
 
@@ -1194,52 +1212,114 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 
 ## ONTOLOGY
 
-
 ## ONTOLOGY (Cont.)
 
-![](images/Ontology-6.jpg){fig-align="center" width="5000"}
+-   A defined data model that describe **structured** and
+    **unstructured** information through
 
-## ONTOLOGY (Cont.)
+    -   **entities**
+    -   their **properties**
+    -   the way they **related** to one another
 
-![](images/Ontology-7.jpg){fig-align="center" width="5000"}
+-   Ontologies provides context
 
-## ONTOLOGY (Cont.)
+-   Effective ontologies require a deep understanding of the knowledge
+    domain
 
-![](images/Ontology-8.jpg){fig-align="center" width="5000"}
-
-## ONTOLOGY (Cont.)
-
-![](images/Ontology-9.jpg){fig-align="center" width="5000"}
+-   Example: Digital Library
 
 ## SEMANTIC WEB
 
-![](images/Ontology-2.jpg){fig-align="center" width="5000"}
+::: columns
+::: {.column width="50%"}
+-   **Connections through Citations**: Before the internet, you had
+    scientists and individuals writing long documents that had
+    references to other documents and those references were in the form
+    of citations
+:::
+
+::: {.column width="50%"}
+-   **Tedious Job of Finding the Citation (Might not even Accessible to
+    you)**: As a reader of one of these documents, you read the citation
+    and send out via mail for a copy of the document/visit the library
+:::
+:::
 
 ## SEMANTIC WEB (Cont.)
 
-![](images/Ontology-3.jpg){fig-align="center" width="5000"}
+#### Web 1.0 - Web of Documents: Great invention - Hyperlink!
+
+::: columns
+::: {.column width="50%"}
+![](images/semantic.png){fig-align="center" width="1200"}
+
+![](images/3.png){fig-align="center" width="1200"}
+:::
+
+::: {.column width="50%"}
+![](images/4.png){fig-align="center" width="1200"}
+:::
+:::
 
 ## SEMANTIC WEB (Cont.)
 
+#### Web 2.0 Application Silos
 
-![](images/Ontology-4.jpg){fig-align="center" width="5000"}
+*Application Silos: An application that does not interact with other
+applications or information systems*
+
+![](images/5.png){fig-align="center" width="1200"}
+
 
 ## SEMANTIC WEB (Cont.)
 
-![](images/Semantic%20Network-2.jpg){fig-align="center" width="5000"}
+![](images/6.png){fig-align="center" width="1200"}
 
 ## SEMANTIC WEB (Cont.)
 
-![](images/Semantic%20Network-3.jpg){fig-align="center" width="5000"}
+::: columns
+::: {.column width="50%"}
+-   Not just the documents, not just the high-level links between
+    applications but to connect the data at a lower level
 
-# CONTROLLED VOCABULARY VS. NATURAL LANGUAGE {background-color="#438496"}
+-   So that that the data stored on one application would be shareable
+    and connectable in another app
 
-![](images/99.jpg){fig-align="center" width="5000"}
+-   Go beyond just the document and get at the data level so that
+    specific data elements can be
+:::
 
-## CV Vs. Natural Language (Cont.)
+::: {.column width="50%"}
+referenced between documents
 
-![](images/100.jpg){fig-align="center" width="5000"}
+![](images/7.png)
+:::
+:::
 
-## CV Vs. Natural Language (Cont.)
+## SEMANTIC WEB (Cont.)
+::: columns
+::: {.column width="50%"}
+![](images/8.png) 
+:::
 
-![](images/101.jpg){fig-align="center" width="5000"}
+
+::: {.column width="50%"}
+- The main advantage is that you do not have to think about specific document but think about data and information
+
+- As Web 1.0 enabled you to not have to think about where the information was sitting you didn't have to think about the network layer and the machine layer 
+:::
+:::
+
+## SEMANTIC WEB (Cont.)
+
+::: columns
+::: {.column width="50%"}
+![](images/9.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+- Similarly, Semantic Web enables you to not have to think about specific document locations 
+- Semantic Web helps in representing information at a lower level than documents little facts and it connects them 
+:::
+:::
+
