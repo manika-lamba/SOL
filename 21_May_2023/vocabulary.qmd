@@ -30,7 +30,6 @@ editor:
     wrap: 72
 ---
 
-
 # VOCABULARY & CONTROLLED VOCABULARY {background-color="#438496"}
 
 ## WHAT IS VOCABULARY?
@@ -78,8 +77,7 @@ editor:
     (including Librarians and information scientist) who posses
     expertise in the subject area
 
--   CV terms can accurately describe what a given document is actually
-    about, even if the terms themselves don not occurs within the text
+-   CV terms can accurately describe what a given document is actually about, even if the terms themselves do not occurs within the text
 
 -   Fully developed CV systems are LCSH, Sears List, Thesaurus etc.
 
@@ -1272,7 +1270,6 @@ applications or information systems*
 
 ![](images/5.png){fig-align="center" width="1200"}
 
-
 ## SEMANTIC WEB (Cont.)
 
 ![](images/6.png){fig-align="center" width="1200"}
@@ -1299,16 +1296,19 @@ referenced between documents
 :::
 
 ## SEMANTIC WEB (Cont.)
+
 ::: columns
 ::: {.column width="50%"}
-![](images/8.png) 
+![](images/8.png)
 :::
 
-
 ::: {.column width="50%"}
-- The main advantage is that you do not have to think about specific document but think about data and information
+-   The main advantage is that you do not have to think about specific
+    document but think about data and information
 
-- As Web 1.0 enabled you to not have to think about where the information was sitting you didn't have to think about the network layer and the machine layer 
+-   As Web 1.0 enabled you to not have to think about where the
+    information was sitting you didn't have to think about the network
+    layer and the machine layer
 :::
 :::
 
@@ -1320,8 +1320,9 @@ referenced between documents
 :::
 
 ::: {.column width="50%"}
-- Similarly, Semantic Web enables you to not have to think about specific document locations 
-- Semantic Web helps in representing information at a lower level than documents little facts and it connects them 
+-   Similarly, Semantic Web enables you to not have to think about
+    specific document locations
+-   Semantic Web helps in representing information at a lower level than
+    documents little facts and it connects them
 :::
 :::
-
