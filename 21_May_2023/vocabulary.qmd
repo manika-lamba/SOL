@@ -1300,3 +1300,29 @@ referenced between documents
     documents little facts and it connects them
 :::
 :::
+
+## PREVIOUS YEAR QUESTIONS
+
+#### Long Questions (12.5 Marks)
+
+Q1: Explain why controlled vocabulary is important for information storage and retrieval.
+
+Q2: Define the concepts of 'Controlled Vocabulary', 'Ontology' and 'Thesaurus'? Discuss the various types of relationship among the terms in a thesaurus.
+
+Q3: What do you understand by Semantic Web? Discuss the key technology of Semantic Web.
+
+Q4: Explain the need and purpose of controlled vocabulary in information storage and retrieval. Discuss thesaurus as a tool in information organization and retrieval and their  relationship among the terms found in a thesaurus.
+
+
+
+## PREVIOUS YEAR QUESTIONS (Cont.)
+Q5: What do you understand by controlled vocabulary? Discuss the need and usefulness of controlled vocabulary in information storage and retrieval
+
+
+Q6: Discuss the structure, principles, and usefulness of Sears List of Subject Headings in information storage and retrieval
+
+#### Short Questions (5 Marks)
+
+1. Sears List of Subject Heading
+
+2. Semantic Web
