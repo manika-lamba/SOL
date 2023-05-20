@@ -34,15 +34,14 @@ editor:
 
 ## WHAT IS VOCABULARY?
 
--   Vocabulary is a set of terms (words, codes, etc.) that are used in a
+-   Vocabulary is a [set of terms]{style="color: blue;"} (words, codes, etc.) that are used in a
     specific community
 
 -   It provides a mechanism for communication (written, oral, or
     electronic) as the meaning of terms are known & agreed upon by the
     community members
 
--   When a vocabulary is formally *managed*, it becomes **Controlled
-    Vocabulary**. Where *managed* means the terms are stored &
+-   When a vocabulary is [formally *managed*]{style="color: blue;"}, it becomes **Controlled Vocabulary**. Where *managed* means the terms are stored &
     maintained using agreed-upon *procedures*
 
 -   *Procedures* should exist for adding terms, modifying terms, & more
@@ -59,27 +58,20 @@ editor:
 
 : Table 1: Indexes and controlled vocabularies compared
 
-## DIFFERENCES BETWEEN INDEX & VOCABULARY? (Cont.)
-
--   Indexes and CVs are intimately connected
--   For example, it is often the case that for large or long-term
-    indexing projects, such as journal or newspaper indexes, a CV is
-    created first to ensure consistency in indexing by multiple indexers
-    over long time spans
 
 ## CONTROLLED VOCABULARY (CV)
 
--   CV is a carefully selected list of words and phrase, which are used
-    to tag units of **information** so that they may be more easily
+-   CV is a [carefully selected list of words and phrase]{style="color: blue;"}, which are used
+    to tag units of information so that they may be more easily
     retrieved by a search
 
--   The terms are chosen by and organized by trained professionals
+-   The terms are [chosen by]{style="color: blue;"} and organized by trained professionals
     (including Librarians and information scientist) who posses
     expertise in the subject area
 
--   CV terms can accurately describe what a given document is actually about, even if the terms themselves do not occurs within the text
+-   CV terms can [accurately describe what a given document is actually about]{style="color: blue;"}, even if the terms themselves do not occurs within the text
 
--   Fully developed CV systems are LCSH, Sears List, Thesaurus etc.
+-   Fully developed CV systems are [LCSH, Sears List, Thesaurus]{style="color: blue;"} etc.
 
 ## CONTROLLED VOCABULARY (Cont.)
 
@@ -87,26 +79,20 @@ editor:
 ::: {.column width="50%"}
 -   In other words, CV is a collection of terms that are:
 
-    -   **Accepted**: Terms must adhere to community practices
-    -   **Defined**: Terms are precisely characterized. Typically, this
+    -   **Accepted**: Terms must [adhere to community practices]{style="color: blue;"}
+    -   **Defined**: Terms are [precisely characterized]{style="color: blue;"}. Typically, this
         means the terms have rigorous definitions
 :::
 
 ::: {.column width="50%"}
--   **Managed**: In general, there will be a body of experts that create
-    and maintain the CV. The maintenance of CV will involve periodic
-    review, addition of new terms, modification of terms, and
+-   **Managed**: In general, there will be a body of [experts that create
+    and maintain the CV]{style="color: blue;"}. The maintenance of CV will involve periodic
+    [review, addition of new terms, modification of terms]{style="color: blue;"}, and
     occasionally deprecation of terms
 :::
 :::
 
-## CONTROLLED VOCABULARY (Cont.)
 
--   For example in the LCSH (a subject heading system that uses a
-    controlled vocabulary), **authorized terms**- **subject heading in
-    this case** - have to be chosen to handle choice between variant
-    spelling of the same words, choice among the scientific and popular
-    terms and choice between synonyms among other different issues
 
 # CONTROLLED VOCABULARY VS. NATURAL LANGUAGE {background-color="#438496"}
 
@@ -124,33 +110,33 @@ editor:
 
 ## PURPOSE OF CV
 
-#### CV can serve several different purposes:
+#### [CV can serve several different purposes:]{style="color: blue;"}
 
--   It can help users to find data (also known as a **discovery
+-   It can help users to [find data]{style="color: blue;"} (also known as a **discovery
     vocabulary**)
 
--   It can assist in the interpretation of data (also known as **usage
+-   It can assist in the [interpretation of data]{style="color: blue;"} (also known as **usage
     vocabulary**)
 
--   It can provide human-understandable meaning (also known as
+-   It can provide [human-understandable]{style="color: blue;"} meaning (also known as
     **semantic vocabulary**)
 
--   It can produce machine-readable format information (also known as
+-   It can produce [machine-readable format]{style="color: blue;"} information (also known as
     **syntactic vocabulary**)
 
 ## PURPOSE OF CV (Cont.)
 
-#### CV provide these abilities by:
+#### [CV provide these abilities by:]{style="color: blue;"}
 
--   Establishing the permissible terms to be used
--   Maintaining the proper and agreed-upon spelling of the terms
--   Clarifying terms for those who are new to the community
--   Eliminating the use of arbitrary terms that can cause
-    inconsistencies and confusion
+-   Establishing the [permissible terms]{style="color: blue;"} to be used
+-   Maintaining the [proper and agreed-upon spelling]{style="color: blue;"} of the terms
+-   [Clarifying terms]{style="color: blue;"} for those who are new to the community
+-   [Eliminating]{style="color: blue;"} the use of arbitrary terms that can cause
+    [inconsistencies and confusion]{style="color: blue;"}
 
-From the above we can say that CV ensure consistencies in indexing,
+From the above we can say that [CV ensure consistencies in indexing,
 tagging or categorizing and to guide the user where the desire
-information is
+information is]{style="color: blue;"}
 
 ## WITH AND WITHOUT CV
 
@@ -183,7 +169,7 @@ width="1300"}
 -   So, using "automobiles" as ["preferred term"]{style="color: blue;"}
     & "cars" as variant term that is representing the same concept
 
--   There are many examples where alternate terms are used:
+-   There are many [examples where alternate terms are used]{style="color: blue;"}:
 
 a)  [Synonyms]{style="color: blue;"} (two words with the same meaning,
     like "jeans" and "dungarees")
@@ -212,11 +198,10 @@ g)  [Connecting abbreviations]{style="color: blue;"} to the full word
 :::
 
 ::: {.column width="50%"}
-#### Types of Equivalence Relationship:
+#### [Types of Equivalence Relationship:]{style="color: blue;"}
 
--   There are 2 types of synonym equivalence lists - [Synonym
-    rings]{style="color: blue;"}: They are used in searching behind the
-    scenes as a way to connect various terms of a concept. EG. When
+-   There are 2 types of synonym equivalence lists - **Synonym rings**: They are used in [searching behind the
+    scenes as a way to connect various terms of a concept]{style="color: blue;"}. EG. When
     someone searches for "Si", give them all documents with both "Si" &
     "Silicon"
 :::
@@ -224,11 +209,11 @@ g)  [Connecting abbreviations]{style="color: blue;"} to the full word
 
 ## CHARACTERISTICS OF CV (Cont.)
 
-#### Types of Equivalence Relationship (Cont.)
+#### [Types of Equivalence Relationship (Cont.)]{style="color: blue;"}
 
--   [Authority files]{style="color: blue;"}: When you need to display
-    one of these terms in your navigation and pick one to be a preferred
-    term, then you have an authority file
+- **Authority files**: When you need to [display
+    one of the terms in your navigation and pick one to be a preferred
+    term]{style="color: blue;"}, then you have an authority file
 
 2.  **Hierarchical Relationship**
 
@@ -251,29 +236,29 @@ g)  [Connecting abbreviations]{style="color: blue;"} to the full word
     -   **NT** Internet access for library users
         -   Library catalogs and users
 
--   It can help you formulate your homepage navigation. It could improve
-    your searching and browsing. It can help users broaden and narrow
-    their search results quickly by showing them where each set of
+-   It can help you formulate your [homepage navigation]{style="color: blue;"}. It could [improve
+    your searching and browsing]{style="color: blue;"}. It can help users [broaden and narrow
+    their search results quickly]{style="color: blue;"} by showing them where each set of
     results fits into the site's hierarchy
 
 ## CHARACTERISTICS OF CV (Cont.)
 
 4.  **Associative Relationship**
 
--   It denotes the relationship between the term that is neither
+-   It denotes the [relationship between the term]{style="color: blue;"} that is neither
     hierarchical nor equivalence
 
 -   Yet the terms are mentally associated to such an extent that link
     between them should be made explicit in CV and revel alternative
     terms that could be used in indexing or retrieval
 
--   It is very difficult to define the relationship between the term and
-    therefore to determine between a pairs of terms, some guidelines are
+-   It is very [difficult to define the relationship]{style="color: blue;"} between the term and
+    therefore to determine between a pairs of terms, [some guidelines]{style="color: blue;"} are
     follow:
 
 ## CHARACTERISTICS OF CV (Cont.)
 
-#### The Associative terms are divided into two categories:
+#### [The Associative terms are divided into two categories:]{style="color: blue;"}
 
 i)  [Terms belonging to the same category]{style="color: blue;"}. For
     example *Sibling* with overlapping meaning, such as 'Ship' and
@@ -283,9 +268,6 @@ ii) [Terms belong to different categories]{style="color: blue;"}. The
     an action or product and product of the action. Such as Programming
     \<-\> Software
 
-## CV CATEGORY & TYPES
-
-> `To many people, the English language is a well-known vocabulary. We have many ways of representing the terms in the English language. For example, if we want to figure out what a specific word means we might consult a glossary; if we want to know the origin of a term we might consult a dictionary; and if we want to know how the term relates to other terms we might consult a thesaurus. We also need to recognize that the meaning of terms may change through time. Generations use terms in different ways (cool in one generation means a low temperature, while cool in another is a positive adjective).`
 
 ## CV CATEGORY & TYPES (Cont.)
 
@@ -307,8 +289,8 @@ ii) [Terms belong to different categories]{style="color: blue;"}. The
 
 1.  **Authority Files**
 
--   These are the lists of terms that are used to control the variant
-    names for an entity or the domain value for a particular field
+-   These are the lists of terms that are used to [control the variant
+    names]{style="color: blue;"} for an entity or the domain value for a particular field
 
 -   EG. names for *countries, individuals, organizations*
 
@@ -338,12 +320,12 @@ ii) [Terms belong to different categories]{style="color: blue;"}. The
 
 2.  **Glossaries**
 
--   A glossary is a list of terms, usually with definitions
+-   A glossary is a list of terms, usually with [definitions]{style="color: blue;"}
 
--   Terms may be from a specific subject field or from a particular work
+-   Terms may be from a [specific subject field]{style="color: blue;"} or from a particular work
 
--   Terms are defined within a specific environment and rarely include
-    variant meanings
+-   Terms are defined within a [specific environment and rarely include
+    variant meanings]{style="color: blue;"} 
 
 -   EG. Environmental Protection Agency (EPA), Terms of the Environment,
     Glossary of Library and Information Science
@@ -354,21 +336,21 @@ ii) [Terms belong to different categories]{style="color: blue;"}. The
 ::: {.column width="50%"}
 3.  **Dictionaries**
 
--   Dictionaries are alphabetical lists of words and their definitions
+-   Dictionaries are [alphabetical lists of words and their definitions]{style="color: blue;"} 
 
--   Variant senses are provided where applicable
+-   [Variant]{style="color: blue;"}  senses are provided where applicable
 
--   Dictionaries are more general in scope than are glossaries
+-   Dictionaries are more [general in scope]{style="color: blue;"}  than are glossaries
 
--   They may also provide information about the origin of a word,
-    variants
+-   They may also provide information about the [origin of a word,
+    variants]{style="color: blue;"} 
 :::
 
 ::: {.column width="50%"}
-(by spelling and morphology), and multiple meanings across disciplines -
-While a dictionary may also provide synonyms and through the
-definitions, related words, there is no explicit hierarchical structure
-or attempt to group them by concept
+(by spelling and morphology), and [multiple meanings across disciplines]{style="color: blue;"}  -
+While a dictionary may also provide [synonyms]{style="color: blue;"}  and through the
+definitions, related words, there is [no explicit hierarchical structure
+or attempt to group them by concept]{style="color: blue;"} 
 
 -   EG. Oxford English Dictionary, Subject Dictionary
 :::
@@ -380,26 +362,26 @@ or attempt to group them by concept
 ::: {.column width="50%"}
 4.  **Gazetters**
 
--   A gazetter is a list of place names
+-   A gazetter is a [list of place names]{style="color: blue;"} 
 
 -   Traditional gazetters have been published as books or have appeared
     as indexes to atlases
 
--   Each entry may also be identified by feature type, such as river,
+-   [Each entry may also be identified by feature type]{style="color: blue;"}, such as river,
     city, or school
 
 -   Geospatially referenced
 :::
 
 ::: {.column width="50%"}
-gazatteers provide coordinates for locating the place on the earth's
+gazatteers provide [coordinates]{style="color: blue;"}  for locating the place on the earth's
 surface
 
 -   The term gazetteer has several other meanings, including
     announcement publication such as a patent or legal gazetteer
 
--   These gazetters are often organized using classification schemes or
-    subject categories
+-   These gazetters are often [organized using classification schemes or
+    subject categories]{style="color: blue;"} 
 
 -   EG U.S. Code of Geographic Names
 :::
@@ -420,8 +402,8 @@ surface
 ::: {.column width="50%"}
 1.  **Subject Headings**
 
--   This scheme type provides a set of controlled terms to represent the
-    subjects of items in a collection
+-   This scheme type provides [a set of controlled terms to represent the
+    subjects]{style="color: blue;"} of items in a collection
 
 -   The main objective of subject cataloguing is to fulfill the subject
     related needs of the readers
@@ -430,22 +412,22 @@ surface
 :::
 
 ::: {.column width="50%"}
-summarizing the thought content of the document in to a no. of accepted
+[summarizing the thought content]{style="color: blue;"}  of the document in to a no. of accepted
 term
 
 -   Subject Heading schemes are:
 
-    -   Medical Subject Headings (MeSH)
-    -   Library of Congress Headings (LCSH)
-    -   SEARS List of Subject Headings
+    -   [**Medical Subject Headings (MeSH)**]{style="color: blue;"} 
+    -   [**Library of Congress Headings (LCSH)**]{style="color: blue;"} 
+    -   [**SEARS List of Subject Headings**]{style="color: blue;"} 
 :::
 :::
 
 ## MEDICAL SUBJECT HEADING (MeSH)
 
--   MeSH is the controlled vocabulary thesaurus that gives uniformity
+-   MeSH is the controlled vocabulary [thesaurus that gives uniformity
     and consistency to the indexing and cataloging of biomedical
-    literature. It connects all the different ways to express a concept,
+    literature]{style="color: blue;"} . It [connects all the different ways to express a concept]{style="color: red;"} ,
     such as "cancer."
 
 -   MeSH are standardized vocabulary of app. 20,000 terms that describe
@@ -453,7 +435,7 @@ term
     MEDLINE is directly searchable from PubMed
 
 -   MeSH consists of a set of terms or subject headings that are
-    arranged in both an alphabetic and a hierarchical structure
+    arranged in both an [alphabetic and a hierarchical structure]{style="color: blue;"} 
 
 -   MeSH thesaurus is produced by the National Library of Medicine (NLM)
 
@@ -472,35 +454,27 @@ term
     topic, even if different terminology was used in the records
 
 ## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
-
 ::: columns
 ::: {.column width="50%"}
--   MeSH vocabulary includes several important features. The four most
+-   MeSH vocabulary includes several [important features]{style="color: blue;"}. The four most
     important are:
 
 i)  **Main Headings (MeSH headings/preferred terms/descriptors)**
 
--   They represent concepts found in the biomedical literature
+
+-   They represent [concepts]{style="color: blue;"} found in the biomedical literature
+
+
 :::
+
 
 ::: {.column width="50%"}
--   These records are topical headings that are used to index citations
-    in MEDLINE, for cataloging of publications, and for use in other
-    databases
-
--   Most main headings indicate the subject of an indexed item
-
--   For a journal article, main headings describe what the article is
-    about
-:::
-:::
-
-## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
-
 -   Main headings are generally added or revised in MeSH vocabulary on
     an annual basis
-
+    
 ![](images/MainHeadings.png){fig-align="center"}
+:::
+:::
 
 ## MEDICAL SUBJECT HEADING (MeSH) (Cont.)
 
@@ -508,11 +482,11 @@ i)  **Main Headings (MeSH headings/preferred terms/descriptors)**
 ::: {.column width="50%"}
 ii) **Subheadings (qualifiers)**
 
--   They are associated with MeSH main headings to pinpoint the specific
+-   They are [associated with MeSH main headings]{style="color: blue;"} to pinpoint the specific
     aspect of the concept represented by the subject heading
 
--   They are a way of grouping together those citations that are
-    concerned with a particular characteristics
+-   They are a way of [grouping together those citations]{style="color: blue;"} that are
+    concerned with a particular [characteristics]{style="color: blue;"}
 :::
 
 ::: {.column width="50%"}
@@ -531,8 +505,8 @@ of a subject
 ::: {.column width="50%"}
 iii) **Check Tags**
 
--   These are special use descriptors that do not represent subject
-    matter per se but that reflect parameters or aspects of subject
+-   These are [special use descriptors]{style="color: blue;"} that do not represent subject
+    matter per se but that [reflect parameters or aspects]{style="color: blue;"} of subject
     concept
 
 -   Special efforts in indexing assures that these will be included or
@@ -556,21 +530,21 @@ aspects in an item being indexed
 ::: {.column width="50%"}
 iv) **Publication Characteristics (types)**
 
--   They describe the type of publication being indexed (i.e. format of
-    the publication) or characteristics of the research (i.e. research
-    design)
+-   They describe the [type of publication]{style="color: blue;"} being indexed (i.e. [format]{style="color: blue;"} of
+    the publication) or characteristics of the research (i.e. [research
+    design]{style="color: blue;"})
 
 -   They are also Publication Type term that describe
 :::
 
 ::: {.column width="50%"}
-what type of organization funded the research
+what type of [organization funded]{style="color: blue;"} the research
 
 -   They are of 3 main categories:
 
-    -   Publication Components (eg. Abstracts)
-    -   Publication Formats (eg. Lectures, Letter)
-    -   Study Characteristics (eg. Clinical Trial, Twin Study)
+    -   [Publication Components]{style="color: blue;"} (eg. Abstracts)
+    -   [Publication Formats]{style="color: blue;"} (eg. Lectures, Letter)
+    -   [Study Characteristics]{style="color: blue;"} (eg. Clinical Trial, Twin Study)
 :::
 :::
 
@@ -594,7 +568,7 @@ v)  **Age Group Headings**
 
 -   There is a collection of age group heading in MeSH which are
     assigned whenever someone in that age group is noted in a paper
--   All age groups listed in the paper are indexed. Age groups are
+-   [All age groups listed in the paper are indexed]{style="color: blue;"}. Age groups are
     rarely assigned to major MeSH field
 :::
 
@@ -638,7 +612,7 @@ v)  **Age Group Headings**
 
 ## LCSH (Cont.)
 
-#### Principles of Heading Construction
+#### [Principles of Heading Construction]{style="color: blue;"}
 
 1.  [Fundamental principles of LCSH]{style="color: blue;"}
 2.  [Structure of subject headings]{style="color: blue;"}
@@ -654,15 +628,15 @@ v)  **Age Group Headings**
 
 1.  [**Fundamental principles of LCSH**]{style="color: blue;"}
 
--   The fundamental principle guiding the development of LoC subject
-    headings system are effective responses to
+-   The fundamental principle guiding the [development of LoC]{style="color: blue;"} subject
+    headings system are [effective responses to]{style="color: blue;"}
 
-    -   User needs
-    -   Uniform heading (one heading per subject - control of synonyms)
-    -   Unique heading (one subject per heading control of homographs)
-    -   Specific & direct entry
-    -   Stability
-    -   Consistency
+    -   [User needs]{style="color: red;"}
+    -   [Uniform heading]{style="color: red;"} (one heading per subject - control of synonyms)
+    -   [Unique heading]{style="color: red;"} (one subject per heading control of homographs)
+    -   [Specific & direct entry]{style="color: red;"}
+    -   [Stability]{style="color: red;"}
+    -   [Consistency]{style="color: red;"}
 
 ## LCSH (Cont.)
 
@@ -670,7 +644,7 @@ v)  **Age Group Headings**
 ::: {.column width="50%"}
 2.  [**Structure of Subject Headings**]{style="color: blue;"}
 
-*A. Single Concept Headings*
+[*A. Single Concept Headings*]{style="color: red;"}
 
 -   Automobiles
 -   Botany
@@ -682,7 +656,7 @@ v)  **Age Group Headings**
 :::
 
 ::: {.column width="50%"}
-*B. Pre-coordinated Multiple-Concept Headings*
+[*B. Pre-coordinated Multiple-Concept Headings*]{style="color: red;"}
 
 -   Budget in business
 -   Church & industry
@@ -697,21 +671,21 @@ v)  **Age Group Headings**
 ::: {.column width="50%"}
 3.  [**Main Headings**]{style="color: blue;"}
 
--   It is that part of the subject heading string which represents the
-    main concept without subdivision
+-   It is that part of the subject heading string which [represents the
+    main concept without subdivision]{style="color: blue;"}
 
--   Main headings may be categorized according to their functions
+-   Main headings may be [categorized according to their functions]{style="color: blue;"}
     (topical headings, form headings, & different kinds of proper name
     headings)
 :::
 
 ::: {.column width="50%"}
-#### Types & Functions of Main Headings
+#### [Types & Functions of Main Headings]{style="color: blue;"}
 
-A. *Topical Headings*
+[A. *Topical Headings*]{style="color: blue;"}
 
--   It represents a concept or object treated in in a bibliographic
-    item. It reflects what the item is about. Eg. Economy, German
+-   It represents a concept or object treated in a bibliographic
+    item. It reflects [what the item is about]{style="color: blue;"}. Eg. Economy, German
     language, Soldiers as artists
 :::
 :::
@@ -720,37 +694,37 @@ A. *Topical Headings*
 
 ::: columns
 ::: {.column width="50%"}
-B. *Form Headings*
+[B. *Form Headings*]{style="color: blue;"}
 
--   A form heading reflects the form of the material
+-   A form heading reflects the [form of the material]{style="color: blue;"}
 
 -   There are various forms of reading material in the library. Eg. (a)
-    Bibliographic Form (b) Artistic and Literary form
+    [Bibliographic Form]{style="color: blue;"} (b) [Artistic and Literary Form]{style="color: blue;"}
 :::
 
 ::: {.column width="50%"}
-#### Syntax
+#### [Syntax]{style="color: blue;"}
 
-**Topical and form headings**
+[**Topical and form headings**]{style="color: blue;"}
 
--   All main headings consist of single nouns or noun equivalents. Noun
+-   All [main headings consist of single nouns or noun equivalents]{style="color: blue;"}. Noun
     equivalents may be in the form of adjectives or gerunds or in the
     form of adjectival phrases, conjunctive phrases, or prepositional
     phrases
 
--   Qualifiers are added to headings when necessary
+-   [Qualifiers are added to headings when necessary]{style="color: blue;"}
 :::
 :::
 
 ## LCSH (Cont.)
 
-A. *Single Noun Headings*
+[A. *Single Noun Headings*]{style="color: blue;"}
 
--   Many topical and form headings consist of a single noun or a noun
-    equivalent in the form of a single adjective or gerund
+-   Many topical and form headings consist of a [single noun or a noun
+    equivalent]{style="color: blue;"} in the form of a single adjective or gerund
 
--   Nouns representing concrete objects are normally in the plural form,
-    and nouns representing abstract concepts appear in the singular.
+-   Nouns representing [concrete objects are normally in the plural form]{style="color: blue;"},
+    and nouns representing [abstract concepts appear in the singular]{style="color: blue;"}.
     Examples Enzymes, Running, Art, Education, Religion, Philosophies,
     Deaf, Agriculture
 
@@ -758,22 +732,21 @@ A. *Single Noun Headings*
 
 ::: columns
 ::: {.column width="50%"}
-B. *Phrase Headings*
+[B. *Phrase Headings*]{style="color: blue;"}
 
--   Some concepts that involve two areas of knowledge can be expressed
-    only by more or less complex phrases. Example Bible as literature,
+-   Some concepts that involve [two areas of knowledge]{style="color: blue;"} can be expressed by more or less [complex phrases]{style="color: blue;"}. Example Bible as literature,
     Freedom of information
 
--   There are various types of Phrase Headings which are as follows:
+-   There are [various types]{style="color: blue;"} of Phrase Headings which are as follows:
 :::
 
 ::: {.column width="50%"}
-1)  *Adjectival headings:* Computer architecture, Social classes
-2)  *Conjunctive phrase headings:* Children and politics, Boats and
+1)  [*Adjectival headings:*]{style="color: blue;"} Computer architecture, Social classes
+2)  [*Conjunctive phrase headings:*]{style="color: blue;"} Children and politics, Boats and
     boating
-3)  *Prepositional phrase headings:* Directors of Corporations, Doctor
+3)  [*Prepositional phrase headings:*]{style="color: blue;"} Directors of Corporations, Doctor
     of philosophy degree
-4)  *Inverted phrase headings:* Children's literature - Canadian,
+4)  [*Inverted phrase headings:*]{style="color: blue;"} Children's literature - Canadian,
     Education - Higher, Taxation - Exemption from
 :::
 :::
@@ -784,28 +757,29 @@ B. *Phrase Headings*
 ::: {.column width="50%"}
 4.  [**Subdivisions**]{style="color: blue;"}
 
--   Subdivisions are extensions of the main heading. They normally
-    represent aspects of the main heading
+-   Subdivisions are [extensions of the main heading]{style="color: blue;"}. They normally
+    [represent aspects of the main heading]{style="color: red;"}
 
-i)  *Topical subdivisions:* Intellectual life, Marketing, Religious
+i)  [*Topical subdivisions:*]{style="color: blue;"} Intellectual life, Marketing, Religious
     aspects
-ii) *Form subdivisions:* Bibliography, Periodicals, Poetry, Tables
+ii) [*Form subdivisions:*]{style="color: blue;"} Bibliography, Periodicals, Poetry, Tables
 :::
 
 ::: {.column width="50%"}
-iii) *Geographic subdivisions:* Geographic subdivision again divided in
+iii) [*Geographic subdivisions:*]{style="color: blue;"} Geographic subdivision again divided in
      to two parts namely
 
 <!-- -->
 
-a.  *Direct Subdivision:* Music-Japan, Music-California
-b.  *Indirect Subdivision:* Music-France-Paris, Music-Ontario-Toronto
+- [*Direct Subdivision:*]{style="color: blue;"} Music-Japan, Music-California
+
+- [*Indirect Subdivision:*]{style="color: blue;"} Music-France-Paris, Music-Ontario-Toronto
 :::
 :::
 
 ## LCSH (Cont.)
 
-iv) *Chronological subdivisions*
+iv) [*Chronological subdivisions*]{style="color: blue;"}
 
 -   Art, Modern-20th century
 -   India-History-1800-1899 (19th century)
@@ -813,22 +787,22 @@ iv) *Chronological subdivisions*
 -   Lebanon-History-1982-1984
 -   Poland-Economic conditions-1945-
 -   United States-History-1945-1953
--   Bermuda Islands-Description andtravel-1979-
+-   Bermuda Islands-Description and travel-1979-
 
 ## LCSH (Cont.)
 
 5.  [**Pre-coordination and synthesis**]{style="color: blue;"}
 
--   A heading may contain a single concept or a combination of multiple
-    concepts
+-   A heading may contain a [single concept or a combination of multiple
+    concepts]{style="color: blue;"}
 
 -   The combination may be formed when the heading is being established
     or when it is assigned to a particular bibliographic item
 
-A. *Multiple-concept main headings:* Children and politics, Electricity
+[A. *Multiple-concept main headings:*]{style="color: blue;"} Children and politics, Electricity
 in art, Religious education of teenage boys
 
-B. *Headings with Subdivisions:* Birth control-Moral and ethical
+[B. *Headings with Subdivisions:*]{style="color: blue;"} Birth control-Moral and ethical
 aspects, Cinematography-Electronic equipment, Philosophy and
 Ancient-Oriental
 
@@ -838,7 +812,7 @@ Ancient-Oriental
 
 -   There are four types of term relationships in LCSH
 
-A. Equivalence relationships
+[A. Equivalence relationships]{style="color: blue;"}
 
 -   USE references are made from unauthorized or non preferred terms to
     an authorized or preferred heading
@@ -851,24 +825,24 @@ A. Equivalence relationships
 
 ## LCSH (Cont.)
 
-B. Hierarchical relationships
+[B. Hierarchical relationships]{style="color: blue;"}
 
 ![](images/bt-nt.png){fig-align="center"}
 
 ## LCSH (Cont.)
 
-C. Associative relationships
-![](images/associative.png){fig-align="center"}
+[C. Associative relationships
+![](images/associative.png){fig-align="center"}]{style="color: blue;"}
 
 ## LCSH (Cont.)
 
-D. General and Specific references
+[D. General and Specific references]{style="color: blue;"}
 
 -   A general reference is a reference made not to specific individual
-    headings but to an entire group of headings, frequently listing one
+    headings but to an [entire group of headings]{style="color: blue;"}, frequently listing one
     or more headings by way of example
 
--   It is denoted by *see also (SA)*
+-   It is denoted by [*see also (SA)*]{style="color: blue;"}
 
 -   Example:
 
@@ -883,8 +857,8 @@ D. General and Specific references
 7.  [**Subject Heading for Special Materials in
     LCSH**]{style="color: blue;"}
 
--   The assignment of subject heading for audiovisual and special
-    instructional materials should follow the same principles that are
+-   The assignment of subject heading for [audiovisual and special
+    instructional materials]{style="color: blue;"} should follow the [same principles]{style="color: blue;"} that are
     applied to books
 
 -   The heading most specifically describing the contents of the
@@ -892,8 +866,6 @@ D. General and Specific references
 :::
 
 ::: {.column width="50%"}
--   And the same headings should be applied to book and non book
-    material alike
 
 -   Example:
 
@@ -913,16 +885,18 @@ D. General and Specific references
 ::: {.column width="50%"}
 8.  [**Scope Notes**]{style="color: blue;"}
 
--   Notes are provided under some headings in order to define the scope,
-    to explain the relationships among headings, and to assist in the
-    proper application of the headings so that consistency in assigning
+-   Notes are provided under some headings in order to [define the scope]{style="color: blue;"},
+    to [explain the relationships among headings]{style="color: blue;"}, and to [assist in the
+    proper application]{style="color: blue;"} of the headings so that consistency in assigning
     headings to documents on like subjects may be achieved
 :::
 
 ::: {.column width="50%"}
-A)  Definitions
-B)  Relations to other headings
-C)  Instructions, explanations
+[A)  Definitions]{style="color: blue;"}
+
+[B)  Relations to other headings]{style="color: blue;"}
+
+[C)  Instructions, explanations]{style="color: blue;"}
 :::
 :::
 
@@ -930,13 +904,13 @@ C)  Instructions, explanations
 
 9.  [**Class Numbers**]{style="color: blue;"}
 
--   A Library of Congress Classification number is added to a heading if
+-   A Library of Congress [Classification number is added to a heading]{style="color: blue;"} if
     the caption for the number is identical or nearly identical in
     scope, meaning, and language to the subject heading, or if the topic
     is explicitly mentioned in an "Including" note under the caption for
     the number
 
--   Multiple class numbers may be added to a heading when the subject is
+-   [Multiple class numbers]{style="color: blue;"} may be added to a heading when the subject is
     treated from more than one perspective
 
 -   For the heading of a subject covered by a span of class numbers, the
@@ -944,15 +918,15 @@ C)  Instructions, explanations
 
 ## LCSH (Cont.)
 
-#### DISADVANTAGES
+#### [DISADVANTAGES]{style="color: red;"}
 
 -   It is American biased
 
--   The words that are used in it are the words that are popular in
-    American dialect and which are not popular to Indian conditions
+-   The words that are used in it are the [words that are popular in
+    American dialect]{style="color: blue;"} and which are not popular to Indian conditions
 
--   Many discrepancies regarding the subject headings can also be seen
-    in its like
+-   Many [discrepancies]{style="color: blue;"} regarding the subject headings can also be seen
+    in it like
 
     -   Labor-Labour
 
@@ -995,22 +969,22 @@ and has been continuing with her name
     with addition of new word, modernize the terminology of old ones and
     so on
 
--   But the format continued the same with some new features such as the
-    addition of Abridged DDC numbers
+-   But the [format continued the same with some new features such as the
+    addition of Abridged DDC numbers]{style="color: blue;"}
 
 ## SEARS LIST (Cont.)
 
--   The orientation to the online environment started with the 13th
-    edition (1986) -15th edition is considered to be a innovative era of
+-   The orientation to the [online environment started with the 13th
+    edition (1986) - 15th edition]{style="color: blue;"} is considered to be a innovative era of
     Sears. The latest knowledge from information science and information
     seeking behavior has been deployed to modernize the internal
     structure and grammar of the sears List
 -   16th edition (1997), 17th edition (2000), 18th edition (2004), 19th
     edition (2007), 20th edition (2010), 21st (2014), 22nd edition
     (2018), 23rd edition (2022)
--   There are some changes has been seen in 15th edition like adoption
+-   There are some changes has been seen in [15th edition like adoption
     of thesaurus format by using abbreviations, i.e. NT, BT, RT, USE and
-    SA instead of X,XX etc. It gave every page a new look
+    SA instead of X,XX etc.]{style="color: blue;"} It gave every page a new look
 
 ## SEARS LIST (Cont.)
 
@@ -1028,7 +1002,7 @@ and has been continuing with her name
 
 ## SEARS LIST (Cont.)
 
-#### Principles of the SEARS list
+#### [Principles of the SEARS list]{style="color: blue;"}
 
 -   It is based on the principles of the LoC Subject headings
 
@@ -1036,8 +1010,8 @@ and has been continuing with her name
 
 1.  [**Specific Entry**]{style="color: blue;"}
 
--   It means that subject should be entered under its most specific
-    heading, not under the class to which it belongs. For example
+-   It means that subject should be entered under its most [specific
+    heading, not under the class to which it belongs]{style="color: blue;"}. For example
     -   Rose should be entered under "Rose"/"Lotus" not under "flowers"
     -   Penguin is entered "Penguins" not under Birds or even not under
         water Birds
@@ -1046,8 +1020,8 @@ and has been continuing with her name
 
 2.  [**Direct Entry**]{style="color: blue;"}
 
--   It means that specific headings should be entered directly as the
-    lead point, instead of a subdivision. For example
+-   It means that specific headings should be entered [directly as the
+    lead point, instead of a subdivision]{style="color: blue;"}. For example
 
     -   Penguin is entered Penguin instead of water birds-penguin
     -   "Barbie doll" instead of Dolls-Barbie doll.
@@ -1057,8 +1031,8 @@ and has been continuing with her name
 
 3.  [**Common Usage**]{style="color: blue;"}
 
--   If the word is more than one spelling, then the most popular one
-    chosen for common usage. For example
+-   If the word is more than one spelling, then the [most popular one
+    chosen for common usage]{style="color: blue;"}. For example
 
     -   Instead of "Ornithology" use Birds
     -   Instead of "Banquets" use Dinner
@@ -1069,10 +1043,10 @@ and has been continuing with her name
 
 ## SEARS LIST (Cont.)
 
-#### Structure of SEARS List
+#### [Structure of SEARS List]{style="color: blue;"}
 
--   Sears list is an alphabetical subject heading \[arranged word by
-    word according to ALA Filling Rules (1980)\]
+-   Sears list is an **alphabetical** subject heading {[arranged word by
+    word according]{style="color: blue;"} to ALA Filling Rules (1980)}
 -   Introductory part including the list of about 500 (common)
     subdivisions. It describes the brief history and principles of the
     Sears List
@@ -1083,18 +1057,18 @@ and has been continuing with her name
 
 ::: columns
 ::: {.column width="50%"}
-#### List of Subject Headings
+#### [List of Subject Headings]{style="color: blue;"}
 
 -   All the headings are of two types:
 
 A)  [**Non-preferred headings**]{style="color: blue;"}: These headings
-    are those which are not to be used. Such headings are given in light
-    type face print. Each such non-preferred heading is invariably
-    preceded by given a lead
+    are those which are [not to be used]{style="color: blue;"}. Such headings are given in [light
+    type face print]{style="color: blue;"}. Each such non-preferred heading is invariably
+    [preceded by given a lead]{style="color: blue;"}
 :::
 
 ::: {.column width="50%"}
-"USE" directing us to the preferred heading, e.g.
+["USE"]{style="color: blue;"} directing us to the preferred heading, e.g.
 
 -   Cyclopedias
     -   **Use Encyclopedias and Dictionaries**
@@ -1111,12 +1085,12 @@ A)  [**Non-preferred headings**]{style="color: blue;"}: These headings
 
 ::: columns
 ::: {.column width="50%"}
-B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
-    term represented in a bold face for use against the document content
+B)  [**Preferred headings**]{style="color: blue;"}: They are [authorized
+    term represented in a bold face]{style="color: blue;"} for use against the document content
 
--   These headings are broadly categorized e.g. ideas, objects, places,
+-   These headings are broadly categorized e.g. [ideas, objects, places,
     processes and relationships including DDC class number, scope notes,
-    instruction for its further subdivision
+    instruction for its further subdivision]{style="color: blue;"}
 :::
 
 ::: {.column width="50%"}
@@ -1247,7 +1221,7 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 
 ## SEMANTIC WEB (Cont.)
 
-#### Web 1.0 - Web of Documents: Great invention - Hyperlink!
+#### [Web 1.0 - Web of Documents: Great invention - Hyperlink!]{style="color: blue;"}
 
 ::: columns
 ::: {.column width="50%"}
@@ -1263,7 +1237,7 @@ B)  [**Preferred headings**]{style="color: blue;"}: They are authorized
 
 ## SEMANTIC WEB (Cont.)
 
-#### Web 2.0 Application Silos
+#### [Web 2.0 Application Silos]{style="color: blue;"}
 
 *Application Silos: An application that does not interact with other
 applications or information systems*
@@ -1279,13 +1253,13 @@ applications or information systems*
 ::: columns
 ::: {.column width="50%"}
 -   Not just the documents, not just the high-level links between
-    applications but to connect the data at a lower level
+    applications but to [connect the data at a lower level]{style="color: blue;"}
 
--   So that that the data stored on one application would be shareable
-    and connectable in another app
+-   So that that the data stored on one application would be [shareable
+    and connectable]{style="color: blue;"} in another app
 
 -   Go beyond just the document and get at the data level so that
-    specific data elements can be
+    [specific data elements]{style="color: blue;"} can be
 :::
 
 ::: {.column width="50%"}
@@ -1320,8 +1294,8 @@ referenced between documents
 :::
 
 ::: {.column width="50%"}
--   Similarly, Semantic Web enables you to not have to think about
-    specific document locations
+-   Similarly, Semantic Web enables you to [not have to think about
+    specific document locations]{style="color: blue;"}
 -   Semantic Web helps in representing information at a lower level than
     documents little facts and it connects them
 :::
