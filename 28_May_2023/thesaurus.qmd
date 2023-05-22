@@ -1,5 +1,5 @@
 ---
-title: THESAURUS
+title: "THESAURUS"
 subtitle: |
   **[Paper-M-108]{.orange}**
 author: |

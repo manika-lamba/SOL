@@ -321,8 +321,6 @@
       margin-right: 0; 
     }
   </style>
-  <link href="thesaurus_files/libs/panelset-0.2.6/panelset.css" rel="stylesheet">
-  <script src="thesaurus_files/libs/panelset-0.2.6/panelset.js"></script>
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
 </head>
 <body class="quarto-light">
@@ -336,14 +334,6 @@
   <p class="date">28th May 2023</p>
 </section>
 
-<section class="slide level2">
-
-<div class="cell">
-<div class="cell-output-display">
-
-</div>
-</div>
-</section>
 <section>
 <section id="thesaurus---history-definition" class="title-slide slide level1 center" data-background-color="#438496" data-background-image="background.svg" data-background-size="contain">
 <h1>THESAURUS - History, Definition</h1>
@@ -1050,48 +1040,6 @@
         ]
       });
     </script>
-    
-    <script>
-      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
-      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
-      // slide changes (different for each slide format).
-      (function () {
-        function fireSlideChanged(previousSlide, currentSlide) {
-
-          // dispatch for htmlwidgets
-          const event = window.document.createEvent("Event");
-          event.initEvent("slideenter", true, true);
-          window.document.dispatchEvent(event);
-
-          // dispatch for shiny
-          if (window.jQuery) {
-            if (previousSlide) {
-              window.jQuery(previousSlide).trigger("hidden");
-            }
-            if (currentSlide) {
-              window.jQuery(currentSlide).trigger("shown");
-            }
-          }
-        }
-
-        // hookup for reveal
-        if (window.Reveal) {
-          window.Reveal.addEventListener("slidechanged", function(event) {
-            fireSlideChanged(event.previousSlide, event.currentSlide);
-          });
-        }
-
-        // hookup for slidy
-        if (window.w3c_slidy) {
-          window.w3c_slidy.add_observer(function (slide_num) {
-            // slide_num starts at position 1
-            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
-          });
-        }
-
-      })();
-    </script>
-
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
