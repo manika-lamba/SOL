@@ -6,5 +6,6 @@ This repository contains the Slides, Recorded Video, Quiz, & Reading Material fo
 
 2. [Video]
 
-3. [Quiz]()
+3. [Quiz]
+
 

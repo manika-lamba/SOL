@@ -30,14 +30,7 @@ editor:
     wrap: 72
 ---
 
-```{r xaringan-panelset, echo=FALSE}
-
-library(xaringanExtra)
-
-xaringanExtra::use_panelset()
-```
-
-# THESAURUS - History, Definition {background-color="#438496"}
+# THESAURUS - History, Definition{background-color="#438496"}
 
 ## INTRODUCTION
 
@@ -56,6 +49,31 @@ xaringanExtra::use_panelset()
 
 -   But in modern usage, it denotes a list of terms arranges according
     to their relationship of ideas
+
+## EXAMPLES
+
+    1. Unesco Thesaurus: A Structured List of Descriptors for Indexing and Retrieving Literature in the Fields of Education, Science, Social and Human Science, Culture, Communication and Information
+    2. Thesaurus of ERIC Descriptors
+    3. Thesaurus of Sociological Research Terminology
+    4. Thesaurus of Sociological Indexing Terms
+    5. Social Science and Business Microthesaurus: A Hierarchical List of Indexing Terms Used by NTIS
+    6. Political Science Thesaurus
+    7. SPINES Thesaurus: A Controlled and Structured Vocabulary of Science and Technology for Policy Making
+    8. Thesaurus of Psychological Index Terms Thesaurus of Engineering and Scientific Terms (TEST)
+    9. INSPEC Thesaurus
+    10. NASA Thesaurus
+    11. Thesaurus of Computing Terms
+    12. Thesaurus of Scientific, Technical and Engineering Terms
+    13. International Road Research Documentation (IRRD) Thesaurus
+    14. ASIS Thesaurus of Information Science and Librarianship
+    15. Thesaurus of Information Science Terminology
+    16. Food: Multilingual Thesaurus
+    17. Thesaurus of Agricultural Terms
+    18. The ISDD Thesaurus. Keywords Relating to Non-Medical Use of Drugs and Drug Dependence
+
+## EXAMPLES
+
+![](images/example.png){fig-align="center"}
 
 ## DEFINITION
 
@@ -112,54 +130,57 @@ among these elements, provided that the following criteria hold:
 
 ## HISTORY (Cont.)
 
-+----------------+---------------------------------------------+
-| Year           | Event                                       |
-+================+=============================================+
-| 1959           | Engineering Information Center of E. I.     |
-|                | Dupont de Nemours developed the [first true |
-|                | thesaurus]{.underline}                      |
-+----------------+---------------------------------------------+
-| 1960           | Armed Services Technical Information Agency |
-|                | (ASTIA) produced the [Thesaurus of ASTIA    |
-|                | Descriptors]{.underline}                    |
-+----------------+---------------------------------------------+
-| 1961           | American Institute of Chemical Engineers    |
-|                | (AIChE) published the [Chemical Engineering |
-|                | Thesaurus]{.underline}                      |
-+----------------+---------------------------------------------+
++----------------+-----------------------------------------+
+| Year           | Event                                   |
++================+=========================================+
+| 1959           | Engineering Information Center of E. I. |
+|                | Dupont de Nemours developed the [first  |
+|                | true thesaurus]{.underline}             |
++----------------+-----------------------------------------+
+| 1960           | Armed Services Technical Information    |
+|                | Agency (ASTIA) produced the [Thesaurus  |
+|                | of ASTIA Descriptors]{.underline}       |
++----------------+-----------------------------------------+
+| 1961           | American Institute of Chemical          |
+|                | Engineers (AIChE) published the         |
+|                | [Chemical Engineering                   |
+|                | Thesaurus]{.underline}                  |
++----------------+-----------------------------------------+
 
 ## HISTORY (Cont.)
 
-+----------------+---------------------------------------------+
-| 1964           | Engineers Joint Council (EJC) published the |
-|                | [Thesaurus of Engineering                   |
-|                | Terms]{.underline}                          |
-+----------------+---------------------------------------------+
-| 1967           | [Thesaurus of Engineering and Scientific    |
-|                | Terms (TEST)]{.underline}                   |
-+----------------+---------------------------------------------+
-| 1967           | Committee on Scientific and Technical       |
-|                | Information (COSATI) published the [first   |
-|                | set of guidelines for thesaurus             |
-|                | construction]{.underline}                   |
-+----------------+---------------------------------------------+
-| 1970           | [Unesco Guidelines for the Establishment    |
-|                | and Development for Monolingual Scientific  |
-|                | and Technical Thesaurus]{.underline}        |
-+----------------+---------------------------------------------+
++----------------+-----------------------------------------+
+| 1964           | Engineers Joint Council (EJC) published |
+|                | the [Thesaurus of Engineering           |
+|                | Terms]{.underline}                      |
++----------------+-----------------------------------------+
+| 1967           | [Thesaurus of Engineering and           |
+|                | Scientific Terms (TEST)]{.underline}    |
++----------------+-----------------------------------------+
+| 1967           | Committee on Scientific and Technical   |
+|                | Information (COSATI) published the      |
+|                | [first set of guidelines for thesaurus  |
+|                | construction]{.underline}               |
++----------------+-----------------------------------------+
+| 1970           | [Unesco Guidelines for the              |
+|                | Establishment and Development for       |
+|                | Monolingual Scientific and Technical    |
+|                | Thesaurus]{.underline}                  |
++----------------+-----------------------------------------+
 
 ## HISTORY (Cont.)
 
-+---------------+-----------------------------------------+
-| 1974          | [American National Standards Institute  |
-|               | (ANSI) Z39.19]{.underline} - *a US      |
-|               | national standard for thesaurus         |
-|               | construction*                           |
-+---------------+-----------------------------------------+
-| 1974          | *First international standard for       |
-|               | thesaurus construction* -- [ISO         |
-|               | 2788]{.underline}                       |
-+---------------+-----------------------------------------+
++---------------+---------------------------------+
+| 1974          | [American National Standards    |
+|               | Institute (ANSI)                |
+|               | Z39.19]{.underline} - *a US     |
+|               | national standard for thesaurus |
+|               | construction*                   |
++---------------+---------------------------------+
+| 1974          | *First international standard   |
+|               | for thesaurus construction* --  |
+|               | [ISO 2788]{.underline}          |
++---------------+---------------------------------+
 
 # THESAURUS - Purpose & Use {background-color="#438496"}
 
@@ -251,7 +272,6 @@ indexing and retrieval
 
 ![](images/structure.png)
 
-
 ## BASIC THESAURAS RELATIONSHIP
 
 ![](images/relationship.png){fig-align="center" width="80%"}
@@ -259,7 +279,6 @@ indexing and retrieval
 ## A. EQUIVALENCE RELATIONSHIP
 
 ::: panel-tabset
-
 ## Introduction
 
 -   It is the relationship between preferred & non-preferred terms where
@@ -283,9 +302,6 @@ indexing and retrieval
 ## A. EQUIVALENCE RELATIONSHIP
 
 ::: panel-tabset
-
-
-
 ## Quasi-synonyms
 
 ![](images/quasi.png){fig-align="center" width="80%"}
@@ -315,14 +331,12 @@ indexing and retrieval
 ## B. HIERARCHICAL RELATIONSHIP
 
 ::: panel-tabset
-
 ## Generic/Species
 
 -   It identifies the link between a class or category and its members
     or species
-    
-- It is also known as Inclusion
-    Relationship
+
+-   It is also known as Inclusion Relationship
 
 -   EG.: VERTEBRATA
 
@@ -332,7 +346,7 @@ indexing and retrieval
         -   Pisces
         -   Reptilia
 
-## Whole-Part 
+## Whole-Part
 
 ![](images/whole.png){fig-align="center" width="60%"}
 
@@ -355,7 +369,7 @@ indexing and retrieval
 ## B. HIERARCHICAL RELATIONSHIP
 
 ::: panel-tabset
-## Poly-Hierarchical 
+## Poly-Hierarchical
 
 -   It is the relationship between the term & its 2 or more
     super-ordinate terms
@@ -365,65 +379,119 @@ indexing and retrieval
     narrower terms
 
 -   EG.: Mamalia ---Whale---Marine Animals
-
 :::
 
 ## C. ASSOCIATIVE RELATIONSHIP
 
 ::: panel-tabset
-
 ## Introduction
 
-- This relationship is found between terms which are closely related conceptually but not hierarchically and are not members of an equivalence set
+-   This relationship is found between terms which are closely related
+    conceptually but not hierarchically and are not members of an
+    equivalence set
 
-- The relation is reciprocal, and is distinguished by the abbreviation "RT" (Related Terms)
+-   The relation is reciprocal, and is distinguished by the abbreviation
+    "RT" (Related Terms)
 
-- EG. TEACHING
-    - RT Teaching aids
-- TEACHING AIDS
-    - RT Teaching
-    
+-   EG. TEACHING
+
+    -   RT Teaching aids
+
+-   TEACHING AIDS
+
+    -   RT Teaching
+
 ## Intro. (Cont.)
+
 ::: columns
 ::: {.column width="50%"}
-- Two types of associative relationship:
-1. Terms belonging to the same category (e.g., motorcycle / bicycle)
-2. Terms belonging to different categories
-:::
+-   Two types of associative relationship:
 
+1.  Terms belonging to the same category (e.g., motorcycle / bicycle)
+2.  Terms belonging to different categories
+:::
 
 ::: {.column width="50%"}
-    - Whole-part (e.g., buildings / doors)
+    1. Whole-part (e.g., buildings / doors)
     - A discipline and the objects studied (e.g., ethnography / primitive societies)
-    - An operation or process and the agent or instrument (e.g., motor racing / racing cars)
-    - An occupation and the person in that occupation (e.g., accountancy / accountants)
-    - An action and the product of the action (e.g., publishing / music scores)
-    - An action and its patient (e.g., data analysis / data)
-    - Concepts related to their properties (e.g., women / femininity)
-    - Concepts linked by causal dependence (e.g., injury / accidents)
-    - A thing or action and its counter-agent (e.g., pests / pesticides)
-    - A raw material and its product
-    - An action and a property associated with it (e.g., precision measurement / accuracy)
-    - A concept and its opposite (e.g., single people / married people)
-
+    2. An operation or process and the agent or instrument (e.g., motor racing / racing cars)
+    3. An occupation and the person in that occupation (e.g., accountancy / accountants)
+    4. An action and the product of the action (e.g., publishing / music scores)
+    5. An action and its patient (e.g., data analysis / data)
+    6. Concepts related to their properties (e.g., women / femininity)
+    7. Concepts linked by causal dependence (e.g., injury / accidents)
+    8. A thing or action and its counter-agent (e.g., pests / pesticides)
+    9. A raw material and its product
+    10. An action and a property associated with it (e.g., precision measurement / accuracy)
+    11. A concept and its opposite (e.g., single people / married people)
 :::
 :::
-
-
 :::
 
-# FORMAT OF IR THESAURUS{background-color="#438496"}
+# THESAUROFACET {background-color="#438496"}
+
+## THESAUROFACET
+
+-   The concept was developed by \*\* Jean Aitchison\*\* in \*1969
+
+-   It is a multipurpose retrieval language tool
+
+-   It consists of 2 sections:
+
+a.  Faceted Classification
+b.  Alphabetical Subject Index
+
+# FORMAT OF IR THESAURUS {background-color="#438496"}
 
 ## FORMAT OF IR THESAURUS
 
-- An IR thesaurus may be arranged and presented in one or more of the following methods:
+-   An IR thesaurus may be arranged and presented in one or more of the
+    following methods:
 
-1. **Alphabetical** - in which descriptors and cross references are arranged in alphabetical order
+1.  **Alphabetical** - in which descriptors and cross references are
+    arranged in alphabetical order
 
-2. **Systematic or Classified** - in which descriptors are arranged in their hierarchical order with level of hierarchy represented by indentions, dashes, dots, etc.
+2.  **Systematic or Classified** - in which descriptors are arranged in
+    their hierarchical order with level of hierarchy represented by
+    indentions, dashes, dots, etc.
 
-3. **Graphic** - in which the hierarchy is shown by a tree or an arrowgraph
+3.  **Graphic** -- in which the hierarchy is shown by a tree or an
+    arrowgraph
+
+# ESSENTIAL STEPS IN CONSTRUCTION OF THESAURUS {background-color="#438496"}
+
+## ESSENTIAL STEPS
+
+![](images/steps.jpg){fig-align="center" width="60%"}
+
+# ADVANTAGES OF THESAURUS {background-color="#438496"}
+
+## ADVANTAGES
+
+-   It effects vocabulary control in the language being used in IR
+-   It helps an indexer in selecting preferred terms
+-   It provides more access points
+-   It enables the searcher to find out not only information on a
+    specific topic, but also, on all related topics
+-   By using indexing terms and search terms from the same thesaurus,
+    the speed of retrieval can be increased
+-   It helps in obtaining high recall ratio & high precision ratio in
+    information search
 
 ## PREVIOUS YEAR QUESTIONS
 
 #### Long Questions (12.5 Marks)
+
+1.  Discuss the usefulness of a thesaurus in ISAR
+
+2.  Discuss the need & purpose of a thesaurus in indexing & searching.
+    Discuss with suitable examples, the various types of relationship
+    among the terms in a thesaurus
+
+3.  Discuss, the thesaurus as a tool in information organizing &
+    retrieval and their relationship among the terms found in a
+    thesaurus
+
+#### Short Questions (5 Marks)
+
+1.  Steps in Thesaurus construction
