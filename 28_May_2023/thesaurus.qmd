@@ -433,7 +433,7 @@ indexing and retrieval
 
 ## THESAUROFACET
 
--   The concept was developed by **Jean Aitchison** in \*1969
+-   The concept was developed by **Jean Aitchison** in *1969*
 
 -   It is a multipurpose retrieval language tool
 
