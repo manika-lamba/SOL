@@ -408,22 +408,23 @@ indexing and retrieval
 -   Two types of associative relationship:
 
 1.  Terms belonging to the same category (e.g., motorcycle / bicycle)
+
 2.  Terms belonging to different categories
 :::
 
 ::: {.column width="50%"}
     1. Whole-part (e.g., buildings / doors)
-    - A discipline and the objects studied (e.g., ethnography / primitive societies)
-    2. An operation or process and the agent or instrument (e.g., motor racing / racing cars)
-    3. An occupation and the person in that occupation (e.g., accountancy / accountants)
-    4. An action and the product of the action (e.g., publishing / music scores)
-    5. An action and its patient (e.g., data analysis / data)
-    6. Concepts related to their properties (e.g., women / femininity)
-    7. Concepts linked by causal dependence (e.g., injury / accidents)
-    8. A thing or action and its counter-agent (e.g., pests / pesticides)
-    9. A raw material and its product
-    10. An action and a property associated with it (e.g., precision measurement / accuracy)
-    11. A concept and its opposite (e.g., single people / married people)
+    2. A discipline and the objects studied (e.g., ethnography / primitive societies)
+    3. An operation or process and the agent or instrument (e.g., motor racing / racing cars)
+    4. An occupation and the person in that occupation (e.g., accountancy / accountants)
+    5. An action and the product of the action (e.g., publishing / music scores)
+    6. An action and its patient (e.g., data analysis / data)
+    7. Concepts related to their properties (e.g., women / femininity)
+    8. Concepts linked by causal dependence (e.g., injury / accidents)
+    9. A thing or action and its counter-agent (e.g., pests / pesticides)
+    10. A raw material and its product
+    11. An action and a property associated with it (e.g., precision measurement / accuracy)
+    12. A concept and its opposite (e.g., single people / married people)
 :::
 :::
 :::
@@ -432,7 +433,7 @@ indexing and retrieval
 
 ## THESAUROFACET
 
--   The concept was developed by \*\* Jean Aitchison\*\* in \*1969
+-   The concept was developed by **Jean Aitchison** in \*1969
 
 -   It is a multipurpose retrieval language tool
 
