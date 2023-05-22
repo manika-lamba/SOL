@@ -2,10 +2,10 @@
 
 This repository contains Slides, Recorded Live Videos, Quizzes, & Reading Material for Paper M-108 taught for MLIS course at the School of Open Learning, University of Delhi. 
 
-### [Week 1](https://github.com/manika-lamba/SOL/tree/main/7_May_2023) 
-### [Week 2](https://github.com/manika-lamba/SOL/tree/main/14_May_2023)
-### [Week 3](https://github.com/manika-lamba/SOL/blob/main/21_May_2023)
-### [Week 4](https://github.com/manika-lamba/SOL/tree/main/28_May_2023)
+### [Week 1: Introduction to Information Retrieval](https://github.com/manika-lamba/SOL/tree/main/7_May_2023) 
+### [Week 2: ISAR, IR Searching & Models](https://github.com/manika-lamba/SOL/tree/main/14_May_2023)
+### [Week 3: Controlled Vocabulary & Tools](https://github.com/manika-lamba/SOL/blob/main/21_May_2023)
+### [Week 4: Need, Structure, and Construction of Thesaurus](https://github.com/manika-lamba/SOL/tree/main/28_May_2023)
 
 ## COMPULSARY READING
 
