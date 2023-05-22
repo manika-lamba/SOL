@@ -1,0 +1,429 @@
+---
+title: THESAURUS
+subtitle: |
+  **[Paper-M-108]{.orange}**
+author: |
+  [Dr. Manika Lamba](https://manika-lamba.github.io)
+date: '28th May 2023'
+slide-number: true
+#footer: |
+#  **[Download Material](https://github.com/manika-lamba/SOL)**
+# uncomment for French presentations:
+#lang: fr
+# for blind readers:
+#slide-tone: true
+# for @olevitt:
+chalkboard: # press the B key to toggle chalkboard
+  theme: whiteboard
+# uncomment to use the multiplex mode:
+#multiplex: true
+format:
+  # pick the light mode (onyxia-revealjs) or the dark mode (onyxia-dark-revealjs)
+  onyxia-revealjs:
+    #incremental: true   
+  #onyxia-dark-revealjs:
+    output-file: index.html
+# visual editor configuration:
+editor:
+  render-on-save: true
+  markdown: 
+    wrap: 72
+---
+
+```{r xaringan-panelset, echo=FALSE}
+
+library(xaringanExtra)
+
+xaringanExtra::use_panelset()
+```
+
+# THESAURUS - History, Definition {background-color="#438496"}
+
+## INTRODUCTION
+
+-   Efficiency of an IR system depends on the indexing language used
+
+-   Its capability to handle 2 fundamentally different but
+    interdependent types of relationship between the terms used to
+    represent the subject content of the document
+
+-   Thesaurus has mainly been conceived in the context of
+    post-coordinate indexing system but it can be used for
+    pre-coordinated system as well
+
+-   The word 'Thesaurus' is of Greek origin, literally meaning *treasury
+    or storehouse of knowledge*
+
+-   But in modern usage, it denotes a list of terms arranges according
+    to their relationship of ideas
+
+## DEFINITION
+
+-   "A thesaurus may be defined either in terms of its function or its
+    structure. In terms of function, a thesaurus is a terminological
+    control device used in translating from the natural language of
+    documents, indexers or users into a more constrained *system
+    language* (documentation language, information language). In terms
+    of structure, a thesaurus is a controlled and dynamic vocabulary of
+    a controlled and dynamic vocabulary of semantically and generically
+    related terms which covers a specific domain of knowledge"
+
+## DEFINITION (Cont.)
+
+-   "A compilation of words and phrases showing synonymous,
+    hierarchical, and other relationships and dependencies, the function
+    of which is to provide a standardized vocabulary for information
+    storage and retrieval"
+-   "A controlled vocabulary arranges in a known order in which
+    equivalence, homographic, hierarchical, and associative
+    relationships among terms are clearly displayed and identified by
+    standardized relationship indicator, which must be employed
+    reciprocally"
+
+## DEFINITION (Cont.)
+
+A thesaurus in the field of information storage and retrieval is a list
+of terms and/or of other signs (or symbols) indicating relationships
+among these elements, provided that the following criteria hold:
+
+(i) the list contains a significant proportion of non-preferred terms
+    and/or of preferred terms not used as descriptors;
+
+(ii) terminological control is intended.
+
+## HISTORY
+
+-   [Peter Mark Roget]{style="color: blue;"} first conceived the idea of
+    such compilation and brought out this **Thesaurus of English words
+    and Phrases** in **1852** for the benefit of writers for looking for
+    appropriate words to express their ideas
+
+-   [Helen Brownson]{style="color: blue;"} is said to be the first
+    person who used the term *'Thesaurus'* in the context of IR in a
+    paper presented in **1957** at the [Dorking Conference in
+    Classification Research]{.underline}
+
+-   [Hans P. Luhn]{style="color: blue;"} was possible the first person
+    to think in terms of [*'Information Retrieval
+    Thesaurus'*]{.underline}
+
+-   The first Thesaurus used in an IR system was developed by [Du Pont
+    in US around 1959]{style="color: blue;"}
+
+## HISTORY (Cont.)
+
++----------------+---------------------------------------------+
+| Year           | Event                                       |
++================+=============================================+
+| 1959           | Engineering Information Center of E. I.     |
+|                | Dupont de Nemours developed the [first true |
+|                | thesaurus]{.underline}                      |
++----------------+---------------------------------------------+
+| 1960           | Armed Services Technical Information Agency |
+|                | (ASTIA) produced the [Thesaurus of ASTIA    |
+|                | Descriptors]{.underline}                    |
++----------------+---------------------------------------------+
+| 1961           | American Institute of Chemical Engineers    |
+|                | (AIChE) published the [Chemical Engineering |
+|                | Thesaurus]{.underline}                      |
++----------------+---------------------------------------------+
+
+## HISTORY (Cont.)
+
++----------------+---------------------------------------------+
+| 1964           | Engineers Joint Council (EJC) published the |
+|                | [Thesaurus of Engineering                   |
+|                | Terms]{.underline}                          |
++----------------+---------------------------------------------+
+| 1967           | [Thesaurus of Engineering and Scientific    |
+|                | Terms (TEST)]{.underline}                   |
++----------------+---------------------------------------------+
+| 1967           | Committee on Scientific and Technical       |
+|                | Information (COSATI) published the [first   |
+|                | set of guidelines for thesaurus             |
+|                | construction]{.underline}                   |
++----------------+---------------------------------------------+
+| 1970           | [Unesco Guidelines for the Establishment    |
+|                | and Development for Monolingual Scientific  |
+|                | and Technical Thesaurus]{.underline}        |
++----------------+---------------------------------------------+
+
+## HISTORY (Cont.)
+
++---------------+-----------------------------------------+
+| 1974          | [American National Standards Institute  |
+|               | (ANSI) Z39.19]{.underline} - *a US      |
+|               | national standard for thesaurus         |
+|               | construction*                           |
++---------------+-----------------------------------------+
+| 1974          | *First international standard for       |
+|               | thesaurus construction* -- [ISO         |
+|               | 2788]{.underline}                       |
++---------------+-----------------------------------------+
+
+# THESAURUS - Purpose & Use {background-color="#438496"}
+
+## PURPOSE & USE
+
+-   To provide a map for a given field of knowledge indicating how the
+    concepts of ideas are related to each other, which helps the indexer
+    and searcher to understand the structure of the field of knowledge
+
+-   To provide a standard vocabulary for a given subject
+
+-   It provides consistent representation of the subject matter avoiding
+    subject dispersion in output & input by controlling synonyms,
+    quasi-synonyms, & homographs
+
+-   Bringing together the term which are semantically realted
+
+-   To limit the no. of term that assign to be a document
+
+-   To serve as search aid in retrieval
+
+## PURPOSE & USE (Cont.)
+
+::: columns
+::: {.column width="50%"}
+-   Its purpose is to promote consistency in the indexing of documents
+    predominantly for post-coordinated ISAR
+
+-   To facilitate searching by linking entry terms with descriptors
+
+#### 4 Principle Purposes are:
+
+1.  **Translation**: To provide a means for translating the natural
+    language of
+:::
+
+::: {.column width="50%"}
+authors, indexers, and users into a controlled vocabulary used for
+indexing and retrieval
+
+2.  **Consistency**: To promote consistency in the assignment of index
+    terms
+
+3.  **Indication of Relationships**: To indicate semantic relationships
+    among terms
+
+4.  **Retrieval**: To serve as a searching aid in retrieval of documents
+:::
+:::
+
+# DIFFERENCE B/W LIST OF SUBJECT HEADING (LSH) & THESAURUS {background-color="#438496"}
+
+## LSH VS. THESAURUS
+
++-------------------------------+-------------------------------+
+| LSH                           | Thesaurus                     |
++===============================+===============================+
+| It is a complete list of      | It is a list of terms         |
+| names of subjects usually     | arranged in a helpful order.  |
+| arranged in alphabetical      |                               |
+| order                         | In other words, it is a       |
+|                               | compilation of all isolate    |
+|                               | ideas that occur within a     |
+|                               | subject or group of subjects  |
+|                               | represented by appropriate    |
+|                               | isolate terms arranged in     |
+|                               | alphabetical order            |
++-------------------------------+-------------------------------+
+
+## LSH VS. THESAURUS (Cont.)
+
++-------------------------------+-------------------------------+
+| LSH                           | Thesaurus                     |
++===============================+===============================+
+| LSH were designed in view the | Thesaurus was designed to     |
+| needs of pre-coordinate       | meet the special needs of the |
+| indexes                       | post-coordinate indexes       |
++-------------------------------+-------------------------------+
+| In LSH, the emphasis is on    | Thesauri have more elaborate  |
+| references from broader to    | network of referencing, the   |
+| narrower subject or downward  | direction of each type of     |
+| references                    | reference is clearly          |
+|                               | indicated                     |
++-------------------------------+-------------------------------+
+
+# STRUCTURE & RELATIONSHIP {background-color="#438496"}
+
+## STRUCTURE & RELATIONSHIP
+
+![](images/structure.png)
+
+
+## BASIC THESAURAS RELATIONSHIP
+
+![](images/relationship.png){fig-align="center" width="80%"}
+
+## A. EQUIVALENCE RELATIONSHIP
+
+::: panel-tabset
+
+## Introduction
+
+-   It is the relationship between preferred & non-preferred terms where
+    2 or more terms are regarded for indexing purposes as referring to
+    the same concept
+
+-   It is denoted by USE and UF
+
+-   It includes [*synonyms, lexical variants, quasi-synonyms,* & *upward
+    posting*]{style="color: blue;"}
+
+## Synonyms
+
+![](images/synonym.png){fig-align="center" width="80%"}
+
+## Lexical Variants
+
+![](images/lexical.png){fig-align="center" width="80%"}
+:::
+
+## A. EQUIVALENCE RELATIONSHIP
+
+::: panel-tabset
+
+
+
+## Quasi-synonyms
+
+![](images/quasi.png){fig-align="center" width="80%"}
+
+## Upward Posting
+
+![](images/posting.png){fig-align="center" width="80%"}
+:::
+
+## B. HIERARCHICAL RELATIONSHIP
+
+-   This relationship shows level of super-ordination and sub-ordination
+
+-   It is used in locating broader and narrower concepts in a logically
+    progressive sequence
+
+-   The relationship is reciprocal and is set out in a thesaurus using
+    following conventions:
+
+    -   **BT**(BROADER TERM)
+    -   **NT**(NARROWER TERM)
+
+-   It includes *generic relationship, hierarchical whole-part
+    relationship, instance relationship, & polyhierarchical
+    relationship*
+
+## B. HIERARCHICAL RELATIONSHIP
+
+::: panel-tabset
+
+## Generic/Species
+
+-   It identifies the link between a class or category and its members
+    or species
+    
+- It is also known as Inclusion
+    Relationship
+
+-   EG.: VERTEBRATA
+
+    -   **NT** Amphilblia
+        -   Mammalia
+        -   Aves
+        -   Pisces
+        -   Reptilia
+
+## Whole-Part 
+
+![](images/whole.png){fig-align="center" width="60%"}
+
+## Instance
+
+-   This relationship is between a general category of things and
+    events, expressed by a common noun, and an individual instance of
+    that category, the instance then forming a class of one which is
+    represented by a proper name
+
+-   EG.: SEAS
+
+    -   **NT** Baltic Sea
+
+        -   Caspian Sea
+
+        -   Mediterranean Sea
+:::
+
+## B. HIERARCHICAL RELATIONSHIP
+
+::: panel-tabset
+## Poly-Hierarchical 
+
+-   It is the relationship between the term & its 2 or more
+    super-ordinate terms
+
+-   Some terms may belong to more than one hierarchy and consequently
+    maybe related to more than one broader term & more than one set of
+    narrower terms
+
+-   EG.: Mamalia ---Whale---Marine Animals
+
+:::
+
+## C. ASSOCIATIVE RELATIONSHIP
+
+::: panel-tabset
+
+## Introduction
+
+- This relationship is found between terms which are closely related conceptually but not hierarchically and are not members of an equivalence set
+
+- The relation is reciprocal, and is distinguished by the abbreviation "RT" (Related Terms)
+
+- EG. TEACHING
+    - RT Teaching aids
+- TEACHING AIDS
+    - RT Teaching
+    
+## Intro. (Cont.)
+::: columns
+::: {.column width="50%"}
+- Two types of associative relationship:
+1. Terms belonging to the same category (e.g., motorcycle / bicycle)
+2. Terms belonging to different categories
+:::
+
+
+::: {.column width="50%"}
+    - Whole-part (e.g., buildings / doors)
+    - A discipline and the objects studied (e.g., ethnography / primitive societies)
+    - An operation or process and the agent or instrument (e.g., motor racing / racing cars)
+    - An occupation and the person in that occupation (e.g., accountancy / accountants)
+    - An action and the product of the action (e.g., publishing / music scores)
+    - An action and its patient (e.g., data analysis / data)
+    - Concepts related to their properties (e.g., women / femininity)
+    - Concepts linked by causal dependence (e.g., injury / accidents)
+    - A thing or action and its counter-agent (e.g., pests / pesticides)
+    - A raw material and its product
+    - An action and a property associated with it (e.g., precision measurement / accuracy)
+    - A concept and its opposite (e.g., single people / married people)
+
+:::
+:::
+
+
+:::
+
+# FORMAT OF IR THESAURUS{background-color="#438496"}
+
+## FORMAT OF IR THESAURUS
+
+- An IR thesaurus may be arranged and presented in one or more of the following methods:
+
+1. **Alphabetical** - in which descriptors and cross references are arranged in alphabetical order
+
+2. **Systematic or Classified** - in which descriptors are arranged in their hierarchical order with level of hierarchy represented by indentions, dashes, dots, etc.
+
+3. **Graphic** - in which the hierarchy is shown by a tree or an arrowgraph
+
+## PREVIOUS YEAR QUESTIONS
+
+#### Long Questions (12.5 Marks)
