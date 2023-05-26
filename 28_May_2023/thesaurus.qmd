@@ -186,21 +186,21 @@ among these elements]{style="color: blue;"}, provided that the following criteri
 
 ## PURPOSE & USE
 
--   To provide a map for a given field of knowledge indicating how the
-    concepts of ideas are related to each other, which helps the indexer
-    and searcher to understand the structure of the field of knowledge
+-   To [provide a map]{style="color: blue;"} for a given field of knowledge indicating [how the
+    concepts of ideas are related to each other]{style="color: blue;"}, which helps the indexer
+    and searcher to [understand the structure of the field of knowledge]{style="color: blue;"}
 
--   To provide a standard vocabulary for a given subject
+-   To provide a [standard vocabulary]{style="color: blue;"} for a given subject
 
--   It provides consistent representation of the subject matter avoiding
-    subject dispersion in output & input by controlling synonyms,
-    quasi-synonyms, & homographs
+-   It provides [consistent representation]{style="color: blue;"} of the subject matter avoiding
+    subject dispersion in output & input by [controlling synonyms,
+    quasi-synonyms, & homographs]{style="color: blue;"}
 
--   Bringing together the term which are semantically realted
+-   [Bringing together the term which are semantically related]{style="color: blue;"}
 
--   To limit the no. of term that assign to be a document
+-   To [limit the no. of term that assign to be a document]{style="color: blue;"}
 
--   To serve as search aid in retrieval
+-   To [serve as search aid in retrieval]{style="color: blue;"}
 
 ## PURPOSE & USE (Cont.)
 
