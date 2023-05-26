@@ -34,21 +34,21 @@ editor:
 
 ## INTRODUCTION
 
--   Efficiency of an IR system depends on the indexing language used
+-   [Efficiency of an IR system depends on the indexing language used]{style="color: blue;"}
 
--   Its capability to handle 2 fundamentally different but
-    interdependent types of relationship between the terms used to
+-   Its capability to [handle 2 fundamentally different but
+    interdependent types of relationship between the terms]{style="color: blue;"} used to
     represent the subject content of the document
 
 -   Thesaurus has mainly been conceived in the context of
-    post-coordinate indexing system but it can be used for
+    [post-coordinate indexing system]{style="color: blue;"} but it can be used for
     pre-coordinated system as well
 
--   The word 'Thesaurus' is of Greek origin, literally meaning *treasury
-    or storehouse of knowledge*
+-   The word 'Thesaurus' is of Greek origin, literally meaning [*treasury
+    or storehouse of knowledge*]{style="color: blue;"}
 
--   But in modern usage, it denotes a list of terms arranges according
-    to their relationship of ideas
+-   But in modern usage, it denotes [a list of terms arranges according
+    to their relationship of ideas]{style="color: blue;"}
 
 ## EXAMPLES
 
@@ -100,14 +100,14 @@ editor:
 
 ## DEFINITION (Cont.)
 
-A thesaurus in the field of information storage and retrieval is a list
+A thesaurus in the field of information storage and retrieval [is a list
 of terms and/or of other signs (or symbols) indicating relationships
-among these elements, provided that the following criteria hold:
+among these elements]{style="color: blue;"}, provided that the following criteria hold:
 
-(i) the list contains a significant proportion of non-preferred terms
-    and/or of preferred terms not used as descriptors;
+(i) the list contains a [significant proportion of non-preferred terms
+    and/or of preferred terms not used as descriptors]{style="color: blue;"};
 
-(ii) terminological control is intended.
+(ii) [terminological control]{style="color: blue;"} is intended.
 
 ## HISTORY
 
