@@ -6,6 +6,6 @@ This repository contains the Slides, Recorded Video, Quiz, & Reading Material fo
 
 2. [Video]
 
-3. [Quiz]
+3. [Quiz](https://github.com/manika-lamba/SOL/blob/main/28_May_2023/quiz.pdf)
 
 
