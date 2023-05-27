@@ -30,22 +30,24 @@ editor:
     wrap: 72
 ---
 
-# THESAURUS - History, Definition{background-color="#438496"}
+# THESAURUS - History, Definition {background-color="#438496"}
 
 ## INTRODUCTION
 
--   [Efficiency of an IR system depends on the indexing language used]{style="color: blue;"}
+-   [Efficiency of an IR system depends on the indexing language
+    used]{style="color: blue;"}
 
 -   Its capability to [handle 2 fundamentally different but
-    interdependent types of relationship between the terms]{style="color: blue;"} used to
-    represent the subject content of the document
+    interdependent types of relationship between the
+    terms]{style="color: blue;"} used to represent the subject content
+    of the document
 
 -   Thesaurus has mainly been conceived in the context of
-    [post-coordinate indexing system]{style="color: blue;"} but it can be used for
-    pre-coordinated system as well
+    [post-coordinate indexing system]{style="color: blue;"} but it can
+    be used for pre-coordinated system as well
 
--   The word 'Thesaurus' is of Greek origin, literally meaning [*treasury
-    or storehouse of knowledge*]{style="color: blue;"}
+-   The word 'Thesaurus' is of Greek origin, literally meaning
+    [*treasury or storehouse of knowledge*]{style="color: blue;"}
 
 -   But in modern usage, it denotes [a list of terms arranges according
     to their relationship of ideas]{style="color: blue;"}
@@ -102,10 +104,12 @@ editor:
 
 A thesaurus in the field of information storage and retrieval [is a list
 of terms and/or of other signs (or symbols) indicating relationships
-among these elements]{style="color: blue;"}, provided that the following criteria hold:
+among these elements]{style="color: blue;"}, provided that the following
+criteria hold:
 
 (i) the list contains a [significant proportion of non-preferred terms
-    and/or of preferred terms not used as descriptors]{style="color: blue;"};
+    and/or of preferred terms not used as
+    descriptors]{style="color: blue;"};
 
 (ii) [terminological control]{style="color: blue;"} is intended.
 
@@ -130,75 +134,83 @@ among these elements]{style="color: blue;"}, provided that the following criteri
 
 ## HISTORY (Cont.)
 
-+----------------+-----------------------------------------+
-| Year           | Event                                   |
-+================+=========================================+
-| 1959           | Engineering Information Center of E. I. |
-|                | Dupont de Nemours developed the [first  |
-|                | true thesaurus]{.underline}             |
-+----------------+-----------------------------------------+
-| 1960           | Armed Services Technical Information    |
-|                | Agency (ASTIA) produced the [Thesaurus  |
-|                | of ASTIA Descriptors]{.underline}       |
-+----------------+-----------------------------------------+
-| 1961           | American Institute of Chemical          |
-|                | Engineers (AIChE) published the         |
-|                | [Chemical Engineering                   |
-|                | Thesaurus]{.underline}                  |
-+----------------+-----------------------------------------+
++----------------+---------------------------------------+
+| Year           | Event                                 |
++================+=======================================+
+| 1959           | Engineering Information Center of E.  |
+|                | I. Dupont de Nemours developed the    |
+|                | [first true thesaurus]{.underline}    |
++----------------+---------------------------------------+
+| 1960           | Armed Services Technical Information  |
+|                | Agency (ASTIA) produced the           |
+|                | [Thesaurus of ASTIA                   |
+|                | Descriptors]{.underline}              |
++----------------+---------------------------------------+
+| 1961           | American Institute of Chemical        |
+|                | Engineers (AIChE) published the       |
+|                | [Chemical Engineering                 |
+|                | Thesaurus]{.underline}                |
++----------------+---------------------------------------+
 
 ## HISTORY (Cont.)
 
-+----------------+-----------------------------------------+
-| 1964           | Engineers Joint Council (EJC) published |
-|                | the [Thesaurus of Engineering           |
-|                | Terms]{.underline}                      |
-+----------------+-----------------------------------------+
-| 1967           | [Thesaurus of Engineering and           |
-|                | Scientific Terms (TEST)]{.underline}    |
-+----------------+-----------------------------------------+
-| 1967           | Committee on Scientific and Technical   |
-|                | Information (COSATI) published the      |
-|                | [first set of guidelines for thesaurus  |
-|                | construction]{.underline}               |
-+----------------+-----------------------------------------+
-| 1970           | [Unesco Guidelines for the              |
-|                | Establishment and Development for       |
-|                | Monolingual Scientific and Technical    |
-|                | Thesaurus]{.underline}                  |
-+----------------+-----------------------------------------+
++----------------+---------------------------------------+
+| 1964           | Engineers Joint Council (EJC)         |
+|                | published the [Thesaurus of           |
+|                | Engineering Terms]{.underline}        |
++----------------+---------------------------------------+
+| 1967           | [Thesaurus of Engineering and         |
+|                | Scientific Terms (TEST)]{.underline}  |
++----------------+---------------------------------------+
+| 1967           | Committee on Scientific and Technical |
+|                | Information (COSATI) published the    |
+|                | [first set of guidelines for          |
+|                | thesaurus construction]{.underline}   |
++----------------+---------------------------------------+
+| 1970           | [Unesco Guidelines for the            |
+|                | Establishment and Development for     |
+|                | Monolingual Scientific and Technical  |
+|                | Thesaurus]{.underline}                |
++----------------+---------------------------------------+
 
 ## HISTORY (Cont.)
 
-+---------------+---------------------------------+
-| 1974          | [American National Standards    |
-|               | Institute (ANSI)                |
-|               | Z39.19]{.underline} - *a US     |
-|               | national standard for thesaurus |
-|               | construction*                   |
-+---------------+---------------------------------+
-| 1974          | *First international standard   |
-|               | for thesaurus construction* --  |
-|               | [ISO 2788]{.underline}          |
-+---------------+---------------------------------+
++---------------+-----------------------------+
+| 1974          | [American National          |
+|               | Standards Institute (ANSI)  |
+|               | Z39.19]{.underline} - *a US |
+|               | national standard for       |
+|               | thesaurus construction*     |
++---------------+-----------------------------+
+| 1974          | *First international        |
+|               | standard for thesaurus      |
+|               | construction* -- [ISO       |
+|               | 2788]{.underline}           |
++---------------+-----------------------------+
 
 # THESAURUS - Purpose & Use {background-color="#438496"}
 
 ## PURPOSE & USE
 
--   To [provide a map]{style="color: blue;"} for a given field of knowledge indicating [how the
-    concepts of ideas are related to each other]{style="color: blue;"}, which helps the indexer
-    and searcher to [understand the structure of the field of knowledge]{style="color: blue;"}
+-   To [provide a map]{style="color: blue;"} for a given field of
+    knowledge indicating [how the concepts of ideas are related to each
+    other]{style="color: blue;"}, which helps the indexer and searcher
+    to [understand the structure of the field of
+    knowledge]{style="color: blue;"}
 
--   To provide a [standard vocabulary]{style="color: blue;"} for a given subject
+-   To provide a [standard vocabulary]{style="color: blue;"} for a given
+    subject
 
--   It provides [consistent representation]{style="color: blue;"} of the subject matter avoiding
-    subject dispersion in output & input by [controlling synonyms,
-    quasi-synonyms, & homographs]{style="color: blue;"}
+-   It provides [consistent representation]{style="color: blue;"} of the
+    subject matter avoiding subject dispersion in output & input by
+    [controlling synonyms, quasi-synonyms, &
+    homographs]{style="color: blue;"}
 
--   [Bringing together the term which are semantically related]{style="color: blue;"}
+-   [Bringing together the term which are semantically
+    related]{style="color: blue;"}
 
--   To [limit the no. of term that assign to be a document]{style="color: blue;"}
+-   To [limit the no. of term that assign to be a
+    document]{style="color: blue;"}
 
 -   To [serve as search aid in retrieval]{style="color: blue;"}
 
@@ -206,10 +218,12 @@ among these elements]{style="color: blue;"}, provided that the following criteri
 
 ::: columns
 ::: {.column width="50%"}
--   Its purpose is to promote consistency in the indexing of documents
-    predominantly for post-coordinated ISAR
+-   Its purpose is to [promote consistency in the
+    indexing]{style="color: blue;"} of documents predominantly for
+    post-coordinated ISAR
 
--   To facilitate searching by linking entry terms with descriptors
+-   To facilitate [searching by linking entry terms with
+    descriptors]{style="color: blue;"}
 
 #### 4 Principle Purposes are:
 
@@ -235,36 +249,39 @@ indexing and retrieval
 
 ## LSH VS. THESAURUS
 
-+-------------------------------+-------------------------------+
-| LSH                           | Thesaurus                     |
-+===============================+===============================+
-| It is a complete list of      | It is a list of terms         |
-| names of subjects usually     | arranged in a helpful order.  |
-| arranged in alphabetical      |                               |
-| order                         | In other words, it is a       |
-|                               | compilation of all isolate    |
-|                               | ideas that occur within a     |
-|                               | subject or group of subjects  |
-|                               | represented by appropriate    |
-|                               | isolate terms arranged in     |
-|                               | alphabetical order            |
-+-------------------------------+-------------------------------+
++-----------------------------+-----------------------------+
+| LSH                         | Thesaurus                   |
++=============================+=============================+
+| It is a complete [list of   | It is a [list of terms      |
+| names of subjects usually   | arranged in a helpful       |
+| arranged in alphabetical    | order]{.underline}.         |
+| order]{.underline}          |                             |
+|                             | In other words, it is a     |
+|                             | [compilation of all isolate |
+|                             | ideas]{.underline} that     |
+|                             | occur within a subject or   |
+|                             | group of subjects arranged  |
+|                             | in [alphabetical            |
+|                             | order]{.underline}          |
++-----------------------------+-----------------------------+
 
 ## LSH VS. THESAURUS (Cont.)
 
-+-------------------------------+-------------------------------+
-| LSH                           | Thesaurus                     |
-+===============================+===============================+
-| LSH were designed in view the | Thesaurus was designed to     |
-| needs of pre-coordinate       | meet the special needs of the |
-| indexes                       | post-coordinate indexes       |
-+-------------------------------+-------------------------------+
-| In LSH, the emphasis is on    | Thesauri have more elaborate  |
-| references from broader to    | network of referencing, the   |
-| narrower subject or downward  | direction of each type of     |
-| references                    | reference is clearly          |
-|                               | indicated                     |
-+-------------------------------+-------------------------------+
++-----------------------------+-----------------------------+
+| LSH                         | Thesaurus                   |
++=============================+=============================+
+| LSH were designed in view   | Thesaurus was designed to   |
+| the needs of                | meet the special needs of   |
+| [pre-coordinate             | the [post-coordinate        |
+| indexe]{.underline}s        | indexes]{.underline}        |
++-----------------------------+-----------------------------+
+| In LSH, the [emphasis is on | Thesauri have more          |
+| references from broader to  | [elaborate network of       |
+| narrower                    | referencing,]{.underline}   |
+| subject]{.underline} or     | the direction of each type  |
+| downward references         | of reference is clearly     |
+|                             | indicated                   |
++-----------------------------+-----------------------------+
 
 # STRUCTURE & RELATIONSHIP {background-color="#438496"}
 
@@ -281,11 +298,11 @@ indexing and retrieval
 ::: panel-tabset
 ## Introduction
 
--   It is the relationship between preferred & non-preferred terms where
+-   It is the [relationship between preferred & non-preferred terms]{style="color: blue;"} where
     2 or more terms are regarded for indexing purposes as referring to
     the same concept
 
--   It is denoted by USE and UF
+-   It is denoted by [USE and UF]{style="color: blue;"}
 
 -   It includes [*synonyms, lexical variants, quasi-synonyms,* & *upward
     posting*]{style="color: blue;"}
@@ -313,30 +330,30 @@ indexing and retrieval
 
 ## B. HIERARCHICAL RELATIONSHIP
 
--   This relationship shows level of super-ordination and sub-ordination
+-   This [relationship shows level of super-ordination and sub-ordination]{style="color: blue;"}
 
--   It is used in locating broader and narrower concepts in a logically
-    progressive sequence
+-   It is used in [locating broader and narrower concepts in a logically
+    progressive sequence]{style="color: blue;"}
 
--   The relationship is reciprocal and is set out in a thesaurus using
+-   The [relationship is reciprocal]{style="color: blue;"} and is set out in a thesaurus using
     following conventions:
 
-    -   **BT**(BROADER TERM)
-    -   **NT**(NARROWER TERM)
+    -   [**BT**(BROADER TERM)]{style="color: blue;"}
+    -   [**NT**(NARROWER TERM)]{style="color: blue;"}
 
--   It includes *generic relationship, hierarchical whole-part
+-   It includes [*generic relationship, hierarchical whole-part
     relationship, instance relationship, & polyhierarchical
-    relationship*
+    relationship*]{style="color: blue;"}
 
 ## B. HIERARCHICAL RELATIONSHIP
 
 ::: panel-tabset
 ## Generic/Species
 
--   It identifies the link between a class or category and its members
-    or species
+-   It identifies the [link between a class or category and its members
+    or species]{style="color: blue;"}
 
--   It is also known as Inclusion Relationship
+-   It is also known as [Inclusion Relationship]{style="color: blue;"}
 
 -   EG.: VERTEBRATA
 
@@ -352,8 +369,7 @@ indexing and retrieval
 
 ## Instance
 
--   This relationship is between a general category of things and
-    events, expressed by a common noun, and an individual instance of
+-   This relationship is between a [general category of things and events, expressed by a common noun]{style="color: blue;"}, and an [individual instance]{style="color: blue;"} of
     that category, the instance then forming a class of one which is
     represented by a proper name
 
@@ -371,12 +387,12 @@ indexing and retrieval
 ::: panel-tabset
 ## Poly-Hierarchical
 
--   It is the relationship between the term & its 2 or more
-    super-ordinate terms
+-   It is the relationship between the [term & its 2 or more
+    super-ordinate terms]{style="color: blue;"}
 
--   Some terms may belong to more than one hierarchy and consequently
-    maybe related to more than one broader term & more than one set of
-    narrower terms
+-   Some terms may belong to more than [one hierarchy]{style="color: blue;"} and consequently
+    maybe related to [more than one broader term & more than one set of
+    narrower terms]{style="color: blue;"}
 
 -   EG.: Mamalia ---Whale---Marine Animals
 :::
@@ -386,12 +402,12 @@ indexing and retrieval
 ::: panel-tabset
 ## Introduction
 
--   This relationship is found between terms which are closely related
+-   This relationship is found between [terms which are closely related
     conceptually but not hierarchically and are not members of an
-    equivalence set
+    equivalence set]{style="color: blue;"}
 
--   The relation is reciprocal, and is distinguished by the abbreviation
-    "RT" (Related Terms)
+-   The [relation is reciprocal]{style="color: blue;"}, and is distinguished by the abbreviation
+    ["RT" (Related Terms)]{style="color: blue;"}
 
 -   EG. TEACHING
 
@@ -469,14 +485,14 @@ b.  Alphabetical Subject Index
 
 ## ADVANTAGES
 
--   It effects vocabulary control in the language being used in IR
--   It helps an indexer in selecting preferred terms
--   It provides more access points
+-   It [effects vocabulary control]{style="color: blue;"} in the language being used in IR
+-   It helps an indexer in [selecting preferred terms]{style="color: blue;"}
+-   It provides [more access points]{style="color: blue;"}
 -   It enables the searcher to find out not only information on a
-    specific topic, but also, on all related topics
--   By using indexing terms and search terms from the same thesaurus,
-    the speed of retrieval can be increased
--   It helps in obtaining high recall ratio & high precision ratio in
+    [specific topic]{style="color: blue;"}, but also, on [all related topics]{style="color: blue;"}
+-   By [using indexing terms and search terms from the same thesaurus,
+    the speed of retrieval can be increased]{style="color: blue;"}
+-   It helps in obtaining [high recall ratio & high precision ratio]{style="color: blue;"} in
     information search
 
 ## PREVIOUS YEAR QUESTIONS
