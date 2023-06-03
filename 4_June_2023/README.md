@@ -1,17 +1,16 @@
-# Week 3
+# Week 5
 
-This repository contains the Slides, Recorded Video, Quiz, & Reading Material for the Discussion Lecture held on **21st May 2023**.
+This repository contains the Slides, Recorded Video, Quiz, & Reading Material for the Discussion Lecture held on **4th June 2023**.
 
-1. [Slides](https://manika-lamba.github.io/SOL/21_May_2023/#/title-slide)
+1. [Slides](https://manika-lamba.github.io/SOL/4_June_2023/#/title-slide)
 
 2. [Video]
 
-3. [Quiz](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/quiz.pdf)
+3. [Quiz]
 
 4. Reading Material
-- [What is Controlled Vocabulary](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/reading_materials/what%20is%20controlled%20vocabulary.pdf)
-- [Controlled Vocabulary](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/reading_materials/Controlled_vocabularies_an_introduction.pdf)
-- [Vocabulary Control](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/reading_materials/Vocabulary%20Control.pdf)
-- [LCSH](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/reading_materials/LCSH-intro.pdf)
-- [Relationships](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/reading_materials/relationships.pdf)
-- [Taxonomies](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/reading_materials/taxonomies.pdf)
+- [Principles & Evolution of Bibliographic Description](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/Principles-and-Evolution.pdf)
+- [Rules for Bibliographic Description](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/Rules.pdf)
+- [Standards of Bibliographic Description](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/Standards.pdf)
+- [FRBR](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/FRBR.pdf)
+- [Metadata](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/Metadata.pdf)
