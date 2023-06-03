@@ -83,9 +83,7 @@ achieved at National and International level
 
 -   These rules are standards to promote universal bibliographic control
 
-
-
-# Bibliographic Description - Scope, Evolution {background-color="#438496"}
+# Bibliographic Description - Scope, Evolution, Rules {background-color="#438496"}
 
 ## SCOPE OF BIBLIO. DES.
 
@@ -217,31 +215,205 @@ bibliographic description and their role
 ## RULES
 
 ::: panel-tabset
+## Intro.
 
-## Rules
+-   AACR2 adopted standards of ISBD for construction of catalogues of
+    different types of materials and different sizes of libraries
 
-- AACR2 adopted standards of ISBD for construction of catalogues of different types of materials and different sizes of libraries
+-   ISBD defines 2 functions
 
-- ISBD defines 2 functions
-    - Levels of Bibliographic Description
-    - Specification of Data Elements
+    -   Levels of Bibliographic Description
+    -   Specification of Data Elements
 
-## Rules (Cont.)
+## A. Levels
 
-1. **Levels of Bibliographic Description**  
+::: columns
+::: {.column width="50%"}
+**A. Levels of Bibliographic Description** - ISBD prescribes 8 areas of
+info. to be provided in cataloging but not all elements are necessary
+for cataloging every single document
+:::
 
-- ISBD prescribes 8 areas of info. to be provided in cataloging but not all elements are necessary for cataloging every single document
+::: {.column width="50%"}
+    -   Title & statement of responsibility
 
-- It depends on the size of the library and info. needed to describe a particular document
+    -   Edition
 
-- AACR2 in its 0.26 Rules emphasized that "certain materials do not require every element of that standard"
+    -   Material (or type of publication) specifc details
 
-- Levels are provided to "constitute a max. set of info."
+    -   Publication distribution
 
+    -   Physical Description
 
+    -   Series
+
+    -   Note
+
+    -   Standard No. and terms of availability
+:::
+:::
+
+## A. Levels (Cont.)
+
+-   It depends on the size of the library and info. needed to describe a
+    particular document
+
+-   AACR2 in its 0.26 Rules emphasized that "certain materials do not
+    require every element of that standard"
+
+-   Levels are provided to "constitute a max. set of info."
+
+## A. Levels (Cont.)
+
+![](images/rules.png){fig-align="center"}
 
 :::
 
+## RULES
+
+::: panel-tabset
+
+## B. Rules for Title
+
+::: columns
+::: {.column width="50%"}
+
+i) **Title Proper**: The rule directs to transcribe the title proper from the chief
+source of information exactly as to wording, order, and spelling, but not
+necessarily as to punctuation and capitalisation
+
+ii) **Parallel Title**: Generally a parallel title is the title
+:::
+
+
+::: {.column width="50%"}
+
+ proper in another language and/or script recorded in the title and statement of responsibility area. It is transcribed and preceded by equal (=) sign
+
+(iii) **Other Title Information**: It implies subtitle or explanatory
+title. It is transcribed and preceded by colon (:) sign
+:::
+:::
+
+## C. Rule
+
+**C. Rules for Statements of Responsibility**
+
+- It is transcribed in the same form and sequence as they appear immediately after the title proper and/or the parallel title and other title information, if any, preceded by space-forward slash-space ( / )
+
+## D. Rule
+**D. Rule for Edition Statements**
+
+- It consists of edition statement, statement relating to named revision
+of an edition, statement of responsibility relating to edition and the subsequent
+edition statement. This area is preceded by a full stop-space-dash-space (. - ). The statement relating to named revision of an edition, if any, is preceded by a
+comma and the statement of responsibility relating to edition is preceded by a
+space-forward slash-space ( / ) while each subsequent edition statement is precede
+by a space-semicolon-space ( ; )
+
+## E. & F. Rules
+
+**E. Rule for Material Specific Details**
+
+- The Material (or type of publication) specific details area is preceded by a full
+stop-space-dash-space (. - )
+
+**F. Rule for Publication Distribution**
+
+- It consists of place of publication, distribution; name of publisher,
+distributors; date of publication, distribution, etc. and the details of manufacturer
+(place, name, date). Previously this area used to be known as imprint. Like other
+areas this area is also preceded by a full stop-space-dash-space (. - )
+
+:::
+
+## RULES
+
+::: panel-tabset
+
+## G. Rule
+
+**G. Rule for Physical Description**
+
+- It is started with a new paragraph
+from the second indentation of the card. If this area is not started with the new
+paragraph, then it will be preceded by a full stop-space-dash-space (. - )
+
+- This
+area consists of the number of pages of a single volume work, or the number
+of volumes and pages, information about the illustration, size, accompanying
+materials if any, and series note in that order
+
+## G. Rule (Cnt.)
+- Info. about the illustration like charts,
+forms, genealogical tables, maps, music or portraits are recorded with the
+abbreviations 'ill.' preceded by a colon ( : ) and each particular kind of illus.,
+if any, separated by a semicolon ( ; ). The size (dimension) of the work is
+recorded in whole cm. and preceded by a semicolon ( ; )
+
+- For example,
+
+[10], 332p. : ill. ; maps ; 31 cm.
+
+## H. Rule
+
+**H. Rule for Series**
+
+- It is recorded within the parentheses '( )' immediately after
+the physical description, preceded by a full stop-space-dash-space (. - )
+
+- It consists of title proper of the series, statement of responsibility
+relating to the series, numbering of the series, sub series and more than one
+series statement and more than one series number
+
+- The statement of responsibility
+relating to the series is preceded by a space-forward slash-space ( / ) and its
+
+
+## H. Rule (Cnt.)
+numbering is preceded by semicolon
+
+- In case of the work belongs to the more
+than one series, the series should be recorded in the specific to general sequence
+within their own set of parentheses
+
+- For example,
+
+. - ( Ranganathan Series in library science; 20)
+:::
+
+## RULES
+
+::: panel-tabset
+
+## I. Rule
+
+**I. Rule for Notes**
+
+- Each note may be preceded by a full stop-space-dash-space (. - ) or started
+with new paragraph separately
+
+- Notes are given when it is found needed to explain or supplement information which cannot be included in the other areas
+
+- The sequence of information in the note section will be same as that of different
+areas of description
+
+## J. Rule
+
+**J. Rule for Standard Numbers**
+
+- The standard number section must be preceded by a full stop-space-dash-space
+(. - ) or started with new paragraph
+
+- After the standard number a brief
+qualification is to be recorded when the work bears more than one standard
+number
+
+- For example,
+
+ISBN 81-85273-16-2
+
+:::
 
 # Bibliographic Description - Format {background-color="#438496"}
 
@@ -342,8 +514,8 @@ exchange of bibliographic data on magnetic tape and other storage media
 
 ::: columns
 ::: {.column width="50%"}
-
-- Functional Requirements for Bibliographic Records (FRBR) is an entity-relationship model framed by IFLA in 1998
+-   Functional Requirements for Bibliographic Records (FRBR) is an
+    entity-relationship model framed by IFLA in 1998
 
 -   It represents a generalised view of the bibliographic universe
 :::
@@ -475,78 +647,82 @@ exchange of bibliographic data on magnetic tape and other storage media
 ::: panel-tabset
 ## BIBFRAME
 
--   [Bibliographic Framework](https://www.loc.gov/bibframe/) provides a foundation for the future of bibliographic description, both on the web, and in the broader networked world that is grounded in Linked Data techniques
+-   [Bibliographic Framework](https://www.loc.gov/bibframe/) provides a
+    foundation for the future of bibliographic description, both on the
+    web, and in the broader networked world that is grounded in Linked
+    Data techniques
 
--   BIBFRAME was designed to replace the MARC21 formats while preserving a robust data exchange that has supported resource sharing and cataloging cost savings in recent decades
+-   BIBFRAME was designed to replace the MARC21 formats while preserving
+    a robust data exchange that has supported resource sharing and
+    cataloging cost savings in recent decades
 
 -   In 2012, LoC announced a new model called MARC Resources (MARCR)
     that developed a linked data alternative to MARC and released a more
-    complete draft 
+    complete draft
 
 ## BIBFRAME (Cont.)
+
 ::: columns
 ::: {.column width="50%"}
-
 of the model later that year, renamed BIBFRAME
 
 -   LoC released version 2.0 of BIBFRAME in 2016
 
 #### Design
 
-- BIBFRAME is expressed in RDF and based on three categories of abstraction (work, instance, item), with three additional classes 
+-   BIBFRAME is expressed in RDF and based on three categories of
+    abstraction (work, instance, item), with three additional classes
 :::
 
-
 ::: {.column width="50%"}
-
 (agent, subject, event) that relate to the core categories
 ![](images/bib.jpg)
 :::
 :::
 
 ## BIBFRAME (Cont.)
+
 ::: columns
 ::: {.column width="50%"}
-- *Work* entity in BIBFRAME may be considered as the union of the disjoint *work* and *expression* entities of FRBR
+-   *Work* entity in BIBFRAME may be considered as the union of the
+    disjoint *work* and *expression* entities of FRBR
 
-- BIBFRAME's instance entity is analogous to the FRBR manifestation entity
+-   BIBFRAME's instance entity is analogous to the FRBR manifestation
+    entity
 
-- This represents an apparent break with FRBR and the FRBR-based 
+-   This represents an apparent break with FRBR and the FRBR-based
 :::
-
 
 ::: {.column width="50%"}
-
 Resource Description and Access (RDA) cataloging code
 
-- BIBFRAME model argues that it reflect  FRBR relationships in terms of a graph rather than as hierarchical relationships, after applying a reductionist technique
-
-
+-   BIBFRAME model argues that it reflect FRBR relationships in terms of
+    a graph rather than as hierarchical relationships, after applying a
+    reductionist technique
 :::
 :::
 :::
-
 
 ## Models of Biblio. Descrp.
 
 ::: panel-tabset
 ## BIBFRAME (Cont.)
--  Since both FRBR and BIBFRAME have been expressed in RDF, interoperability between the two models is technically possible
+
+-   Since both FRBR and BIBFRAME have been expressed in RDF,
+    interoperability between the two models is technically possible
 :::
-
-
 
 ## PREVIOUS YEAR QUESTIONS
 
 #### Long Questions (12.5 Marks)
 
-1. What is bibliographic description? Discuss contribution of institutions and information experts in development of bibliographic description tools
+1.  What is bibliographic description? Discuss contribution of
+    institutions and information experts in development of bibliographic
+    description tools
 
-2. What you do you understand by 'Bibliographic Format'?
+2.  What you do you understand by 'Bibliographic Format'?
 
 #### Short Questions (5 Marks)
 
-1. ISBD
-2. Bibliographic Description
-
-
+1.  ISBD
+2.  Bibliographic Description
