@@ -105,7 +105,7 @@ xaringanExtra::use_panelset()
 ## ISBD HISTORY
 
 | Year | Event                                                                                                                                                         |
-|-------------------|-----------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | 1971 | ISBD for Monographic Publications (ISBD (M)) was published & was revised in 1974 as "First Standard Edition" and was again revised in 1987                    |
 | 1974 | ISBD (S) for serials was published & revised in 1988                                                                                                          |
 | 1977 | ISBD (CM) for cartographic materials & ISBD (NBM) for non-book materials were appeared and revised in 1987                                                    |
@@ -114,7 +114,7 @@ xaringanExtra::use_panelset()
 ## ISBD HISTORY (Cont.)
 
 |      |                                                                                                                                                      |
-|-------------------|-----------------------------------------------------|
+|--------------------|----------------------------------------------------|
 | 1980 | International bibliographic book description for Antiquarian & Printed music (ISBD (A)) & ISBD (PM) were published & revised in 1991                 |
 | 1988 | Description of component parts & a guideline for application of article level was published                                                          |
 | 1989 | Conference carrying agenda on Section of Cataloging adopting a schedule with its procedures for the development & distribution of documents was held |
@@ -384,28 +384,27 @@ exchange of bibliographic data on magnetic tape and other storage media
     bibliographic data along with trade data and promotional information
 :::
 
-# Bibliographic Description - Model {background-color="#438496"}
+# Bibliographic Description - Models {background-color="#438496"}
 
 ## Models of Biblio. Descrp.
 
 ::: panel-tabset
-## Models
+## FRBR
+
 ::: columns
 ::: {.column width="50%"}
-1.  **Functional Requirements for Bibliographic Records (FRBR)**
 
--   FRBR is an entity-relationship model framed by IFLA in 1998
+- Functional Requirements for Bibliographic Records (FRBR) is an entity-relationship model framed by IFLA in 1998
 
 -   It represents a generalised view of the bibliographic universe
 :::
-
 
 ::: {.column width="50%"}
 ![](images/frbr.png){fig-align="center"}
 :::
 :::
 
-## Models (Cont.)
+## FRBR (Cont.)
 
 -   FRBR model:
     -   identifies the bibliographic entities and defines their nature
@@ -415,35 +414,175 @@ exchange of bibliographic data on magnetic tape and other storage media
         associated with each attribute
     -   delineates the nature of relationships that operate at a
         generalized level between specific instances of entities
-    
 
-## Models (Cont.)
+## FRBR (Cont.)
 
 -   FRBR model:
     -   maps the attributes and relationships associated with each
-        entity to four generic user tasks (**find, identify, select, obtain**) 
-    - recommends basic data requirements for national
-bibliographic records
-
-
+        entity to four generic user tasks (**find, identify, select,
+        obtain**)
+    -   recommends basic data requirements for national bibliographic
+        records
 :::
 
 ## Models of Biblio. Descrp.
 
 ::: panel-tabset
-## Models (Cont.)
+## FRBR (Cont.)
 
-- FRBR Entities:
-    - Group 1 are the products of intellectual and artistic endeavor that are
-named or described in bibliographic records : work, expression, manifestation, and item
+-   FRBR Entities:
+    -   Group 1 are the products of intellectual and artistic endeavor
+        that are named or described in bibliographic records : work,
+        expression, manifestation, and item
 
 ![](images/frbr2.png){fig-align="center"}
 
-## Models (Cont.)
+## FRBR (Cont.)
 
-   - Group 2 - are the entities responsible for the intellectual or artistic content, the physical production and dissemination or the custodianship of such products: person and corporate body
+-   Group 1 are the entities that are the product of intellectual or
+    artistic endeavor
+
+![](images/frbr5.png){fig-align="center"}
+
+## FRBR (Cont.)
+
+-   Group 1
+    -   Work: distinct intellectual or artistic creation
+    -   Expression: intellectual or artistic realization of a work in
+        the form of alpha-numeric notation, musical notation,
+        choreographic notation, sound, image, object, movement, etc., or
+        any combination
+    -   Manifestation: physical embodiment of an expression of a work.
+        In order to record something you have to put it "on or in" some
+        container or carrier. So, manifestations appear in various
+        "carriers" such as books, periodicals, maps, DVDs, multimedia
+        games, Web pages
+:::
+
+## Models of Biblio. Descrp.
+
+::: panel-tabset
+## FRBR (Cont.)
+
+::: columns
+::: {.column width="50%"}
+-   Group 1
+    -   Item: it is a single object, but sometimes it comprises more
+        than one physical object, e.g., a monograph issued in 2
+        separately bound volumes or a sound recording on 3 separate CD's
+:::
+
+::: {.column width="50%"}
+-   The entities form a hierarchy with work at the top of the model
+
+![](images/frbr6.png){fig-align="center"}
+:::
+:::
+
+## FRBR (Cont.)
+
+-   Group 2 are the entities responsible for the intellectual or
+    artistic content, the physical production and dissemination or the
+    custodianship of such products: person and corporate body
 
 ![](images/frbr3.png){fig-align="center"}
+
+## FRBR (Cont.)
+
+-   Group 3 are the entities that serve as the subjects of intellectual
+    or artistic endeavor: concept, object, event, place, and any of the
+    Group 1 or Group 2 entities -- you can have a work about another
+    work or a work about a person, etc.
+
+![](images/frbr4.png){fig-align="center"}
+:::
+
+## Models of Biblio. Descrp.
+
+::: panel-tabset
+## FRBR (Cont.)
+
+![](images/frbr7.png){fig-align="center" width="60%"}
+
+## FRBR (Cont.)
+
+![](images/frbr8.png){fig-align="center" width="60%"}
+
+## FRBR (Cont.)
+
+![](images/frbr9.png){fig-align="center" width="60%"}
+
+## FRBR (Cont.)
+
+![](images/frbr10.png){fig-align="center" width="60%"}
+
+## FRBR (Cont.)
+
+![](images/frbr11.png){fig-align="center" width="60%"}
+:::
+
+## Models of Biblio. Descrp.
+
+::: panel-tabset
+## BIBFRAME
+
+-   [Bibliographic Framework](https://www.loc.gov/bibframe/) provides a foundation for the future of bibliographic description, both on the web, and in the broader networked world that is grounded in Linked Data techniques
+
+-   BIBFRAME was designed to replace the MARC21 formats while preserving a robust data exchange that has supported resource sharing and cataloging cost savings in recent decades
+
+-   In 2012, LoC announced a new model called MARC Resources (MARCR)
+    that developed a linked data alternative to MARC and released a more
+    complete draft 
+
+## BIBFRAME (Cont.)
+::: columns
+::: {.column width="50%"}
+
+of the model later that year, renamed BIBFRAME
+
+-   LoC released version 2.0 of BIBFRAME in 2016
+
+#### Design
+
+- BIBFRAME is expressed in RDF and based on three categories of abstraction (work, instance, item), with three additional classes 
+:::
+
+
+::: {.column width="50%"}
+
+(agent, subject, event) that relate to the core categories
+![](images/bib.jpg)
+:::
+:::
+
+## BIBFRAME (Cont.)
+::: columns
+::: {.column width="50%"}
+- *Work* entity in BIBFRAME may be considered as the union of the disjoint *work* and *expression* entities of FRBR
+
+- BIBFRAME's instance entity is analogous to the FRBR manifestation entity
+
+- This represents an apparent break with FRBR and the FRBR-based 
+:::
+
+
+::: {.column width="50%"}
+
+Resource Description and Access (RDA) cataloging code
+
+- BIBFRAME model argues that it reflect  FRBR relationships in terms of a graph rather than as hierarchical relationships, after applying a reductionist technique
+
+
+:::
+:::
+:::
+
+
+## Models of Biblio. Descrp.
+
+::: panel-tabset
+## BIBFRAME (Cont.)
+-  Since both FRBR and BIBFRAME have been expressed in RDF, interoperability between the two models is technically possible
 :::
 
 ## International Bibliographic Format (Cont.)
