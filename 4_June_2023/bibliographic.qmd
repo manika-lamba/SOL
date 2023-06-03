@@ -1,0 +1,499 @@
+---
+title: "BIBLIOGRAPHIC DESCRIPTION"
+subtitle: |
+  **[Paper-M-108]{.orange}**
+author: |
+  [Dr. Manika Lamba](https://manika-lamba.github.io)
+date: "04th June 2023"
+slide-number: true
+#footer: |
+#  **[Download Material](https://github.com/manika-lamba/SOL)**
+# uncomment for French presentations:
+#lang: fr
+# for blind readers:
+#slide-tone: true
+# for @olevitt:
+chalkboard: # press the B key to toggle chalkboard
+  theme: whiteboard
+# uncomment to use the multiplex mode:
+#multiplex: true
+format:
+  # pick the light mode (onyxia-revealjs) or the dark mode (onyxia-dark-revealjs)
+  onyxia-revealjs:
+    #incremental: true   
+  #onyxia-dark-revealjs:
+    output-file: index.html
+# visual editor configuration:
+editor:
+  render-on-save: true
+  markdown: 
+    wrap: 72
+---
+
+```{r xaringan-panelset, echo=FALSE}
+
+library(xaringanExtra)
+
+xaringanExtra::use_panelset()
+```
+
+# Bibliographic Description - Introduction {background-color="#438496"}
+
+## INTRODUCTION
+
+-   Unprecedented growth of literature gives rise to develop adequate
+    formats with standard bibliographic description to promote resource
+    sharing among libraries and to have effective information retrieval
+    system
+
+-   The library scenario has been completely changed with the
+    application ICT rendered the traditional manual oriented
+    bibliographic description standards inadequate paved the way for
+    newer bibliographic standards
+
+-   Moreover, the fast growth of International Bibliographic Exchange
+    Formats and lack of compatibility poses problems to exchange records
+    with one another
+
+-   It is possible if each of the organizations agree upon a common
+    standard format for exchange purpose to be
+
+## INTRODUCTION (Cont.)
+
+-   achieved at National and International level
+
+-   In this age of Information flood and the advent of IT era, it is
+    very difficult to locate and retrieve the desired information
+
+-   Hence it is necessary that the efficient information retrieval
+    system must have a format of bibliographic description that matches
+    its requirements
+
+-   A bibliographic format in such a way to be redesigned so as to make
+    it most compatible with the new information environment for
+    international library resource sharing, international library loan
+    and global networking with the aid of ICT
+
+## INTRODUCTION (Cont.)
+
+-   The bibliographic description in a process of recording the items of
+    information about the document for easy identification and instant
+    location, access and for the purpose of effective dissemination
+
+-   IFLA held an International Conference on Cataloguing Principles
+    (ICCP) at Paris in 1961 with a purpose to achieve international
+    standardization in cataloguing
+
+-   Standardization of International Standard Bibliographic Description
+    (ISBD) made it economic & technological necessity for the creation,
+    conversion, and use of machine-readable records
+
+-   These rules are standards to promote universal bibliographic control
+
+## INTRODUCTION (Cont.)
+
+-   Consistency while sharing bibliographic information is the main goal
+    of ISBD
+
+-   The most important contribution has been made by ISBD(G) \[General
+    International Standard Bibliographic Description\] which is intended
+    to provide the generalized framework for descriptive information
+    required in range of different bibliographic activities
+
+# HISTORY & DEVELOPMENT OF ISBD {background-color="#438496"}
+
+## ISBD HISTORY
+
+| Year | Event                                                                                                                                                         |
+|-------------------|-----------------------------------------------------|
+| 1971 | ISBD for Monographic Publications (ISBD (M)) was published & was revised in 1974 as "First Standard Edition" and was again revised in 1987                    |
+| 1974 | ISBD (S) for serials was published & revised in 1988                                                                                                          |
+| 1977 | ISBD (CM) for cartographic materials & ISBD (NBM) for non-book materials were appeared and revised in 1987                                                    |
+| 1977 | ISBD (G) was published. It includes information about general. The basic need of ISBD (G) was to ensure the harmony among other ISBDs and was revised in 1992 |
+
+## ISBD HISTORY (Cont.)
+
+|      |                                                                                                                                                      |
+|-------------------|-----------------------------------------------------|
+| 1980 | International bibliographic book description for Antiquarian & Printed music (ISBD (A)) & ISBD (PM) were published & revised in 1991                 |
+| 1988 | Description of component parts & a guideline for application of article level was published                                                          |
+| 1989 | Conference carrying agenda on Section of Cataloging adopting a schedule with its procedures for the development & distribution of documents was held |
+| 1990 | International Standard Bibliographic Description for Computer Files ISBD (CF) was published                                                          |
+| 2002 | Updated procedures on electronic environment opportunities                                                                                           |
+
+## FIVE PHASES IN DEVELOPMENT OF ISBD
+
+1.  Creating a draft text
+
+2.  Worldwide Review
+
+3.  Final Revision
+
+4.  Balloting
+
+5.  Publication
+
+## STRUCTURE OF ISBD
+
+-   ISBD is divided into 8 areas on description
+
+1.  Title and statement of responsibility
+2.  Edition
+3.  Material (or type of Publication) specific data (used for
+    cartographic materials & serials)
+4.  Publication, distribution data, including place & date of
+    Publication
+5.  Physical description
+6.  Series
+7.  Notes
+8.  Standard number & terms of availability
+
+## PURPOSE OF ISBD
+
+-   It makes it possible to interchange records from different sources
+
+-   It supports to overcome the language barriers and help to interpret
+    records from one language to other
+
+-   It facilitates the conversion of bibliographic records to electronic
+    form
+
+-   It defines the selection and order of data elements
+
+-   It prescribes punctuation marks to be used within a bibliography
+
+-   It establishes compatibility among cataloging for exchange of
+    bibligraphic records for information centers
+
+# Bibliographic Description - Scope, Evolution {background-color="#438496"}
+
+## SCOPE OF BIBLIO. DES.
+
+::: panel-tabset
+## Scope
+
+-   It should focus on proper functionality of bibliographic records
+    maintained by libraries & information centers
+
+-   The scope of bibliographic description can be in the *context of
+    coverage, user, application and generic tasks associated with it*
+
+1.  *Coverage Bibliographic Description* should be comprehensive in
+    terms of variety of materials (textual, musical, cartographic,
+    audio-visual, graphic, 3-D material, etc.). It must cover physical
+    media (film, magnetic storage devices) and all formats (books,
+
+## Scope (Cont.)
+
+sheets discs, cassettes, etc) all with all modes of recording (analogue,
+acoustic, digital, etc)
+
+2.  *Users Bibliographic Description* ensure the use of bibliographic
+    records by wide range of users. The user groups included readers,
+    students, researchers, library staff, publishers, distribution &
+    subscription such as information brokers, retailers, agents, etc
+
+3.  *Applications of Bibliographic Description* in relation to
+    bibliographic records should support a wide variety of data &
+    bibliographic records. It includes *collection development,
+    acquisition, cataloging, production of*
+
+## Scope (Cont.)
+
+*finding aids & bibliographies, inventory management, preservation,
+circulation, ILL, reference & information retrieval*
+
+4.  *Tasks Bibliographic Description* should fulfill the functional
+    requirements for bibliographic records. It must allow users' to
+    perform all the generic tasks at the time of searching and making
+    use of bibliographic records. This include **finding, identifying,
+    selecting, & acquiring** material using bibliographic data
+
+## Scope (Cont.)
+
+-   Cataloguers perform the following tasks to maintain the catalogues
+    or bibliograhic databases:
+
+    -   Transcribe
+    -   Describe
+    -   Make Identifiable
+    -   Link
+    -   Manage
+    -   Convey Rights Management Information
+:::
+
+## EVOLUTION
+
+::: panel-tabset
+## Intro
+
+-   The standards, rules and principles of bibliographic description are
+    also applicable to online and web environment for discovery,
+    indexing and identification of digital resources by semantic means
+
+-   Metadata schemas for describing electronic resources (such as Dublin
+    Core, FGDC, GILS, etc.), like traditional bibliographic standards
+    and formats, are also designed for information storage and transfer
+
+-   It means that a bibliographic record now performs different
+    functions with respect to various media, various applications, and
+    various user needs
+
+## Intro (Cont.)
+
+-   This situation calls for a framework that should identify and
+    clearly define bibliographic entities, attributes, relationships and
+    tasks performed by users of bibliographic records
+
+-   Some conceptual models (such as IFLA's FRBR model, UKOLN's
+    Analytical Model of Collection Description and XOBIS model of
+    Stanford University) have been developed in recent years to
+    encompass a broad-spectrum application of bibliographic description
+    and use of bibliographic records
+
+## Pre-ISBD
+
+![](images/pre-isbd.png){fig-align="center" width="58%"}
+
+## Pre-ISBD(Cont.)
+
+-   During this period the much-required agreed-to general format for
+    bibliographic description could not be developed
+
+-   IFLA first initiated the development of such a general format in the
+    form of ISBD(G) under its Universal Bibliographic Control (UBC)
+    program
+:::
+
+## EVOLUTION
+
+::: panel-tabset
+## Ranganathan's Principles
+
+-   Ranganathan applied scientific method to cataloguing & formulated
+    normative principles of cataloguing called Canons of Cataloguing
+
+-   These principles still serve as the basis for principles and rules
+    of bibliographic description vis-a-vis cataloguing codes
+
+-   The general principles for standards for biblio. descrp. are:
+
+1.  *Principle of Context*: It determines the situational contexts
+    required for specifying the elements of
+
+## Principles (Cont.)
+
+bibliographic description and their role
+
+2.  *Principle of Permanence*: It says no element in an entry, the
+    heading in particular, should be subjected to change unless rules
+    themselves are changed in response to the principle of context
+3.  *Principle of Consistency*: It says bibliographic description should
+    be consistent for bibliographic records
+4.  *Principle of Unity of Idea*: It advocates structural design for
+    cataloguing codes and standards for bibliographic description
+:::
+
+# Bibliographic Description - Format {background-color="#438496"}
+
+## Bibliographic Format
+
+::: panel-tabset
+## Intro
+
+-   Bibliographic formats have been created for two purposes -- to
+    facilitate search and retrieval of bibliographic records, locally
+    and in network environment and to exchange bibliographic information
+    among library and information centers
+
+-   A bibliographic format that acts as a means of exchanging data has
+    three basic components:
+
+1.  **Physical structure:** Rules to arrange the data to be exchanged on
+    a computer storage medium such as CD. etc. ISO 2709 is an accepted
+    international standard for
+
+## Compo. (Cont.)
+
+exchange of bibliographic data on magnetic tape and other storage media
+
+2.  **Content Designators:** Tags to define the different data elements
+    of the records such as author, date of publication, title, so on.
+    EG. MARC family (USMARC, CANMARC, UKMARC, UNIMARC, INDIMARC,
+    MARC21 - combination of USMARC & CANMARC), CCF (Common Communication
+    Format), others
+
+3.  **Content:** Rules & record that helps in formulation of data
+    elements for different formats. EG. catalogue codes, ISBD
+
+## Electronic Resource
+
+-   ISBD(ER) provides a long list of data elements for describing
+    electronic resources & AARC2 guide the cataloguing of such resources
+
+-   Some bibliographic formats are UNIMARC, MARC21 developed special
+    field (Field 856) for managing electronic resources
+
+-   Bibliographic formats & cataloguing codes are not enough for
+    representing all unique characterstics of digital resources and
+    therefore metadata standards have been developed as *resource
+    description schemas*
+:::
+
+## Bibliographic Format (Cont.)
+
+::: panel-tabset
+## Metadata
+
+-   Metadata is structured information that describes, explains, locates
+    or otherwise makes it easier to retrieve, use or manage digital
+    information resources
+
+-   Metadata schemas are sets of metadata elements designed for a
+    particular purpose, for example to describe a particular type of
+    information resource
+
+-   In addition to resource discovery, metadata schemas can help to
+    organise electronic resource, facilitate interoperability & resource
+    integration, support digital identification and ensure archiving and
+    preservation
+
+## Metadata (Cont.)
+
+-   Many different metadata schemas are being used in library
+    environment
+    -   Dublin Core Metadata Schema: describe web based documents.
+        Dublin Core is a set of 15 main elements that fall into three
+        groups -- Contents, Intellectual Property and Instantiation.
+    -   Global Information Locator Service (GILS): GILS specifies a
+        profile of the Z39.50 protocol for search and retrieval. GILS
+        records are intended to describe aggregates such as catalogues,
+        publishing services and databases.
+
+## Metadata (Cont.)
+
+-   Text Encoding Initiative (TEI): It is a scheme for marking up
+    electronic text. It also specifies a header portion to accommodate
+    metadata about the object to be described. TEI headers can be used
+    to record bibliographic information of both electronic and
+    non-electronic sources
+
+-   Online Information Exchange International (ONIX): ONIX is an
+    XML-based metadata schema developed for publishing industry to
+    response enormous growth in online books sales. It records basic
+    bibliographic data along with trade data and promotional information
+:::
+
+# Bibliographic Description - Model {background-color="#438496"}
+
+## Models of Biblio. Descrp.
+
+::: panel-tabset
+## Models
+::: columns
+::: {.column width="50%"}
+1.  **Functional Requirements for Bibliographic Records (FRBR)**
+
+-   FRBR is an entity-relationship model framed by IFLA in 1998
+
+-   It represents a generalised view of the bibliographic universe
+:::
+
+
+::: {.column width="50%"}
+![](images/frbr.png){fig-align="center"}
+:::
+:::
+
+## Models (Cont.)
+
+-   FRBR model:
+    -   identifies the bibliographic entities and defines their nature
+        and scope
+    -   analyses the attributes associated with each of the entities
+    -   provides a comprehensive listing of individual data elements
+        associated with each attribute
+    -   delineates the nature of relationships that operate at a
+        generalized level between specific instances of entities
+    
+
+## Models (Cont.)
+
+-   FRBR model:
+    -   maps the attributes and relationships associated with each
+        entity to four generic user tasks (**find, identify, select, obtain**) 
+    - recommends basic data requirements for national
+bibliographic records
+
+
+:::
+
+## Models of Biblio. Descrp.
+
+::: panel-tabset
+## Models (Cont.)
+
+- FRBR Entities:
+    - Group 1 are the products of intellectual and artistic endeavor that are
+named or described in bibliographic records : work, expression, manifestation, and item
+
+![](images/frbr2.png){fig-align="center"}
+
+## Models (Cont.)
+
+   - Group 2 - are the entities responsible for the intellectual or artistic content, the physical production and dissemination or the custodianship of such products: person and corporate body
+
+![](images/frbr3.png){fig-align="center"}
+:::
+
+## International Bibliographic Format (Cont.)
+
+::: panel-tabset
+## MARC
+
+-   MARC stands for **MA**chine **R**eadable **C**ataloging
+-   Data indexing system which was developed by LoC in 1965
+-   Allows computers to "understand" cataloging inputs
+-   Parts of MARC record
+    -   Fields: Contain Data
+    -   Tags: Identify what is in the field (eg. 245 is title info.)
+    -   Indicator: Tell computers how to work with field (eg. in title
+        field there is a non-filing indicator, if we have
+
+## MARC (Cont.)
+
+-   Parts of MARC record
+    -   "The History of Art" title, the browser will display we want to
+        begin filing with "history" & not "the")
+    -   Subfield: Sections of field
+    -   Subfield Codes: Identify content of subfield (eg. in 245 field,
+        subfield C is statement of responsibility)
+    -   Delimiters: Mark start of subfield
+
+## MARC (Cont.)
+
+![](images/marc1.png){fig-align="center"}
+
+## MARC (Cont.)
+
+![](images/marc2.png){fig-align="center"}
+:::
+
+## International Bibliographic Format (Cont.)
+
+::: panel-tabset
+## MARC (Cont.)
+
+![](images/marc3.png){fig-align="center"} \## MARC (Cont.)
+
+-   040 field contains codes that tell which institutions did the
+    cataloging
+
+![](images/marc4.png){fig-align="center"}
+:::
+
+## PREVIOUS YEAR QUESTIONS
+
+#### Long Questions (12.5 Marks)
+
+#### Short Questions (5 Marks)
