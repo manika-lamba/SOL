@@ -6,7 +6,7 @@ This repository contains the Slides, Recorded Video, Quiz, & Reading Material fo
 
 2. [Video]
 
-3. [Quiz]
+3. [Quiz](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/quiz.pdf)
 
 4. Reading Material
 - [Principles & Evolution of Bibliographic Description](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/Principles-and-Evolution.pdf)
