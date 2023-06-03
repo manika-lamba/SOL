@@ -6,6 +6,7 @@ This repository contains Slides, Recorded Live Videos, Quizzes, & Reading Materi
 ### [Week 2: ISAR, IR Searching & Models](https://github.com/manika-lamba/SOL/tree/main/14_May_2023)
 ### [Week 3: Controlled Vocabulary & Tools](https://github.com/manika-lamba/SOL/blob/main/21_May_2023)
 ### [Week 4: Need, Structure, and Construction of Thesaurus](https://github.com/manika-lamba/SOL/tree/main/28_May_2023)
+### [Week 5: Bibliographic Description: Principles, Evolution, Rules](https://github.com/manika-lamba/SOL/tree/main/4_June_2023)
 
 ## COMPULSARY READING
 
