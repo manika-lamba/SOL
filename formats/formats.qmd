@@ -34,44 +34,48 @@ editor:
 
 ## ISBD
 
--   IFLA held an International Conference on Cataloguing Principles
-    (ICCP) at Paris in 1961 with a purpose to achieve international
-    standardization in cataloguing
+-   [IFLA held an International Conference on Cataloguing Principles
+    (ICCP) at Paris in 1961]{style="color: blue;"} with a purpose to
+    achieve international standardization in cataloguing
 
--   Standardization of International Standard Bibliographic Description
-    (ISBD) made it economic & technological necessity for the creation,
-    conversion, and use of machine-readable records
+-   [Standardization of International Standard Bibliographic
+    Description]{style="color: blue;"} (ISBD) made it [economic &
+    technological necessity for the creation, conversion, and use of
+    machine-readable records]{style="color: blue;"}
 
--   These rules are standards to promote universal bibliographic control
+-   These rules are standards to [promote universal bibliographic
+    control]{style="color: blue;"}
 
--   Consistency while sharing bibliographic information is the main goal
-    of ISBD
+-   [Consistency while sharing bibliographic
+    information]{style="color: blue;"} is the main goal of ISBD
 
 ## ISBD (Cont.)
 
--   The most important contribution has been made by ISBD(G) \[General
-    International Standard Bibliographic Description\] which is intended
-    to provide the generalized framework for descriptive information
-    required in range of different bibliographic activities
+-   The most important contribution has been made by [ISBD(G) \[General
+    International Standard Bibliographic
+    Description\]]{style="color: blue;"} which is intended to provide
+    the [generalized framework for descriptive
+    information]{style="color: blue;"} required in range of [different
+    bibliographic activities]{style="color: blue;"}
 
 ## ISBD HISTORY
 
-| Year | Event                                                                                                                                                         |
-|---------------------|---------------------------------------------------|
-| 1971 | ISBD for Monographic Publications (ISBD (M)) was published & was revised in 1974 as "First Standard Edition" and was again revised in 1987                    |
-| 1974 | ISBD (S) for serials was published & revised in 1988                                                                                                          |
-| 1977 | ISBD (CM) for cartographic materials & ISBD (NBM) for non-book materials were appeared and revised in 1987                                                    |
-| 1977 | ISBD (G) was published. It includes information about general. The basic need of ISBD (G) was to ensure the harmony among other ISBDs and was revised in 1992 |
+| Year | Event                                                                                                                                                                                                   |
+|----------------------|--------------------------------------------------|
+| 1971 | [ISBD for Monographic Publications (ISBD (M))]{.underline} was published & was [revised in 1974 as "First Standard Edition"]{.underline} and was [again revised in 1987]{.underline}                    |
+| 1974 | [ISBD (S) for serials was published & revised in 1988]{.underline}                                                                                                                                      |
+| 1977 | [ISBD (CM) for cartographic materials]{.underline} & [ISBD (NBM) for non-book materials]{.underline} were appeared and [revised in 1987]{.underline}                                                    |
+| 1977 | [ISBD (G)]{.underline} was published. It includes [information about general]{.underline}. The basic need of ISBD (G) was to ensure the [harmony among other ISBDs and was revised in 1992]{.underline} |
 
 ## ISBD HISTORY (Cont.)
 
-|      |                                                                                                                                                      |
-|---------------------|---------------------------------------------------|
-| 1980 | International bibliographic book description for Antiquarian & Printed music (ISBD (A)) & ISBD (PM) were published & revised in 1991                 |
-| 1988 | Description of component parts & a guideline for application of article level was published                                                          |
-| 1989 | Conference carrying agenda on Section of Cataloging adopting a schedule with its procedures for the development & distribution of documents was held |
-| 1990 | International Standard Bibliographic Description for Computer Files ISBD (CF) was published                                                          |
-| 2002 | Updated procedures on electronic environment opportunities                                                                                           |
+|      |                                                                                                                                                                                |
+|----------------------|--------------------------------------------------|
+| 1980 | [International bibliographic book description for Antiquarian & Printed music (ISBD (A))]{.underline} & [ISBD (PM)]{.underline} were published & [revised in 1991]{.underline} |
+| 1988 | [Description of component parts & a guideline for application of article level]{.underline} was published                                                                      |
+| 1989 | [Conference carrying agenda on Section of Cataloging adopting a schedule with its procedures for the development & distribution of documents was held]{.underline}             |
+| 1990 | International Standard Bibliographic Description for [Computer Files ISBD (CF)]{.underline} was published                                                                      |
+| 2002 | [Updated procedures on electronic environment opportunities]{.underline}                                                                                                       |
 
 ## FIVE PHASES IN DEVELOPMENT OF ISBD
 
@@ -102,20 +106,20 @@ editor:
 
 ## PURPOSE OF ISBD
 
--   It makes it possible to interchange records from different sources
+-   It makes it possible to [interchange records from different sources]{style="color: blue;"}
 
--   It supports to overcome the language barriers and help to interpret
-    records from one language to other
+-   It supports to [overcome]{style="color: blue;"} the [language barriers]{style="color: blue;"} and help to [interpret
+    records from one language to other]{style="color: blue;"}
 
--   It facilitates the conversion of bibliographic records to electronic
-    form
+-   It facilitates the [conversion of bibliographic records to electronic
+    form]{style="color: blue;"}
 
--   It defines the selection and order of data elements
+-   It [defines the selection and order of data elements]{style="color: blue;"}
 
--   It prescribes punctuation marks to be used within a bibliography
+-   It [prescribes punctuation marks to be used within a bibliography]{style="color: blue;"}
 
--   It establishes compatibility among cataloging for exchange of
-    bibligraphic records for information centers
+-   It establishes [compatibility]{style="color: blue;"} among cataloging for [exchange of
+    bibligraphic records]{style="color: blue;"} for information centers
 
 # MARC {background-color="#438496"}
 
