@@ -466,43 +466,43 @@ exchange of bibliographic data on magnetic tape and other storage media
 ::: panel-tabset
 ## Metadata
 
--   Metadata is structured information that describes, explains, locates
-    or otherwise makes it easier to retrieve, use or manage digital
-    information resources
+-   Metadata is [structured information]{style="color: blue;"} that [describes, explains, locates]{style="color: red;"}
+    or otherwise makes it [easier to retrieve, use or manage digital
+    information resources]{style="color: blue;"}
 
--   Metadata schemas are sets of metadata elements designed for a
-    particular purpose, for example to describe a particular type of
-    information resource
+-   Metadata [schemas are sets of metadata elements designed for a
+    particular purpose]{style="color: blue;"}, for example to [describe a particular type of
+    information resource]{style="color: red;"}
 
 -   In addition to resource discovery, metadata schemas can help to
-    organise electronic resource, facilitate interoperability & resource
-    integration, support digital identification and ensure archiving and
-    preservation
+    [organise electronic resource]{style="color: blue;"}, [facilitate interoperability]{style="color: red;"} & [resource
+    integration]{style="color: blue;"}, [support digital identification]{style="color: red;"} and ensure [archiving and
+    preservation]{style="color: blue;"}
 
 ## Metadata (Cont.)
 
 -   Many different metadata schemas are being used in library
     environment
-    -   Dublin Core Metadata Schema: describe web based documents.
-        Dublin Core is a set of 15 main elements that fall into three
-        groups -- Contents, Intellectual Property and Instantiation.
-    -   Global Information Locator Service (GILS): GILS specifies a
-        profile of the Z39.50 protocol for search and retrieval. GILS
+    -   **Dublin Core Metadata Schema**: It describes [web based documents]{style="color: blue;"}.
+        Dublin Core is a set of [15 main elements]{style="color: blue;"} that fall into [three
+        groups -- Contents, Intellectual Property and Instantiation]{style="color: blue;"}.
+    -   **Global Information Locator Service (GILS)**: GILS specifies a
+        [profile of the Z39.50 protocol]{style="color: blue;"} for search and retrieval. GILS
         records are intended to describe aggregates such as catalogues,
         publishing services and databases.
 
 ## Metadata (Cont.)
 
--   Text Encoding Initiative (TEI): It is a scheme for marking up
-    electronic text. It also specifies a header portion to accommodate
+-   **Text Encoding Initiative (TEI)**: It is a scheme for [marking up
+    electronic text]{style="color: blue;"}. It also [specifies a header portion]{style="color: blue;"} to accommodate
     metadata about the object to be described. TEI headers can be used
-    to record bibliographic information of both electronic and
-    non-electronic sources
+    to record bibliographic information of [both electronic and
+    non-electronic sources]{style="color: blue;"}
 
--   Online Information Exchange International (ONIX): ONIX is an
-    XML-based metadata schema developed for publishing industry to
+-   **Online Information Exchange International (ONIX)**: ONIX is an
+    [XML-based]{style="color: blue;"} metadata schema developed for [publishing industry]{style="color: blue;"} to
     response enormous growth in online books sales. It records basic
-    bibliographic data along with trade data and promotional information
+    [bibliographic data along with trade data and promotional information]{style="color: blue;"}
 :::
 
 # Bibliographic Description - Models {background-color="#438496"}
@@ -514,10 +514,10 @@ exchange of bibliographic data on magnetic tape and other storage media
 
 ::: columns
 ::: {.column width="50%"}
--   Functional Requirements for Bibliographic Records (FRBR) is an
-    entity-relationship model framed by IFLA in 1998
+-   **Functional Requirements for Bibliographic Records** (FRBR) is an
+    [entity-relationship model framed by IFLA in 1998]{style="color: blue;"}
 
--   It represents a generalised view of the bibliographic universe
+-   It represents a [generalised view of the bibliographic universe]{style="color: blue;"}
 :::
 
 ::: {.column width="50%"}
@@ -528,22 +528,22 @@ exchange of bibliographic data on magnetic tape and other storage media
 ## FRBR (Cont.)
 
 -   FRBR model:
-    -   identifies the bibliographic entities and defines their nature
-        and scope
-    -   analyses the attributes associated with each of the entities
-    -   provides a comprehensive listing of individual data elements
-        associated with each attribute
-    -   delineates the nature of relationships that operate at a
-        generalized level between specific instances of entities
+    -   identifies the [bibliographic entities]{style="color: blue;"} and [defines their nature
+        and scope]{style="color: red;"}
+    -   [analyses the attributes associated with each of the entities]{style="color: blue;"}
+    -   provides a [comprehensive listing of individual data elements
+        associated with each attribute]{style="color: blue;"}
+    -   [delineates the nature of relationships]{style="color: blue;"} that operate at a
+        [generalized level between specific instances of entities]{style="color: blue;"}
 
 ## FRBR (Cont.)
 
 -   FRBR model:
-    -   maps the attributes and relationships associated with each
-        entity to four generic user tasks (**find, identify, select,
+    -   [maps the attributes and relationships associated with each
+        entity to four generic user tasks]{style="color: blue;"} (**find, identify, select,
         obtain**)
-    -   recommends basic data requirements for national bibliographic
-        records
+    -   [recommends basic data requirements for national bibliographic
+        records]{style="color: blue;"}
 :::
 
 ## Models of Biblio. Descrp.
@@ -551,10 +551,10 @@ exchange of bibliographic data on magnetic tape and other storage media
 ::: panel-tabset
 ## FRBR (Cont.)
 
--   FRBR Entities:
-    -   Group 1 are the products of intellectual and artistic endeavor
-        that are named or described in bibliographic records : work,
-        expression, manifestation, and item
+-   **FRBR Entities**:
+    -   **Group 1** are the products of [intellectual and artistic endeavor]{style="color: blue;"}
+        that are named or described in bibliographic records: **work,
+        expression, manifestation**, and **item**
 
 ![](images/frbr2.png){fig-align="center"}
 
@@ -567,13 +567,13 @@ exchange of bibliographic data on magnetic tape and other storage media
 
 ## FRBR (Cont.)
 
--   Group 1
-    -   Work: distinct intellectual or artistic creation
-    -   Expression: intellectual or artistic realization of a work in
-        the form of alpha-numeric notation, musical notation,
+-   **Group 1**
+    -   **Work**: [distinct intellectual or artistic creation]{style="color: blue;"}
+    -   **Expression**: [intellectual or artistic realization]{style="color: red;"} of a work in
+        the [form of alpha-numeric notation, musical notation,
         choreographic notation, sound, image, object, movement, etc., or
-        any combination
-    -   Manifestation: physical embodiment of an expression of a work.
+        any combination]{style="color: blue;"}
+    -   **Manifestation**: [physical embodiment]{style="color: blue;"} of an expression of a work.
         In order to record something you have to put it "on or in" some
         container or carrier. So, manifestations appear in various
         "carriers" such as books, periodicals, maps, DVDs, multimedia
@@ -587,14 +587,14 @@ exchange of bibliographic data on magnetic tape and other storage media
 
 ::: columns
 ::: {.column width="50%"}
--   Group 1
-    -   Item: it is a single object, but sometimes it comprises more
-        than one physical object, e.g., a monograph issued in 2
+-   **Group 1**
+    -   **Item**: it is a [single object]{style="color: blue;"}, but sometimes it [comprises more
+        than one physical object]{style="color: blue;"}, e.g., a monograph issued in 2
         separately bound volumes or a sound recording on 3 separate CD's
 :::
 
 ::: {.column width="50%"}
--   The entities form a hierarchy with work at the top of the model
+-   The [entities form a hierarchy]{style="color: blue;"} with work at the top of the model
 
 ![](images/frbr6.png){fig-align="center"}
 :::
@@ -602,16 +602,16 @@ exchange of bibliographic data on magnetic tape and other storage media
 
 ## FRBR (Cont.)
 
--   Group 2 are the entities responsible for the intellectual or
+-   **Group 2** are the entities responsible for the [intellectual or
     artistic content, the physical production and dissemination or the
-    custodianship of such products: person and corporate body
+    custodianship of such products]{style="color: blue;"}: person and corporate body
 
 ![](images/frbr3.png){fig-align="center"}
 
 ## FRBR (Cont.)
 
--   Group 3 are the entities that serve as the subjects of intellectual
-    or artistic endeavor: concept, object, event, place, and any of the
+-   **Group 3** are the entities that serve as the subjects of [intellectual
+    or artistic endeavor: concept, object, event, place]{style="color: blue;"}, and any of the
     Group 1 or Group 2 entities -- you can have a work about another
     work or a work about a person, etc.
 
@@ -648,15 +648,15 @@ exchange of bibliographic data on magnetic tape and other storage media
 ## BIBFRAME
 
 -   [Bibliographic Framework](https://www.loc.gov/bibframe/) provides a
-    foundation for the future of bibliographic description, both on the
-    web, and in the broader networked world that is grounded in Linked
-    Data techniques
+    foundation for the [future of bibliographic description, both on the
+    web]{style="color: blue;"}, and in the broader networked world that is grounded in [Linked
+    Data techniques]{style="color: blue;"}
 
--   BIBFRAME was designed to replace the MARC21 formats while preserving
-    a robust data exchange that has supported resource sharing and
-    cataloging cost savings in recent decades
+-   BIBFRAME was designed to [replace the MARC21 formats]{style="color: blue;"} while [preserving
+    a robust data exchange]{style="color: blue;"} that has supported [resource sharing and
+    cataloging cost savings]{style="color: blue;"} in recent decades
 
--   In 2012, LoC announced a new model called MARC Resources (MARCR)
+-   In [2012]{style="color: blue;"}, LoC announced a [new model called MARC Resources (MARCR)]{style="color: blue;"}
     that developed a linked data alternative to MARC and released a more
     complete draft
 
@@ -664,18 +664,18 @@ exchange of bibliographic data on magnetic tape and other storage media
 
 ::: columns
 ::: {.column width="50%"}
-of the model later that year, renamed BIBFRAME
+of the model later that year, [renamed BIBFRAME]{style="color: blue;"}
 
--   LoC released version 2.0 of BIBFRAME in 2016
+-   LoC released version 2.0 of BIBFRAME in [2016]{style="color: blue;"}
 
 #### Design
 
--   BIBFRAME is expressed in RDF and based on three categories of
-    abstraction (work, instance, item), with three additional classes
+-   BIBFRAME is expressed in [RDF]{style="color: blue;"} and based on [three categories of
+    abstraction]{style="color: blue;"} (**work, instance, item**), with [three additional classes]{style="color: blue;"}
 :::
 
 ::: {.column width="50%"}
-(agent, subject, event) that relate to the core categories
+(**agent, subject, event**) that relate to the core categories
 ![](images/bib.jpg)
 :::
 :::
@@ -684,11 +684,11 @@ of the model later that year, renamed BIBFRAME
 
 ::: columns
 ::: {.column width="50%"}
--   *Work* entity in BIBFRAME may be considered as the union of the
-    disjoint *work* and *expression* entities of FRBR
+-   [*Work* entity in BIBFRAME]{style="color: blue;"} may be considered as the [union of the
+    disjoint *work* and *expression* entities of FRBR]{style="color: blue;"}
 
--   BIBFRAME's instance entity is analogous to the FRBR manifestation
-    entity
+-   [BIBFRAME's instance entity]{style="color: blue;"} is [analogous to the FRBR manifestation
+    entity]{style="color: blue;"}
 
 -   This represents an apparent break with FRBR and the FRBR-based
 :::
@@ -696,8 +696,8 @@ of the model later that year, renamed BIBFRAME
 ::: {.column width="50%"}
 Resource Description and Access (RDA) cataloging code
 
--   BIBFRAME model argues that it reflect FRBR relationships in terms of
-    a graph rather than as hierarchical relationships, after applying a
+-   BIBFRAME model argues that it [reflect FRBR relationships in terms of
+    a graph rather than as hierarchical relationships]{style="color: blue;"}, after applying a
     reductionist technique
 :::
 :::
@@ -708,8 +708,8 @@ Resource Description and Access (RDA) cataloging code
 ::: panel-tabset
 ## BIBFRAME (Cont.)
 
--   Since both FRBR and BIBFRAME have been expressed in RDF,
-    interoperability between the two models is technically possible
+-   Since both [FRBR and BIBFRAME]{style="color: blue;"} have been expressed in [RDF,
+    interoperability]{style="color: blue;"} between the two models is technically possible
 :::
 
 ## PREVIOUS YEAR QUESTIONS
