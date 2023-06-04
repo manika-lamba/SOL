@@ -34,54 +34,54 @@ editor:
 
 ## INTRODUCTION
 
--   Unprecedented growth of literature gives rise to develop adequate
-    formats with standard bibliographic description to promote resource
-    sharing among libraries and to have effective information retrieval
+-   Unprecedented [growth of literature gives rise to develop adequate
+    formats]{style="color: blue;"} with standard bibliographic description [to promote resource
+    sharing]{style="color: blue;"} among libraries and to have effective information retrieval
     system
 
--   The library scenario has been completely changed with the
-    application ICT rendered the traditional manual oriented
+-   The library scenario has been completely [changed with the
+    application ICT]{style="color: blue;"} rendered the [traditional manual oriented]{style="color: blue;"}
     bibliographic description standards inadequate paved the way for
-    newer bibliographic standards
+    [newer bibliographic standards]{style="color: blue;"}
 
--   Moreover, the fast growth of International Bibliographic Exchange
-    Formats and lack of compatibility poses problems to exchange records
+-   Moreover, the [fast growth of International Bibliographic Exchange
+    Formats and lack of compatibility]{style="color: blue;"} poses problems to exchange records
     with one another
 
--   It is possible if each of the organizations agree upon a common
-    standard format for exchange purpose to be
+-   It is possible if each of the organizations agree upon a [common
+    standard format for exchange purpose]{style="color: blue;"} to be..
 
 ## INTRODUCTION (Cont.)
 
-achieved at National and International level
+..achieved at [National and International level]{style="color: blue;"}
 
--   In this age of Information flood and the advent of IT era, it is
-    very difficult to locate and retrieve the desired information
+-   In this age of [Information flood and the advent of IT era, it is
+    very difficult to locate and retrieve]{style="color: blue;"} the desired information
 
--   Hence it is necessary that the efficient information retrieval
-    system must have a format of bibliographic description that matches
-    its requirements
+-   Hence it is necessary that the [efficient information retrieval
+    system]{style="color: blue;"} must have a format of [bibliographic description that matches
+    its requirements]{style="color: blue;"}
 
 -   A bibliographic format in such a way to be redesigned so as to make
-    it most compatible with the new information environment for
-    international library resource sharing, international library loan
-    and global networking with the aid of ICT
+    it most [compatible with the new information environment for
+    international library resource sharing]{style="color: blue;"}, [international library loan
+    and global networking with the aid of ICT]{style="color: red;"}
 
 ## INTRODUCTION (Cont.)
 
--   The bibliographic description in a process of recording the items of
+-   The [bibliographic description]{style="color: blue;"} is a [process of recording the items of
     information about the document for easy identification and instant
-    location, access and for the purpose of effective dissemination
+    location, access and for the purpose of effective dissemination]{style="color: red;"}
 
--   IFLA held an International Conference on Cataloguing Principles
-    (ICCP) at Paris in 1961 with a purpose to achieve international
-    standardization in cataloguing
+-   [IFLA held an International Conference on Cataloguing Principles
+    (ICCP) at Paris in 1961]{style="color: blue;"} with a purpose to [achieve international
+    standardization in cataloguing]{style="color: red;"}
 
--   Standardization of International Standard Bibliographic Description
-    (ISBD) made it economic & technological necessity for the creation,
+-   [Standardization of International Standard Bibliographic Description
+    (ISBD)]{style="color: blue;"} made it economic & technological necessity for the creation,
     conversion, and use of machine-readable records
 
--   These rules are standards to promote universal bibliographic control
+-   These rules are standards to [promote universal bibliographic control]{style="color: blue;"}
 
 # Bibliographic Description - Scope, Evolution, Rules {background-color="#438496"}
 
@@ -90,47 +90,47 @@ achieved at National and International level
 ::: panel-tabset
 ## Scope
 
--   It should focus on proper functionality of bibliographic records
+-   It should focus on proper [functionality of bibliographic records]{style="color: blue;"}
     maintained by libraries & information centers
 
--   The scope of bibliographic description can be in the *context of
-    coverage, user, application and generic tasks associated with it*
+-   The scope of bibliographic description can be in the [*context of
+    coverage, user, application and generic tasks*]{style="color: blue;"} *associated with it*
 
-1.  *Coverage Bibliographic Description* should be comprehensive in
-    terms of variety of materials (textual, musical, cartographic,
-    audio-visual, graphic, 3-D material, etc.). It must cover physical
-    media (film, magnetic storage devices) and all formats (books,
+1.  **Coverage Bibliographic Description** should be comprehensive in
+    terms of [variety of materials]{style="color: blue;"} (textual, musical, cartographic,
+    audio-visual, graphic, 3-D material, etc.). It must cover [physical
+    media]{style="color: blue;"} (film, magnetic storage devices) and [all formats]{style="color: blue;"} (books,
 
 ## Scope (Cont.)
 
-sheets discs, cassettes, etc) all with all modes of recording (analogue,
+sheets discs, cassettes, etc) [all with all modes of recording]{style="color: blue;"} (analogue,
 acoustic, digital, etc)
 
-2.  *Users Bibliographic Description* ensure the use of bibliographic
-    records by wide range of users. The user groups included readers,
-    students, researchers, library staff, publishers, distribution &
-    subscription such as information brokers, retailers, agents, etc
+2.  **Users Bibliographic Description** ensure the [use of bibliographic
+    records by wide range of users]{style="color: blue;"}. The user groups included [readers,
+    students, researchers, library staff, publishers]{style="color: blue;"}, distribution &
+    subscription such as [information brokers, retailers, agents]{style="color: blue;"}, etc
 
-3.  *Applications of Bibliographic Description* in relation to
-    bibliographic records should support a wide variety of data &
-    bibliographic records. It includes *collection development,
-    acquisition, cataloging, production of*
-
-## Scope (Cont.)
-
-*finding aids & bibliographies, inventory management, preservation,
-circulation, ILL, reference & information retrieval*
-
-4.  *Tasks Bibliographic Description* should fulfill the functional
-    requirements for bibliographic records. It must allow users' to
-    perform all the generic tasks at the time of searching and making
-    use of bibliographic records. This include **finding, identifying,
-    selecting, & acquiring** material using bibliographic data
+3.  **Applications of Bibliographic Description** in relation to
+    bibliographic records should support a [wide variety of data &
+    bibliographic records]{style="color: blue;"}. It includes [*collection development,
+    acquisition, cataloging, production of*]{style="color: red;"}
 
 ## Scope (Cont.)
 
--   Cataloguers perform the following tasks to maintain the catalogues
-    or bibliograhic databases:
+[*finding aids & bibliographies, inventory management, preservation,
+circulation, ILL, reference & information retrieval*]{style="color: red;"}
+
+4.  **Tasks Bibliographic Description** should fulfill the [functional
+    requirements]{style="color: blue;"} for bibliographic records. It must [allow users' to
+    perform all the generic tasks]{style="color: blue;"} at the time of searching and making
+    use of bibliographic records. This include [*finding, identifying,
+    selecting, & acquiring* material]{style="color: red;"} using bibliographic data
+
+## Scope (Cont.)
+
+-   [Cataloguers]{style="color: blue;"} perform the following [tasks to maintain the catalogues
+    or bibliograhic databases]{style="color: blue;"}:
 
     -   Transcribe
     -   Describe
@@ -145,27 +145,27 @@ circulation, ILL, reference & information retrieval*
 ::: panel-tabset
 ## Intro
 
--   The standards, rules and principles of bibliographic description are
-    also applicable to online and web environment for discovery,
-    indexing and identification of digital resources by semantic means
+-   The [standards, rules and principles of bibliographic description]{style="color: blue;"} are
+    also [applicable to online and web environment for discovery]{style="color: red;"},
+    [indexing and identification of digital resources by semantic means]{style="color: blue;"}
 
--   Metadata schemas for describing electronic resources (such as Dublin
+-   [Metadata schemas for describing electronic resources]{style="color: blue;"} (such as Dublin
     Core, FGDC, GILS, etc.), like traditional bibliographic standards
     and formats, are also designed for information storage and transfer
 
--   It means that a bibliographic record now performs different
+-   It means that a [bibliographic record]{style="color: blue;"} now performs [different
     functions with respect to various media, various applications, and
-    various user needs
+    various user needs]{style="color: blue;"}
 
 ## Intro (Cont.)
 
--   This situation calls for a framework that should identify and
-    clearly define bibliographic entities, attributes, relationships and
-    tasks performed by users of bibliographic records
+-   This situation calls for a [framework]{style="color: blue;"} that should [identify]{style="color: blue;"} and
+    clearly [define bibliographic entities, attributes, relationships and
+    tasks performed by users of bibliographic records]{style="color: blue;"}
 
--   Some conceptual models (such as IFLA's FRBR model, UKOLN's
+-   Some [conceptual models]{style="color: blue;"} (such as [IFLA's FRBR model, UKOLN's
     Analytical Model of Collection Description and XOBIS model of
-    Stanford University) have been developed in recent years to
+    Stanford University]{style="color: red;"}) have been [developed]{style="color: blue;"} in recent years to
     encompass a broad-spectrum application of bibliographic description
     and use of bibliographic records
 
@@ -175,12 +175,12 @@ circulation, ILL, reference & information retrieval*
 
 ## Pre-ISBD(Cont.)
 
--   During this period the much-required agreed-to general format for
-    bibliographic description could not be developed
+-   During this period the much-required [agreed-to general format]{style="color: blue;"} for
+    bibliographic description [could not be developed]{style="color: blue;"}
 
--   IFLA first initiated the development of such a general format in the
+-   [IFLA first initiated the development of such a general format in the
     form of ISBD(G) under its Universal Bibliographic Control (UBC)
-    program
+    program]{style="color: blue;"}
 :::
 
 ## EVOLUTION
@@ -188,28 +188,28 @@ circulation, ILL, reference & information retrieval*
 ::: panel-tabset
 ## Ranganathan's Principles
 
--   Ranganathan applied scientific method to cataloguing & formulated
-    normative principles of cataloguing called Canons of Cataloguing
+-   Ranganathan [applied scientific method to cataloguing]{style="color: blue;"} & formulated
+    [normative principles of cataloguing called Canons of Cataloguing]{style="color: red;"}
 
--   These principles still serve as the basis for principles and rules
-    of bibliographic description vis-a-vis cataloguing codes
+-   These principles still serve as the [basis for principles and rules
+    of bibliographic description vis-a-vis cataloguing codes]{style="color: blue;"}
 
 -   The general principles for standards for biblio. descrp. are:
 
-1.  *Principle of Context*: It determines the situational contexts
-    required for specifying the elements of
+1.  **Principle of Context**: It determines the [situational contexts]{style="color: blue;"}
+    required for [specifying the elements]{style="color: blue;"} of
 
 ## Principles (Cont.)
 
-bibliographic description and their role
+[bibliographic description and their role]{style="color: blue;"}
 
-2.  *Principle of Permanence*: It says no element in an entry, the
-    heading in particular, should be subjected to change unless rules
-    themselves are changed in response to the principle of context
-3.  *Principle of Consistency*: It says bibliographic description should
-    be consistent for bibliographic records
-4.  *Principle of Unity of Idea*: It advocates structural design for
-    cataloguing codes and standards for bibliographic description
+2.  **Principle of Permanence**: It says [no element in an entry]{style="color: blue;"}, the
+    heading in particular, should be subjected to [change unless rules
+    themselves are changed]{style="color: blue;"} in [response]{style="color: blue;"} to the [principle of context]{style="color: blue;"}
+3.  **Principle of Consistency**: It says [bibliographic description]{style="color: blue;"} should
+    be [consistent for bibliographic records]{style="color: blue;"}
+4.  **Principle of Unity of Idea**: It advocates [structural design]{style="color: blue;"} for
+    [cataloguing codes]{style="color: red;"} and [standards for bibliographic description]{style="color: red;"}
 :::
 
 ## RULES
@@ -217,10 +217,10 @@ bibliographic description and their role
 ::: panel-tabset
 ## Intro.
 
--   AACR2 adopted standards of ISBD for construction of catalogues of
+-   [AACR2 adopted standards of ISBD]{style="color: blue;"} for [construction of catalogues]{style="color: red;"} of
     different types of materials and different sizes of libraries
 
--   ISBD defines 2 functions
+-   [ISBD defines 2 functions]{style="color: blue;"}
 
     -   Levels of Bibliographic Description
     -   Specification of Data Elements
@@ -229,9 +229,9 @@ bibliographic description and their role
 
 ::: columns
 ::: {.column width="50%"}
-**A. Levels of Bibliographic Description** - ISBD prescribes 8 areas of
-info. to be provided in cataloging but not all elements are necessary
-for cataloging every single document
+**A. Levels of Bibliographic Description** - [ISBD prescribes 8 areas of
+info.]{style="color: blue;"} to be provided in cataloging but [not all elements are necessary]{style="color: blue;"}
+for [cataloging every single document]{style="color: blue;"}
 :::
 
 ::: {.column width="50%"}
@@ -255,13 +255,13 @@ for cataloging every single document
 
 ## A. Levels (Cont.)
 
--   It depends on the size of the library and info. needed to describe a
-    particular document
+-   It depends on the [size]{style="color: blue;"} of the library and [info.]{style="color: blue;"} needed to describe a
+    [particular document]{style="color: blue;"}
 
--   AACR2 in its 0.26 Rules emphasized that "certain materials do not
-    require every element of that standard"
+-   AACR2 in its 0.26 Rules emphasized that "[certain materials do not
+    require every element]{style="color: blue;"} of that standard"
 
--   Levels are provided to "constitute a max. set of info."
+-   [Levels]{style="color: blue;"} are provided to "[constitute a maximum set of information]{style="color: blue;"}"
 
 ## A. Levels (Cont.)
 
@@ -278,9 +278,9 @@ for cataloging every single document
 ::: columns
 ::: {.column width="50%"}
 
-i) **Title Proper**: The rule directs to transcribe the title proper from the chief
-source of information exactly as to wording, order, and spelling, but not
-necessarily as to punctuation and capitalisation
+i) **Title Proper**: The rule directs to [transcribe]{style="color: blue;"} the [title]{style="color: blue;"} proper from the chief
+source of information [exactly as to wording, order, and spelling]{style="color: blue;"}, but [not]{style="color: red;"}
+necessarily as to [punctuation and capitalisation]{style="color: red;"}
 
 ii) **Parallel Title**: Generally a parallel title is the title
 :::
@@ -288,10 +288,10 @@ ii) **Parallel Title**: Generally a parallel title is the title
 
 ::: {.column width="50%"}
 
- proper in another language and/or script recorded in the title and statement of responsibility area. It is transcribed and preceded by equal (=) sign
+ proper in [another language and/or script]{style="color: blue;"} recorded in the title and statement of responsibility area. It is [transcribed and preceded by equal (=) sign]{style="color: blue;"}
 
-(iii) **Other Title Information**: It implies subtitle or explanatory
-title. It is transcribed and preceded by colon (:) sign
+(iii) **Other Title Information**: It implies [subtitle or explanatory
+title]{style="color: blue;"}. It is [transcribed and preceded by colon (:) sign]{style="color: blue;"}
 :::
 :::
 
@@ -299,14 +299,14 @@ title. It is transcribed and preceded by colon (:) sign
 
 **C. Rules for Statements of Responsibility**
 
-- It is transcribed in the same form and sequence as they appear immediately after the title proper and/or the parallel title and other title information, if any, preceded by space-forward slash-space ( / )
+- It is [transcribed]{style="color: blue;"} in the [same form and sequence as they appear]{style="color: blue;"} immediately [after the title]{style="color: blue;"} proper and/or the parallel title and other title information, if any, [preceded by space-forward slash-space ( / )]{style="color: blue;"}
 
 ## D. Rule
 **D. Rule for Edition Statements**
 
-- It consists of edition statement, statement relating to named revision
-of an edition, statement of responsibility relating to edition and the subsequent
-edition statement. This area is preceded by a full stop-space-dash-space (. - ). The statement relating to named revision of an edition, if any, is preceded by a
+- It consists of [edition statement]{style="color: blue;"}, statement relating to named [revision]{style="color: blue;"}
+of an edition, [statement of responsibility relating to edition]{style="color: blue;"} and the [subsequent
+edition statement]{style="color: blue;"}. This area is [preceded by a full stop-space-dash-space (. - )]{style="color: blue;"}. The statement relating to named revision of an edition, if any, is preceded by a
 comma and the statement of responsibility relating to edition is preceded by a
 space-forward slash-space ( / ) while each subsequent edition statement is precede
 by a space-semicolon-space ( ; )
@@ -315,15 +315,15 @@ by a space-semicolon-space ( ; )
 
 **E. Rule for Material Specific Details**
 
-- The Material (or type of publication) specific details area is preceded by a full
-stop-space-dash-space (. - )
+- The Material (or type of publication) specific details area is [preceded by a full
+stop-space-dash-space (. - )]{style="color: blue;"}
 
 **F. Rule for Publication Distribution**
 
-- It consists of place of publication, distribution; name of publisher,
-distributors; date of publication, distribution, etc. and the details of manufacturer
-(place, name, date). Previously this area used to be known as imprint. Like other
-areas this area is also preceded by a full stop-space-dash-space (. - )
+- It consists of [place of publication]{style="color: blue;"}, distribution;[name of publisher]{style="color: blue;"},
+distributors; [date]{style="color: blue;"} of publication, distribution, etc. and the [details of manufacturer]{style="color: blue;"}
+(place, name, date). [Previously]{style="color: blue;"} this area used to be known as [imprint]{style="color: blue;"}. Like other
+areas this area is also [preceded by a full stop-space-dash-space (. - )]{style="color: blue;"}
 
 :::
 
@@ -335,21 +335,21 @@ areas this area is also preceded by a full stop-space-dash-space (. - )
 
 **G. Rule for Physical Description**
 
-- It is started with a new paragraph
-from the second indentation of the card. If this area is not started with the new
-paragraph, then it will be preceded by a full stop-space-dash-space (. - )
+- It is started with a [new paragraph]{style="color: blue;"}
+from the [second indentation of the card]{style="color: blue;"}. If this area is [not]{style="color: red;"} started with the new
+paragraph, then it will be [preceded by a full stop-space-dash-space (. - )]{style="color: blue;"}
 
 - This
-area consists of the number of pages of a single volume work, or the number
-of volumes and pages, information about the illustration, size, accompanying
-materials if any, and series note in that order
+area consists of the [number of pages]{style="color: blue;"} of a single volume work, or the [number
+of volumes and pages]{style="color: blue;"}, [information]{style="color: blue;"} about the [illustration, size, accompanying
+materials]{style="color: blue;"} if any, and [series note]{style="color: blue;"} in that order
 
 ## G. Rule (Cnt.)
-- Info. about the illustration like charts,
-forms, genealogical tables, maps, music or portraits are recorded with the
-abbreviations 'ill.' preceded by a colon ( : ) and each particular kind of illus.,
-if any, separated by a semicolon ( ; ). The size (dimension) of the work is
-recorded in whole cm. and preceded by a semicolon ( ; )
+- Info. about the [illustration]{style="color: blue;"} like [charts,
+forms, genealogical tables, maps, music or portraits]{style="color: red;"} are recorded with the
+abbreviations ['ill.' preceded by a colon ( : )]{style="color: blue;"} and each particular kind of illus.,
+if any, [separated by a semicolon ( ; )]{style="color: blue;"}. The [size]{style="color: blue;"} (dimension) of the work is
+[recorded]{style="color: blue;"} in whole [cm.]{style="color: blue;"} and [preceded by a semicolon ( ; )]{style="color: blue;"}
 
 - For example,
 
@@ -359,23 +359,23 @@ recorded in whole cm. and preceded by a semicolon ( ; )
 
 **H. Rule for Series**
 
-- It is recorded within the parentheses '( )' immediately after
-the physical description, preceded by a full stop-space-dash-space (. - )
+- It is recorded within the [parentheses '( )']{style="color: blue;"} immediately [after]{style="color: blue;"}
+the [physical description, preceded by a full stop-space-dash-space (. - )]{style="color: blue;"}
 
-- It consists of title proper of the series, statement of responsibility
-relating to the series, numbering of the series, sub series and more than one
+- It consists of [title]{style="color: blue;"} proper of the series, [statement of responsibility]{style="color: blue;"}
+relating to the series, [numbering]{style="color: blue;"} of the series, [sub series]{style="color: blue;"} and more than one
 series statement and more than one series number
 
-- The statement of responsibility
-relating to the series is preceded by a space-forward slash-space ( / ) and its
+- The [statement of responsibility]{style="color: blue;"}
+relating to the series is [preceded by a space-forward slash-space ( / )]{style="color: blue;"} and its
 
 
 ## H. Rule (Cnt.)
-numbering is preceded by semicolon
+[numbering is preceded by semicolon]{style="color: blue;"}
 
-- In case of the work belongs to the more
-than one series, the series should be recorded in the specific to general sequence
-within their own set of parentheses
+- In case of the work belongs to the [more
+than one series]{style="color: blue;"}, the series should be recorded in the specific to [general sequence
+within their own set of parentheses]{style="color: blue;"}
 
 - For example,
 
@@ -390,24 +390,24 @@ within their own set of parentheses
 
 **I. Rule for Notes**
 
-- Each note may be preceded by a full stop-space-dash-space (. - ) or started
-with new paragraph separately
+- Each [note may be preceded by a full stop-space-dash-space (. - )]{style="color: blue;"} or started
+with [new paragraph separately]{style="color: blue;"}
 
-- Notes are given when it is found needed to explain or supplement information which cannot be included in the other areas
+- Notes are given when it is [found needed to explain or supplement information]{style="color: blue;"} which cannot be included in the other areas
 
-- The sequence of information in the note section will be same as that of different
-areas of description
+- The [sequence of information]{style="color: blue;"} in the note section will be [same]{style="color: blue;"} as that of [different
+areas of description]{style="color: blue;"}
 
 ## J. Rule
 
 **J. Rule for Standard Numbers**
 
-- The standard number section must be preceded by a full stop-space-dash-space
-(. - ) or started with new paragraph
+- The standard number section must be [preceded by a full stop-space-dash-space
+(. - ) or started with new paragraph]{style="color: blue;"}
 
-- After the standard number a brief
-qualification is to be recorded when the work bears more than one standard
-number
+- After the standard number a [brief
+qualification]{style="color: blue;"} is to be recorded when the work bears [more than one standard
+number]{style="color: blue;"}
 
 - For example,
 
@@ -422,43 +422,43 @@ ISBN 81-85273-16-2
 ::: panel-tabset
 ## Intro
 
--   Bibliographic formats have been created for two purposes -- to
-    facilitate search and retrieval of bibliographic records, locally
-    and in network environment and to exchange bibliographic information
+-   Bibliographic formats have been created for [two purposes]{style="color: blue;"} -- to
+    [facilitate search and retrieval of bibliographic records]{style="color: red;"}, [locally
+    and in network environment]{style="color: blue;"} and to [exchange bibliographic information]{style="color: red;"}
     among library and information centers
 
 -   A bibliographic format that acts as a means of exchanging data has
-    three basic components:
+    [three basic components]{style="color: blue;"}:
 
-1.  **Physical structure:** Rules to arrange the data to be exchanged on
-    a computer storage medium such as CD. etc. ISO 2709 is an accepted
+1.  **Physical structure:** [Rules to arrange the data]{style="color: blue;"} to be exchanged on
+    a [computer storage medium]{style="color: blue;"} such as CD. etc. [ISO 2709]{style="color: blue;"} is an accepted
     international standard for
 
 ## Compo. (Cont.)
 
 exchange of bibliographic data on magnetic tape and other storage media
 
-2.  **Content Designators:** Tags to define the different data elements
-    of the records such as author, date of publication, title, so on.
-    EG. MARC family (USMARC, CANMARC, UKMARC, UNIMARC, INDIMARC,
-    MARC21 - combination of USMARC & CANMARC), CCF (Common Communication
-    Format), others
+2.  **Content Designators:** [Tags to define the different data elements]{style="color: blue;"}
+    of the records such as [author, date of publication, title]{style="color: blue;"}, so on.
+    EG. [MARC family]{style="color: blue;"} (USMARC, CANMARC, UKMARC, UNIMARC, INDIMARC,
+    [MARC21]{style="color: blue;"} - combination of USMARC & CANMARC), CCF ([Common Communication
+    Format]{style="color: blue;"}), others
 
-3.  **Content:** Rules & record that helps in formulation of data
-    elements for different formats. EG. catalogue codes, ISBD
+3.  **Content:** [Rules & record]{style="color: blue;"} that [helps]{style="color: blue;"} in [formulation of data
+    elements for different formats]{style="color: blue;"}. EG. [catalogue codes, ISBD]{style="color: red;"}
 
 ## Electronic Resource
 
--   ISBD(ER) provides a long list of data elements for describing
-    electronic resources & AARC2 guide the cataloguing of such resources
+-   [ISBD(ER)]{style="color: blue;"} provides a [long list of data elements]{style="color: blue;"} for [describing
+    electronic resources & AARC2 guide the cataloguing]{style="color: blue;"} of such resources
 
--   Some bibliographic formats are UNIMARC, MARC21 developed special
-    field (Field 856) for managing electronic resources
+-   Some bibliographic formats are UNIMARC, MARC21 developed [special
+    field (Field 856) for managing electronic resources]{style="color: blue;"}
 
--   Bibliographic formats & cataloguing codes are not enough for
-    representing all unique characterstics of digital resources and
-    therefore metadata standards have been developed as *resource
-    description schemas*
+-   [Bibliographic formats & cataloguing codes are not enough]{style="color: blue;"} for
+    [representing all unique characterstics of digital resources]{style="color: red;"} and
+    therefore [metadata standards]{style="color: blue;"} have been [developed as *resource
+    description schemas*]{style="color: red;"}
 :::
 
 ## Bibliographic Format (Cont.)
