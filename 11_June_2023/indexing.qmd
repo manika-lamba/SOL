@@ -150,22 +150,22 @@ retrieved
 
 ## Theory of Indexing
 
-- Some researchers like Quinn, Jones, and Fugmann suggested there are 5 levels in process of indexing
+- Some researchers like Quinn, Jones, and Fugmann suggested there are [5 levels in process of indexing]{style="color: blue;"}
 
-- **First Level** is the concordance, which consists of references to all words in original text arranged in alphabetical order
+- **First Level** is the [concordance]{style="color: blue;"}, which consists of [references to all words in original text arranged in alphabetical order]{style="color: red;"}
 
-- **Second Level** is the information theoretic level which calculates the likelihood of a word being chosen for indexing based on its frequency of occurrence in a given text document
+- **Second Level** is the information theoretic level which [calculates the likelihood of a word being chosen for indexing based on its frequency of occurrence in a given text document]{style="color: blue;"}
 
-- **Third Level** is the linguistic one, which attempts to explain how meaningful words are extracted from large units of text. Some indexers propose that sections like opening paragraphs, chapters, sections, opening & 
+- **Third Level** is the [linguistic]{style="color: blue;"} one, which attempts to [explain how meaningful words are extracted from large units of text]{style="color: red"}. Some indexers propose that sections like opening paragraphs, chapters, sections, opening & 
 
 
 ## Theory of Indexing (Cnt.)
 
 closing sentences of a paragraph are good sources of choosing indexing terms
 
-- **Fourth Level** is the textual or skeletal framework where the text is prepared by the author in an organized manner and held together by skeletal structure
+- **Fourth Level** is the [textual or skeletal framework]{style="color: blue;"} where the [text is prepared by the author in an organized manner and held together by skeletal structure]{style="color: red;"}
 
-- **Fifth Level** is the inferential level where indexer make inferences about relationships between words and phrases by observing the sentences and paragraph structure
+- **Fifth Level** is the [inferential]{style="color: blue;"} level where [indexer make inferences about relationships between words and phrases by observing the sentences and paragraph structure]{style="color: red;"}
 
 ## Manual Indexing
 
@@ -179,53 +179,53 @@ closing sentences of a paragraph are good sources of choosing indexing terms
 -   A no. of vocabulary control devised are available to guide indexer
     in choosing most appropriate index terms
 
--   For example, in pre-coordnated systems like PRECIS use
-    inbuilt/online thesaurus and POPSI uses classaurus (hierarchical
+-   For example, in [pre-coordnated systems like PRECIS use
+    inbuilt/online thesaurus]{style="color: blue;"} and [POPSI uses classaurus]{style="color: red;"} (hierarchical
     classification incorporating all the features of a thesaurus)
 
--   In post-coordinated systems, after choosing the keywords, indexer
-    has to put an index entry under each term separately along with
-    necessary reference entries ('see' & 'see also' entries)
+-   In [post-coordinated systems]{style="color: blue;"}, after choosing the keywords, indexer
+    has to put an index entry under [each term separately along with
+    necessary reference entries ('see' & 'see also' entries)]{style="color: red;"}
 
 ## Pre-Coordinating Indexing Systems
 
 **1. Chain Indexing**
 
--   Dr. S.R Ranganathan developed pre-coordinated indexing method called
+-   Dr. **S.R Ranganathan** developed pre-coordinated indexing method called
     chain indexing
 
--   It attempts to represent the chain of concepts that constitutes a
-    subject in natural language in contrast to the steps of classifying
+-   It attempts to [represent the chain of concepts]{style="color: blue;"} that constitutes a
+    [subject in natural language]{style="color: blue;"} in contrast to the steps of classifying
     a document where we use artificial (notation) language for subject
     indexing
 
 -   Thus, if we can represent subject in natural language and can
     represent all terms/concepts in chain forming the subject statement
-    in a systematic manner, then users can access subject matter by any
-    of the constituent concepts
+    in a systematic manner, then [users can access subject matter by any
+    of the constituent concepts]{style="color: blue;"}
 
 ## 1. Chain Indexing (Cnt.)
 
 Basic steps in chain indexing are:
 
-1.  Take class no. prepared for the given document
-2.  Consult corresponding classification schedule and write the
-    notations at each step and the corresponding term or phrase (from
+1.  [Take class no.]{style="color: blue;"} prepared for the given document
+2.  Consult corresponding classification schedule and [write the
+    notations at each step and the corresponding term]{style="color: blue;"} or phrase (from
     the schedule). This will produce a chain of concepts from general to
     specific
-3.  Identify the sought, unsought, and false links
-    -   Sought links denote the concepts that user is likely to use as
+3.  [Identify the sought, unsought, and false links]{style="color: blue;"}
+    -   **Sought links** denote the [concepts that user is likely to use]{style="color: blue;"} as
         access point
-    -   Unsought links are those that are not likely to be used as
-        access points
+    -   **Unsought links** are those that are [not likely to be used as
+        access points]{style="color: blue;"}
 
 ## 1. Chain Indexing (Cnt.)
 ::: columns
 ::: {.column width="50%"}
--   False links are those that are really do not represent any valid
-    concept (mostly these are the connecting symbols)
+-   **False links** are those that are really [do not represent any valid
+    concept]{style="color: blue;"} (mostly these are the connecting symbols)
 
-4.  Invert the chain (process is called reverse rendering), and this
+4.  [Invert the chain]{style="color: blue;"} (process is called **reverse rendering**), and this
     will generate index entries
 :::
 
@@ -238,11 +238,11 @@ Basic steps in chain indexing are:
 ## 2. Relational Indexing
 ::: columns
 ::: {.column width="50%"}
-- J.E.L. Farradane devised a scheme of pre-coordinate indexing known as relational indexing
+- **J.E.L. Farradane** devised a scheme of pre-coordinate indexing known as relational indexing
 
-- It was developed first in early 1950s and has been modified several times since then. The latest changes were appeared in 1980
+- It was [developed first in early 1950s]{style="color: blue;"} and has been modified several times since then. The latest changes were appeared in 1980
 
-- Farradane identified 9 relational categories which were represented in a 
+- Farradane identified [9 relational categories]{style="color: blue;"} which were represented in a 
 :::
 
 
@@ -259,7 +259,7 @@ matrix
 
 ## 2. Relational Indexing (Cnt.)
 
-- Any subject can be represented by identifying & representing in the form of what he called **analets** (pairs of terms interposed by an operator), relationship between each pair of constituent concepts can be represented by the 9 relational operators
+- [Any subject can be represented by identifying & representing in the form of what he called **analets** (pairs of terms interposed by an operator)]{style="color: blue;"}, [relationship between each pair of constituent concepts can be represented by the 9 relational operators]{style="color: red;"}
 
 ![](images/example2.png){fig-align="center"}
 
@@ -272,48 +272,30 @@ matrix
 
 ## 3. PRECIS
 
-- PREserved Context Index System (PRECIS) was developed by Derek Austin and first came out in 1974 and revised in 1984
+- **PREserved Context Index System (PRECIS)** was developed by **Derek Austin** and first came out in **1974** and revised in 1984
 
 - It became very popular and the major tasks involved in indexing in this system are:
 
-    - analysing the concerned document and identifying the key concepts
-    - organizing the concepts into a subject statement based on principle of context dependency
-    - assigning codes ('operators') which signify syntactical function of each term
-    - deciding which terms should be the access points
+    - [analysing]{style="color: blue;"} the concerned document and [identifying the key concepts]{style="color: blue;"}
+    - [organizing the concepts into a subject statement based on principle of context dependency]{style="color: blue;"}
+    - [assigning codes ('operators') which signify syntactical function of each term]{style="color: blue;"}
+    - [deciding which terms should be the access points]{style="color: blue;"}
     
 ## 3. PRECIS (Cnt.)
 
 - Major tasks:
-    - and which should be in other positions in index entries and assigning further codes to achieve these results
-    - adding further prepositions, auxiliaries or phrases which would result in clarity and expressiveness of the resulting index entries
-    - making supporting reference entries from semantically related terms taken from a thesaurus
+    - and which should be in [other positions in index entries]{style="color: blue;"} and assigning further codes to achieve these results
+    - [adding further prepositions, auxiliaries or phrases]{style="color: blue;"} which would result in [clarity and expressiveness]{style="color: red;"} of the resulting index entries
+    - making [supporting reference entries from semantically related terms taken from a thesaurus]{style="color: blue;"}
 
-## 3. PRECIS (Cnt.)
-- Stages 2 to 4 deal with syntactic relation and are governed by 
-    - schema of role operators, and
-    - associated rules for dealing with each role operator and making index entries
 
-- There are 2 kinds of operators: **primary** & **secondary** 
-
-- There are 2 sets of **primary codes**: one set (theme interlinks) involves 3 codes used to link common or related themes in the subject statement
-
-- Other (term codes) involves 3 codes used to denote status of a term in subject statement
-
-## 3. PRECIS (Cnt.)
-- There are **secondary codes** which are divided into 2 sets
-
-- First set is **differences** and it involves 3 kinds of differences such as 'preceding differences', 'date as a difference' and 'parenthetical differences'
-
-- Second set involves 'connectives' which are used to connect any two or more consecutive terms in input string
-
-- There are some **typographic codes** which are used to bring desired typographic form of a given term in resulting index entry
 
 
 ## 3. PRECIS (Cnt.)
 ::: columns
 ::: {.column width="50%"}
 
-- Primary operators (mainline operators) perform the primary task in the syntactical side. There are 7 primary operator for 3 sets of concepts
+- [Primary operators]{style="color: blue;"} (mainline operators) perform the [primary task in the syntactical side]{style="color: red;"}. There are [7 primary operator for 3 sets of concepts]{style="color: blue;"}
     - 0 is for 'environment of core concepts'
     - 1,2,3 are for 'core concepts'
     - 4,5,6 are for 'extra-core concepts'
@@ -328,11 +310,32 @@ matrix
 :::
 :::
 
+
+## 3. PRECIS (Cnt.)
+- Stages 2 to 4 deal with [syntactic relation]{style="color: blue;"} and are governed by 
+    - [schema of role operators]{style="color: red;"}, and
+    - [associated rules]{style="color: red;"} for dealing with each role operator and making index entries
+
+- There are 2 kinds of operators: **primary** & **secondary** 
+
+- There are 2 sets of **primary codes**: [one set (theme interlinks) involves 3 codes used to link common or related themes in the subject statement]{style="color: blue;"}
+
+- [Other (term codes) involves 3 codes used to denote status of a term in subject statement]{style="color: red;"}
+
+## 3. PRECIS (Cnt.)
+- There are **secondary codes** which are divided into 2 sets
+
+- First set is **differences** and it involves [3 kinds of differences]{style="color: blue;"} such as **'preceding differences', 'date as a difference' and 'parenthetical differences'**
+
+- Second set involves **'connectives'** which are used to [connect any two or more consecutive terms in input string]{style="color: blue;"}
+
+- There are some **typographic codes** which are used to bring desired typographic form of a given term in resulting index entry
+
 ## 3. PRECIS (Cnt.)
 
 ::: columns
 ::: {.column width="50%"}
-- Secondary operators (interposed operators) perform secondary functions and are used for 3 sets of concepts: f, g are for 'coordinate concepts'; p, q, r are for 'dependent elements'; s, t, u are for 'special classes for action'
+- **Secondary operators** (interposed operators) perform [secondary functions]{style="color: blue;"} and are used for [3 sets of concepts]{style="color: red;"}: **f, g** are for ['coordinate concepts']{style="color: blue;"}; **p, q, r** are for ['dependent elements']{style="color: blue;"}; **s, t, u** are for ['special classes for action']{style="color: blue;"}
 :::
 
 
@@ -356,38 +359,38 @@ Entries:
 
 ## 4. POPSI
 
-- POstulated-based Permuted Subject Indexing (POPSI) is a pre-coordinated indexing system developed by G. Bhattacharyya
+- **POstulated-based Permuted Subject Indexing (POPSI)** is a pre-coordinated indexing system developed by **G. Bhattacharyya**
 
-- It uses analytico-synthetic method  for string formulation and permutation of constituent terms to satisfy different approach points to document
+- It uses [analytico-synthetic method  for string formulation]{style="color: blue;"} and permutation of constituent terms to satisfy different approach points to document
 
-- There are 2 parts in POPSI index entry
+- There are [2 parts in POPSI index entry]{style="color: blue;"}
   
-  - **Lead Heading** which contains index term or access term 
-  - **Context Heading** which appears in line following lead heading & contains subject words with auxiliary words denoting the context in which lead term has been discussed in given document
+  - **Lead Heading** which contains [index term or access term ]{style="color: blue;"}
+  - **Context Heading** which [appears in line following lead heading]{style="color: blue;"} & [contains subject words with auxiliary words]{style="color: red;"} denoting the context in which lead term has been discussed in given document
 
 
 ## 4. POPSI (Cnt.)
 
-- He proposed 4 elementary categories, **discipline, entity, property, ** and **action** (DEPA in short) and a special component called modifier
+- He proposed [4 elementary categories]{style="color: blue;"}, **discipline, entity, property, ** and **action** (DEPA in short) and a [special component called modifier]{style="color: blue;"}
 
-- Accd. to POPSI, a **discipline** is an elementary category which includes conventional fields of study or any aggregate of such fields or artificially created analogous fields such as physics, library science, computer science
+- Accd. to POPSI, a **discipline** is an [elementary category which includes conventional fields of study]{style="color: blue;"} or [any aggregate of such fields]{style="color: blue;"} or artificially created analogous fields such as physics, library science, computer science
 
-- **Entity** includes manifestations having perceptual correlates, or only a conceptual existence, and distinct from properties and actions performed by them or on them. EG. patent, lung, plant, so on
-
-## 4. POPSI (Cnt.)
-
-- **Property** includes manifestations denoting concept or attribute - qualitative or quantitative. EG. specific gravity, disease, efficiency, so on
-
-- **Action** includes manifestations denoting concept of doing, either as self action or as external action. EG. evaluation, examination, migration
-
-- In relation to manifestation of any one of the elementary categories the modifiers qualifies the manifestations without disturbing their conceptual wholeness. EG. 'subject' in 'subject classification'
-
-- A modifier can modify any of the fundamental categories or a combination of fundamental categories
-
+- **Entity** includes [manifestations having perceptual correlates, or only a conceptual existence, and distinct from properties and actions performed by them or on them]{style="color: blue;"}. EG. patent, lung, plant, so on
 
 ## 4. POPSI (Cnt.)
 
-- Modifiers can be common modifiers like form, time, environment, and place, and special modifiers, which are discipline-based, property-based or action-based 
+- **Property** includes [manifestations denoting concept or attribute - qualitative or quantitative]{style="color: blue;"}. EG. specific gravity, disease, efficiency, so on
+
+- **Action** includes [manifestations denoting concept of doing, either as self action or as external action]{style="color: blue;"}. EG. evaluation, examination, migration
+
+- In relation to manifestation of any one of the elementary categories the [modifiers qualifies the manifestations without disturbing their conceptual wholeness]{style="color: blue;"}. EG. 'subject' in 'subject classification'
+
+- A [modifier can modify any of the fundamental categories]{style="color: blue;"} or a [combination]{style="color: blue;"} of fundamental categories
+
+
+## 4. POPSI (Cnt.)
+
+- Modifiers can be [common modifiers]{style="color: red;"} like [form, time, environment, and place, and special modifiers, which are discipline-based, property-based or action-based]{style="color: blue;"}
 
 - Basic rule of syntax is associated with deep structure of a subject indexing language is that discipline should be followed by entity appropriately interpolated or extrapolated wherever warranted by property and/or action
 
