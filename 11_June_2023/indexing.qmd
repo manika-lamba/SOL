@@ -34,117 +34,119 @@ editor:
 
 ## Introduction
 
--   Indexing operations have been performed intellectually by human
-    indexers or quite a long time
+-   [Indexing operations]{style="color: blue;"} have been [performed intellectually by human
+    indexers]{style="color: red;"} or quite a long time
 
--   Automatic systems have been developed recently where text analysis
-    and indexing are performed by computers
+-   [Automatic systems]{style="color: blue;"} have been developed recently where [text analysis
+    and indexing are performed by computers]{style="color: red;"}
 
--   The basic tasks involved in indexing are same, i.e. to analyse the
-    content of a given document and represent the analysis by some
-    content identifiers or keywords
+-   The [basic tasks]{style="color: blue;"} involved in indexing are same, i.e. to [analyse the
+    content]{style="color: red;"} of a given document and [represent the analysis by some
+    content identifiers or keywords]{style="color: blue;"}
 
--   Lancaster mentions that the process of subject indexing involves 2
-    distinct intellectual steps, **conceptual analysis**, and
+-   [Lancaster]{style="color: blue;"} mentions that the process of [subject indexing involves 2
+    distinct intellectual steps]{style="color: red;"}, **conceptual analysis**, and
     **representation**
 
--   Subject Classification includes arrangement of documents according
-    to their subject content by
+-   [Subject Classification]{style="color: blue;"} includes [arrangement of documents]{style="color: red;"} according
+    to their [subject content]{style="color: blue;"} by
 
 ## Introduction (Cnt.)
 
-notational systems such as DDC, UDC, LoC Classification
+[notational systems such as DDC, UDC, LoC Classification]{style="color: blue;"}
 
--   Subject Indexing is the process to match the contents of documents
-    with users' queries and is represented in a natural language form
-    such as PRECIS, POPSI, Relational Indexing, Chain Indexing
+-   Subject Indexing is the process to [match the contents of documents]{style="color: blue;"}
+    with [users' queries]{style="color: red;"} and is [represented in a natural language form]{style="color: blue;"}
+    such as [PRECIS, POPSI, Relational Indexing, Chain Indexing]{style="color: red;"}
 
--   One basic problem involved in the process o subject indexing is the
-    choice of appropriate keywords or descriptors though which index
+-   One [basic problem]{style="color: blue;"} involved in the process of subject indexing is the
+    [choice of appropriate keywords or descriptors]{style="color: red;"} though which index
     entry is to be represented
 
--   The indexer prefers to use keywords that represents the subject
-    clearly & likely to be chosen by user when looking for the subject
+-   The [indexer prefers to use keywords]{style="color: blue;"} that [represents the subject
+    clearly]{style="color: red;"} & [likely to be chosen by user]{style="color: blue;"} when looking for the subject
 
 ## Introduction (Cont.)
 
--   In order to standardize the task of choosing appropriate keywords
-    for generation of index entries, no. of vocabulary control devices
+-   In order to [standardize the task of choosing appropriate keywords]{style="color: blue;"}
+    for generation of index entries, [no. of vocabulary control devices]{style="color: red;"}
     have been developed such as thesaurus
 
--   These tools help the indexer to choose most appropriate term to
+-   [These tools help the indexer to choose most appropriate term]{style="color: blue;"} to
     represent the subject at indexing stage and help the users to pick
     most appropriate terms while formulating a query
 
--   2 different indexers may analyse content of a given document in 2
-    different ways resulting in 2 different index entries (Serious
-    Drawback of Manual Indexing)
+-   [2 different indexers]{style="color: blue;"} may [analyse]{style="color: red;"} content of a [given document in 2
+    different ways]{style="color: blue;"} resulting in [2 different index entries]{style="color: red;"} (**Serious
+    Drawback of Manual Indexing**)
 
 -   To avoid total dependence on human intellect, researchers have
-    attempted to automate the whole process of subject indexing &
+    attempted to [automate]{style="color: blue;"} the whole process of subject indexing &
     classification
 
 ## Introduction (Cont.)
 
--   Most of the systems developed so far for automatic content analysis
-    are based on statistical calculation of occurrence of keywords in
+-   Most of the systems developed so far for [automatic content analysis]{style="color: blue;"}
+    are [based on statistical calculation of occurrence of keywords]{style="color: red;"} in
     the documents
 
--   Given the shortcomings of such statistically based systems,
-    researchers have suggested the need of syntactic & semantic analysis
-    of text statements by using computational linguistics in the process
-    of content analysis
+-   Given the [shortcomings of such statistically]{style="color: blue;"} based systems,
+    researchers have suggested the [need of syntactic & semantic analysis]{style="color: red;"}
+    of text statements by [using computational linguistics in the process
+    of content analysis]{style="color: blue;"}
 
--   Subject indexing systems have been classified broadly as
+-   [Subject indexing systems have been classified]{style="color: blue;"} broadly as
     **pre-coordinate** and **post-coordinate** systems
 
--   In **post-coordinate** systems, one entry is prepared for each
-    keyword selected to represent the subject of a given document and
+-   In **post-coordinate** systems, [one entry is prepared for each
+    keyword selected to represent the subject]{style="color: blue;"} of a given document and
     all entries are organized in a file
 
--   When a user puts forward a query, it is analyzed and some keywords
-    are selected that are representative of user's query. These query
-    terms are then matched against the file of index terms and relevant
-    documents are retrieved. Examples Uniterm
+
 
 ## Introduction (Cont.)
-
--   In **pre-coordinate** systems, keyword chosen ar subject analysis
-    stage are coordinated at indexing stage and thus each entry
-    represents full content of the document. Examples PRECIS, POPSI,
+-   When a [user]{style="color: blue;"} puts forward a [query]{style="color: red;"}, it is [analyzed and some keywords
+    are selected that are representative of user's query]{style="color: blue;"}. These [query
+    terms are then matched against the file of index terms and relevant
+    documents are retrieved]{style="color: red;"}. EG. Uniterm
+-   In **pre-coordinate** systems, [keyword chosen at subject analysis
+    stage]{style="color: blue;"} are coordinated at indexing stage and thus [each entry
+    represents full content of the document]{style="color: red;"}. EG. PRECIS, POPSI,
     Chain Indexing, Relational Indexing
 
-#### Exhausitivity and Specificity
 
--   Effectiveness of an indexing system is controlled by 2 parameters
-    called **exhaustivity & term specificity**
-
--   Exhaustivity is the degree to which subject matter of a given
-    document has been reflected through index entries. It represents the
-    contents of input documents fully
 
 ## Exhausitivity and Specificity (Cnt.)
 
--   To attain exhaustivity, system has to select as many keywords as
-    possible to represent the idea put forward in the document
 
--   Specificity refers to how broad or how specific are the terms or
+-   [Effectiveness of an indexing system]{style="color: blue;"} is controlled by 2 parameters
+    called **exhaustivity & term specificity**
+
+-   [Exhaustivity]{style="color: blue;"} is the degree to which subject matter of a given
+    document has been reflected through index entries. It [represents the
+    contents of input documents fully]{style="color: blue;"}
+-   To attain exhaustivity, system has to select [as many keywords as
+    possible]{style="color: blue;"} to represent the idea put forward in the document
+
+-   [Specificity refers to how broad or how specific are the terms]{style="color: blue;"} or
     keywords chosen under a given situation. More specific the terms,
     better is the representation of the subject through the index entry
 
--   Recall & Precision measure the effectiveness of a systems where
 
-Recall = No. of relevant documents retrieved / No. of relevant documents
-in the collection
 
 ## Exhausitivity and Specificity (Cnt.)
 
-Precision = No. of relevant documents retrieved / Total no. of documents
+-   [Recall & Precision measure the effectiveness]{style="color: blue;"} of a systems where
+
+-- Recall = No. of relevant documents retrieved / No. of relevant documents
+in the collection
+
+-- Precision = No. of relevant documents retrieved / Total no. of documents
 retrieved
 
--   More Exhaustivity, higher recall & lower precision
+-   [More Exhaustivity]{style="color: blue;"}, [higher recall & lower precision]{style="color: red;"}
 
--   More Specificity, higher precision & lower recall
+-   [More Specificity]{style="color: blue;"}, [higher precision & lower recall]{style="color: red;"}
 
 ## Theory of Indexing
 
