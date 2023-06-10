@@ -463,132 +463,185 @@
 <section id="marc-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>MARC</h2>
 <div class="panel-tabset">
-<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">Intro</a></li><li><a href="#tabset-1-2">Intro</a></li><li><a href="#tabset-1-3">Intro</a></li></ul>
+<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">Intro</a></li><li><a href="#tabset-1-2">Intro</a></li><li><a href="#tabset-1-3">Fig</a></li><li><a href="#tabset-1-4">Fields</a></li><li><a href="#tabset-1-5">Fields</a></li><li><a href="#tabset-1-6">Fields</a></li><li><a href="#tabset-1-7">Fields</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" data-background-image="background.svg" data-background-size="contain">
 <ul>
-<li><p>MARC stands for <strong>MA</strong>chine <strong>R</strong>eadable <strong>C</strong>atalogue</p></li>
-<li><p>Data indexing system which was developed by LoC in 1965</p></li>
-<li><p>Allows computers to “understand” cataloging inputs</p></li>
-<li><p>MARC code does not provide an instruction on description of library materials, but is a standard format for bibliographic info. into a computerized record</p></li>
-<li><p>The information from a catalogue card cannot simply be typed into a computer to become part of an automated catalogue</p></li>
+<li><p>MARC stands for <span style="color: blue;"><strong>MA</strong>chine <strong>R</strong>eadable <strong>C</strong>atalogue</span></p></li>
+<li><p>Data indexing system which was <span style="color: blue;">developed by LoC in 1965</span></p></li>
+<li><p><span style="color: blue;">Allows computers to “understand” cataloging inputs</span></p></li>
+<li><p>MARC code <span style="color: blue;">does not provide an instruction on description of library materials</span>, but is a <span style="color: red;">standard format for bibliographic info. into a computerized record</span></p></li>
+<li><p>The <span style="color: blue;">information from a catalogue card cannot simply be typed into a computer to become part of an automated catalogue</span></p></li>
 </ul>
 </div>
 <div id="tabset-1-2" data-background-image="background.svg" data-background-size="contain">
 <ul>
-<li>The computer needs some program or code to interpret the information that is available in specific format on a catalogue card</li>
-<li>MARC standard has ability to encode the bibliographic information in machine-readable format</li>
-<li>MARC21 record contains various “signposts,” before each piece of catalogue information so that it can be identified easily</li>
-<li>Info. in a MARC record is stored in character form and records are coded in extended ASCII format</li>
+<li>The <span style="color: blue;">computer needs some program or code to interpret the info.</span> that is available in specific format on a catalogue card</li>
+<li><span style="color: blue;">MARC</span> standard has <span style="color: blue;">ability</span> to <span style="color: blue;">encode the bibliographic information in machine-readable format</span></li>
+<li><span style="color: blue;">MARC21 record contains various “signposts,” before each piece of catalogue information</span> so that it can be identified easily</li>
+<li>Info. in a MARC record is <span style="color: blue;">stored in character form and records are coded in extended ASCII format</span></li>
 </ul>
 </div>
 <div id="tabset-1-3" data-background-image="background.svg" data-background-size="contain">
-<h5 data-background-image="background.svg" data-background-size="contain" id="structure-of-marc21-record">Structure of MARC21 Record</h5>
-<ul>
-<li>A MARC record consists of 3 elements:
-<ul>
-<li><strong>Record Structure</strong> provides information on tags, indicators and data elements that are used to create the record</li>
-<li><strong>Content Designation</strong> are predefined codes that are used as prefix to the data elements</li>
-<li><strong>Content of the Record</strong> are the data elements that are defined &amp; rendered in accordance to standards such as AACR2</li>
-</ul></li>
-</ul>
-</div>
-</div>
-</div>
-</section>
-<section id="marc-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>MARC</h2>
-<div class="panel-tabset">
-<ul id="tabset-2" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-2-1">Intro (Cont.)</a></li><li><a href="#tabset-2-2">Intro (Cont.)</a></li><li><a href="#tabset-2-3">Intro (Cont.)</a></li><li><a href="#tabset-2-4">Intro (Cont.)</a></li><li><a href="#tabset-2-5">Intro (Cont.)</a></li></ul>
-<div class="tab-content">
-<div id="tabset-2-1" data-background-image="background.svg" data-background-size="contain">
-<ul>
-<li>MARC21 record contains <strong>Leader, Directory, variable</strong> fields</li>
-</ul>
-<ol type="1">
-<li><strong>Leader:</strong></li>
-</ol>
-<ul>
-<li>It is a 24 character (octet’s postitions 0-23) fixed field that store imp. info. required for processing of record through computer</li>
-<li>It is the first field in any MARC record</li>
-<li>Only graphical charaters fof ASCII allowed</li>
-</ul>
-<h4 data-background-image="background.svg" data-background-size="contain" id="structure-of-leader">Structure of Leader</h4>
-<ul>
-<li>Record Length (charc. position 00-04) - contains 5-character ASCII numeric string equal to the length of the entire record including itself &amp; record terminator
-<ul>
-<li>5-character numeric string is right justified &amp; unused positions contain 0s (zero fill)</li>
-<li>Max. length of record is 99999 octets</li>
-</ul></li>
-</ul>
-</div>
-<div id="tabset-2-2" data-background-image="background.svg" data-background-size="contain">
-<ul>
-<li>Parts of MARC record
-<ul>
-<li>Fields: Contain Data</li>
-<li>Tags: Identify what is in the field (eg. 245 is title info.)</li>
-<li>Indicator: Tell computers how to work with field (eg. in title field there is a non-filing indicator, if we have</li>
-</ul></li>
-</ul>
-</div>
-<div id="tabset-2-3" data-background-image="background.svg" data-background-size="contain">
-<ul>
-<li>Parts of MARC record
-<ul>
-<li>“The History of Art” title, the browser will display we want to begin filing with “history” &amp; not “the”)</li>
-<li>Subfield: Sections of field</li>
-<li>Subfield Codes: Identify content of subfield (eg. in 245 field, subfield C is statement of responsibility)</li>
-<li>Delimiters: Mark start of subfield</li>
-</ul></li>
-</ul>
-</div>
-<div id="tabset-2-4" data-background-image="background.svg" data-background-size="contain">
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="images/marc1.png"></p>
 </figure>
 </div>
 </div>
-<div id="tabset-2-5" data-background-image="background.svg" data-background-size="contain">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/marc2.png"></p>
-</figure>
+<div id="tabset-1-4" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li><p>MARC21 have following fields:</p>
+<ul>
+<li><strong>Control Fields (001-006)</strong>: contains <span style="color: blue;">control no. &amp; other coded info.</span> eg. <span style="color: blue;">date &amp; time of processing + type of material</span>. Each control field is identified by field tag &amp; contains either a single data element or a series of fixed-length data elements</li>
+<li><strong>Control Field (007)</strong>: contains special info. abt. <span style="color: blue;">physical characteristics</span> in a coded form</li>
+<li><strong>Control Fields (008)</strong>: contains <span style="color: blue;">40 character positions (00-39)</span> that provide coded info. abt. record and about <span style="color: blue;">special biblio. aspects of item</span> being cataloged</li>
+</ul></li>
+</ul>
 </div>
+<div id="tabset-1-5" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li><p><strong>Number &amp; Code Fields (01x-04x)</strong>: contain <span style="color: blue;">control &amp; linking no., standard no.</span> and codes that relate to the biblio. item described in record</p></li>
+<li><p><strong>Classification &amp; Call No.&nbsp;Fields (05x-08x)</strong>: contain <span style="color: blue;">classification &amp; call no.</span> related to item described in biblio. record</p></li>
+<li><p><strong>Main Entry Fields (1xx)</strong>: store a <span style="color: blue;">name or uniform title heading</span> used as a main entry in biblio. record</p>
+<ul>
+<li><span style="color: red;">100: personal name</span></li>
+<li><span style="color: red;">110: corporate name</span></li>
+</ul></li>
+</ul>
+</div>
+<div id="tabset-1-6" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li><span style="color: red;">111: meeting name</span></li>
+<li><span style="color: red;">130: uniform title</span></li>
+</ul>
+<p>EG. Work of Sir Winston Churchill will be entered as</p>
+<p><strong>100 1#$aChurchill, Winston, $cSir, $d1874-1965</strong></p>
+<p>Where,</p>
+<ul>
+<li>Subfield $a - personal name</li>
+<li>$c - title</li>
+<li>$d - dates associated with a person</li>
+</ul>
+</div>
+<div id="tabset-1-7" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li><p>Indicators: 0 - forename, 1- surname, 3 - family name</p></li>
+<li><p>‘#’ - undefined character</p></li>
+<li><p><strong>Title &amp; Title-Related Fields (20X-24X)</strong>: store <span style="color: blue;">title</span> of the item described in biblio. record &amp; <span style="color: blue;">variant titles</span> info.</p>
+<ul>
+<li><span style="color: red;">210: Abbreviated title</span></li>
+<li><span style="color: red;">222: Key title</span></li>
+<li><span style="color: red;">240: Uniform title</span></li>
+<li><span style="color: red;">245: Title Statement</span></li>
+</ul></li>
+</ul>
 </div>
 </div>
 </div>
 </section>
-<section id="marc-cont." class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>MARC (Cont.)</h2>
+<section id="marc21" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>MARC21</h2>
 <div class="panel-tabset">
-<ul id="tabset-3" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-3-1">Fields (Cont.)</a></li><li><a href="#tabset-3-2">MARC (Cont.)</a></li></ul>
+<ul id="tabset-2" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-2-1">Fields</a></li><li><a href="#tabset-2-2">Fields</a></li><li><a href="#tabset-2-3">Fields</a></li><li><a href="#tabset-2-4">Fields</a></li><li><a href="#tabset-2-5">Fields</a></li><li><a href="#tabset-2-6">Fields</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" data-background-image="background.svg" data-background-size="contain">
+<p>EG. <em>Book title: Information sources and searching on the world wide web</em></p>
+<p><strong>222 #0$a Information sources and searching on the world wide web</strong></p>
+<p>Where,</p>
+<ul>
+<li><p>0: no non-filling character</p></li>
+<li><p>$a: key title of concerned book</p></li>
+<li><p><strong>Edition &amp; Imprint Fields (250-270)</strong>: store info. on <span style="color: blue;">edition, imprint, address, and other publication source info.</span> and data related to specific forms of material that apply to</p></li>
+</ul>
+</div>
+<div id="tabset-2-2" data-background-image="background.svg" data-background-size="contain">
+<p>item in question</p>
+<ul>
+<li><span style="color: red;">250: Edition statement</span></li>
+<li><span style="color: red;">256: Computer file characteristics/data for electronic records</span></li>
+<li><span style="color: red;">260: Publication distribution</span></li>
+</ul>
+<p>EG. <strong>250 ## $a2nd ed.</strong></p>
+<ul>
+<li>‘#’: undefined fields</li>
+<li>$a: edition statement</li>
+</ul>
+</div>
+<div id="tabset-2-3" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li><p><strong>Physical Description Fields (3XX)</strong>: store info. on <span style="color: blue;">physical charac., publication freq., price &amp; physical arrangement of item</span></p>
+<ul>
+<li><span style="color: red;">300: Physical description</span></li>
+<li><span style="color: red;">306: Playing time</span></li>
+<li><span style="color: red;">310: Current publication freq.</span></li>
+<li><span style="color: red;">340: Physical medium</span></li>
+</ul></li>
+</ul>
+<p>EG. <strong>300 ## $ a149p. : $ bsd., col.&nbsp;;$c23cm</strong></p>
+</div>
+<div id="tabset-2-4" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li><p>$a: extent such as pages, volume</p></li>
+<li><p>$b: other physical details like color or playing sped</p></li>
+<li><p>$c: dimensions</p></li>
+<li><p><strong>Series Statement Fields (4XX)</strong>: <span style="color: blue;">440 &amp; 490 contains series statements</span></p></li>
+</ul>
+<p>EG. <strong>440 #0 $ a Library &amp; Information Science series $ n No.&nbsp;5</strong></p>
+<ul>
+<li>$a: title of series</li>
+<li>$n: no. of items in series</li>
+</ul>
+</div>
+<div id="tabset-2-5" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li><strong>Notes Fields part 1 (50X-53X) and part 2 (53X-58X)</strong>: for storing different <span style="color: blue;">types of notes</span> associated with different types of documents</li>
+</ul>
+<p>EG. <strong>500 ## $ a Based on an Indian folk tale</strong></p>
+<ul>
+<li><strong>Subject Access Fields (6XX)</strong>: store <span style="color: blue;">info. on subject headings or access terms</span> that provide add. access to biblio. record. <span style="color: blue;">13 fields have been designed diff. subj. access</span></li>
+</ul>
+</div>
+<div id="tabset-2-6" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li><span style="color: red;">600: personal names</span></li>
+<li><span style="color: red;">650: topical names</span></li>
+<li><span style="color: red;">651: geo. names</span></li>
+</ul>
+<p>EG. <strong>650 #0 $ a Architecture, Modern $ y 20th century</strong></p>
+<ul>
+<li>$a: topical term</li>
+<li>$y: chronological subdivison</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="marc21-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>MARC21</h2>
+<div class="panel-tabset">
+<ul id="tabset-3" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-3-1">Fields</a></li><li><a href="#tabset-3-2">Fields</a></li></ul>
 <div class="tab-content">
 <div id="tabset-3-1" data-background-image="background.svg" data-background-size="contain">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/marc3.png"></p>
-</figure>
-</div>
+<ul>
+<li><p><strong>Added Entry Fields (70X-75X)</strong>: provide access to biblio. record that is <span style="color: blue;">not provided through main entry (1XX), subject access (6XX), series statement (4XX), series added entry (8XX), title (20X-24X)</span></p></li>
+<li><p><strong>Linking Entry Fields (76X-78X)</strong>: contains info. that <span style="color: blue;">links related biblio. items</span></p></li>
+<li><p><strong>Series Added Entry Fields (80X-830)</strong>: contain <span style="color: blue;">name/title used in series added entry when series statement is contained in field 490 (series statement) or field 500 (general note)</span> and a series added entry is required for biblio. record</p></li>
+</ul>
 </div>
 <div id="tabset-3-2" data-background-image="background.svg" data-background-size="contain">
+<div class="columns">
+<div class="column" style="width:50%;">
 <ul>
-<li>040 field contains codes that tell which institutions did the cataloging</li>
+<li><strong>Holdings, Location, Alternate Graphs etc. Fields (841-88X)</strong>: contains <span style="color: blue;">descriptions for data elements that appear either in biblio. records or in separate MARC record</span>. <span style="color: red;">Field 856 is imp. for electronic records, esp.&nbsp;internet &amp; web resources</span></li>
 </ul>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/marc4.png"></p>
-</figure>
+</div><div class="column" style="width:50%;">
+<p>EG. <strong>856 40 $ u http://www.ref.oclc.org $ z Address for accessing journals in OCLC</strong> - 4: item accessed from HTTP - 0: electronic location - 856: same resources described by record as a whole - $u: URL - $z: note</p>
 </div>
 </div>
 </div>
 </div>
-</section>
-<section id="previous-year-questions" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>PREVIOUS YEAR QUESTIONS</h2>
-<h4 data-background-image="background.svg" data-background-size="contain" id="long-questions-12.5-marks">Long Questions (12.5 Marks)</h4>
-<h4 data-background-image="background.svg" data-background-size="contain" id="short-questions-5-marks">Short Questions (5 Marks)</h4>
+</div>
 <div class="footer footer-default">
 
 </div>

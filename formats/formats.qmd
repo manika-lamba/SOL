@@ -128,100 +128,180 @@ editor:
 ::: panel-tabset
 ## Intro
 
--   MARC stands for **MA**chine **R**eadable **C**atalogue
--   Data indexing system which was developed by LoC in 1965
--   Allows computers to "understand" cataloging inputs
-- MARC code does not provide an instruction on description of library materials, but is a standard format for bibliographic info. into a computerized record
+-   MARC stands for [**MA**chine **R**eadable **C**atalogue]{style="color: blue;"}
+-   Data indexing system which was [developed by LoC in 1965]{style="color: blue;"}
+-   [Allows computers to "understand" cataloging inputs]{style="color: blue;"}
+- MARC code [does not provide an instruction on description of library materials]{style="color: blue;"}, but is a [standard format for bibliographic info. into a computerized record]{style="color: red;"}
 
 - The
-information from a catalogue card cannot simply be typed into a computer to become part of
-an automated catalogue
+[information from a catalogue card cannot simply be typed into a computer to become part of
+an automated catalogue]{style="color: blue;"}
 
 ## Intro
-- The computer needs some program or code to interpret the
-information that is available in specific format on a catalogue card
-- MARC standard has ability
-to encode the bibliographic information in machine-readable format
-- MARC21 record contains various "signposts," before each piece of catalogue information
+- The [computer needs some program or code to interpret the
+info.]{style="color: blue;"} that is available in specific format on a catalogue card
+- [MARC]{style="color: blue;"} standard has [ability]{style="color: blue;"}
+to [encode the bibliographic information in machine-readable format]{style="color: blue;"}
+- [MARC21 record contains various "signposts," before each piece of catalogue information]{style="color: blue;"}
 so that it can be identified easily
-- Info. in a MARC record is stored in character form and records are coded in
-extended ASCII format
+- Info. in a MARC record is [stored in character form and records are coded in
+extended ASCII format]{style="color: blue;"}
 
-
-## Intro
-
-##### Structure of MARC21 Record
-- A MARC record consists of 3 elements: 
-    - **Record Structure** provides information on tags, indicators
-and data elements that are used to create the record
-    - **Content Designation** are predefined codes that are used as prefix to the data elements
-    - **Content of the Record** are the data elements that are defined & rendered in accordance to standards such as AACR2
-:::
-
-## MARC
-
-::: panel-tabset
-## Intro (Cont.)
-- MARC21 record contains **Leader, Directory, variable** fields
-
-1. **Leader:** 
-
-- It is a 24 character (octet's postitions 0-23) fixed field that store imp. info. required for processing of record through computer
-- It is the first field in any MARC record
-- Only graphical charaters fof ASCII allowed
-
-#### Structure of Leader
-
-- Record Length (charc. position 00-04)        - contains 5-character ASCII numeric string equal to the length of the entire record including itself & record terminator
-    - 5-character numeric string is right justified & unused positions contain 0s (zero fill)
-    - Max. length of record is 99999 octets
-
-
-
-
-## Intro (Cont.)
--   Parts of MARC record
-    -   Fields: Contain Data
-    -   Tags: Identify what is in the field (eg. 245 is title info.)
-    -   Indicator: Tell computers how to work with field (eg. in title
-        field there is a non-filing indicator, if we have
-
-## Intro (Cont.)
-
--   Parts of MARC record
-    -   "The History of Art" title, the browser will display we want to
-        begin filing with "history" & not "the")
-    -   Subfield: Sections of field
-    -   Subfield Codes: Identify content of subfield (eg. in 245 field,
-        subfield C is statement of responsibility)
-    -   Delimiters: Mark start of subfield
-
-## Intro (Cont.)
+## Fig
 
 ![](images/marc1.png){fig-align="center"}
 
-## Intro (Cont.)
+## Fields
 
-![](images/marc2.png){fig-align="center"}
+- MARC21 have following fields:
+
+  - **Control Fields (001-006)**: contains [control no. & other coded info.]{style="color: blue;"} eg. [date & time of processing + type of material]{style="color: blue;"}. Each control field is identified by field tag & contains either a single data element or a series of fixed-length data elements
+  - **Control Field (007)**: contains special info. abt. [physical characteristics]{style="color: blue;"} in a coded form
+  - **Control Fields (008)**: contains [40 character positions (00-39)]{style="color: blue;"} that provide coded info. abt. record and about [special biblio. aspects of item]{style="color: blue;"} being cataloged
+
+## Fields
+
+- **Number & Code Fields (01x-04x)**: contain [control & linking no., standard no.]{style="color: blue;"} and codes that relate to the biblio. item described in record
+
+- **Classification & Call No. Fields (05x-08x)**: contain [classification & call no.]{style="color: blue;"} related to item described in biblio. record
+
+- **Main Entry Fields (1xx)**: store a [name or uniform title heading]{style="color: blue;"} used as a main entry in biblio. record
+    - [100: personal name]{style="color: red;"}
+    - [110: corporate name]{style="color: red;"}
+    
+    
+## Fields  
+
+  - [111: meeting name]{style="color: red;"}
+  - [130: uniform title]{style="color: red;"}
+    
+EG. Work of Sir Winston Churchill will be entered as 
+
+**100 1#$aChurchill, Winston, $cSir, $d1874-1965**
+
+Where,
+
+-  Subfield $a - personal name
+- $c - title
+- $d - dates associated with a person
+
+## Fields  
+
+- Indicators: 0 - forename, 1- surname, 3 - family name
+- '#' - undefined character
+
+
+- **Title & Title-Related Fields (20X-24X)**: store [title]{style="color: blue;"} of the item described in biblio. record & [variant titles]{style="color: blue;"} info.
+
+  - [210: Abbreviated title]{style="color: red;"}
+  - [222: Key title]{style="color: red;"}
+  - [240: Uniform title]{style="color: red;"}
+  - [245: Title Statement]{style="color: red;"}
+
 :::
 
-## MARC (Cont.)
-
+## MARC21
 ::: panel-tabset
-## Fields (Cont.)
 
-![](images/marc3.png){fig-align="center"}
+## Fields
 
-## MARC (Cont.)
+EG. *Book title: Information sources and searching on the world wide web*
 
--   040 field contains codes that tell which institutions did the
-    cataloging
+**222 #0$a Information sources and searching on the world wide web**
 
-![](images/marc4.png){fig-align="center"}
+Where,
+
+- 0: no non-filling character
+- $a: key title of concerned book
+
+- **Edition & Imprint Fields (250-270)**:
+store info. on [edition, imprint, address, and other publication source info.]{style="color: blue;"} and data related to specific forms of material that apply to 
+
+## Fields
+
+item in question
+
+  - [250: Edition statement]{style="color: red;"}
+  - [256: Computer file characteristics/data for electronic records]{style="color: red;"}
+  - [260: Publication distribution]{style="color: red;"}
+
+EG. **250 ## $a2nd ed.**
+
+- '#': undefined fields
+- $a: edition statement
+
+## Fields
+
+- **Physical Description Fields (3XX)**: store info. on [physical charac., publication freq., price & physical arrangement of item]{style="color: blue;"}
+
+   - [300: Physical description]{style="color: red;"}
+   - [306: Playing time]{style="color: red;"}
+   - [310: Current publication freq.]{style="color: red;"}
+   - [340: Physical medium]{style="color: red;"}
+
+EG. **300 ## $ a149p. : $ bsd., col. ;$c23cm**
+
+## Fields
+
+- $a: extent such as pages, volume
+- $b: other physical details like color or playing sped
+- $c: dimensions
+
+- **Series Statement Fields (4XX)**: [440 & 490 contains series statements]{style="color: blue;"}
+
+EG. **440 #0 $ a Library & Information Science series $ n No. 5**
+
+
+- $a: title of series
+- $n: no. of items in series
+
+## Fields
+
+- **Notes Fields part 1 (50X-53X) and part 2 (53X-58X)**: for storing different [types of notes]{style="color: blue;"} associated with different types of documents
+
+EG. **500 ## $ a Based on an Indian folk tale**
+
+- **Subject Access Fields (6XX)**: store [info. on subject headings or access terms]{style="color: blue;"} that provide add. access to biblio. record. [13 fields have been designed diff. subj. access]{style="color: blue;"}
+
+## Fields
+
+   - [600: personal names]{style="color: red;"}
+   - [650: topical names]{style="color: red;"}
+   - [651: geo. names]{style="color: red;"}
+
+EG. **650 #0 $ a Architecture, Modern $ y 20th century**
+
+- $a: topical term
+- $y: chronological subdivison
+
 :::
 
-## PREVIOUS YEAR QUESTIONS
+## MARC21
+::: panel-tabset
 
-#### Long Questions (12.5 Marks)
+## Fields
 
-#### Short Questions (5 Marks)
+- **Added Entry Fields (70X-75X)**: provide access to biblio. record that is [not provided through main entry (1XX), subject access (6XX), series statement (4XX), series added entry (8XX), title (20X-24X)]{style="color: blue;"}
+
+- **Linking Entry Fields (76X-78X)**: contains info. that [links related biblio. items]{style="color: blue;"}
+
+- **Series Added Entry Fields (80X-830)**: contain [name/title used in series added entry when series statement is contained in field 490 (series statement) or field 500 (general note)]{style="color: blue;"} and a series added entry is required for biblio. record
+
+## Fields
+::: columns
+::: {.column width="50%"}
+- **Holdings, Location, Alternate Graphs etc. Fields (841-88X)**: contains [descriptions for data elements that appear either in biblio. records or in separate MARC record]{style="color: blue;"}. [Field 856 is imp. for electronic records, esp. internet & web resources]{style="color: red;"}
+:::
+
+
+::: {.column width="50%"}
+EG. **856 40 $ u http://www.ref.oclc.org $ z Address for accessing journals in OCLC**
+     - 4: item accessed from HTTP
+     - 0: electronic location
+     - 856: same resources described by record as a whole
+       - $u: URL
+      - $z: note
+:::
+:::
+
+:::
