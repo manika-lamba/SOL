@@ -463,13 +463,67 @@
 <section id="marc-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>MARC</h2>
 <div class="panel-tabset">
-<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">Intro</a></li><li><a href="#tabset-1-2">Intro (Cont.)</a></li><li><a href="#tabset-1-3">Intro (Cont.)</a></li><li><a href="#tabset-1-4">Intro (Cont.)</a></li></ul>
+<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">Intro</a></li><li><a href="#tabset-1-2">Intro</a></li><li><a href="#tabset-1-3">Intro</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" data-background-image="background.svg" data-background-size="contain">
 <ul>
-<li>MARC stands for <strong>MA</strong>chine <strong>R</strong>eadable <strong>C</strong>ataloging</li>
-<li>Data indexing system which was developed by LoC in 1965</li>
-<li>Allows computers to “understand” cataloging inputs</li>
+<li><p>MARC stands for <strong>MA</strong>chine <strong>R</strong>eadable <strong>C</strong>atalogue</p></li>
+<li><p>Data indexing system which was developed by LoC in 1965</p></li>
+<li><p>Allows computers to “understand” cataloging inputs</p></li>
+<li><p>MARC code does not provide an instruction on description of library materials, but is a standard format for bibliographic info. into a computerized record</p></li>
+<li><p>The information from a catalogue card cannot simply be typed into a computer to become part of an automated catalogue</p></li>
+</ul>
+</div>
+<div id="tabset-1-2" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li>The computer needs some program or code to interpret the information that is available in specific format on a catalogue card</li>
+<li>MARC standard has ability to encode the bibliographic information in machine-readable format</li>
+<li>MARC21 record contains various “signposts,” before each piece of catalogue information so that it can be identified easily</li>
+<li>Info. in a MARC record is stored in character form and records are coded in extended ASCII format</li>
+</ul>
+</div>
+<div id="tabset-1-3" data-background-image="background.svg" data-background-size="contain">
+<h5 data-background-image="background.svg" data-background-size="contain" id="structure-of-marc21-record">Structure of MARC21 Record</h5>
+<ul>
+<li>A MARC record consists of 3 elements:
+<ul>
+<li><strong>Record Structure</strong> provides information on tags, indicators and data elements that are used to create the record</li>
+<li><strong>Content Designation</strong> are predefined codes that are used as prefix to the data elements</li>
+<li><strong>Content of the Record</strong> are the data elements that are defined &amp; rendered in accordance to standards such as AACR2</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="marc-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>MARC</h2>
+<div class="panel-tabset">
+<ul id="tabset-2" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-2-1">Intro (Cont.)</a></li><li><a href="#tabset-2-2">Intro (Cont.)</a></li><li><a href="#tabset-2-3">Intro (Cont.)</a></li><li><a href="#tabset-2-4">Intro (Cont.)</a></li><li><a href="#tabset-2-5">Intro (Cont.)</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" data-background-image="background.svg" data-background-size="contain">
+<ul>
+<li>MARC21 record contains <strong>Leader, Directory, variable</strong> fields</li>
+</ul>
+<ol type="1">
+<li><strong>Leader:</strong></li>
+</ol>
+<ul>
+<li>It is a 24 character (octet’s postitions 0-23) fixed field that store imp. info. required for processing of record through computer</li>
+<li>It is the first field in any MARC record</li>
+<li>Only graphical charaters fof ASCII allowed</li>
+</ul>
+<h4 data-background-image="background.svg" data-background-size="contain" id="structure-of-leader">Structure of Leader</h4>
+<ul>
+<li>Record Length (charc. position 00-04) - contains 5-character ASCII numeric string equal to the length of the entire record including itself &amp; record terminator
+<ul>
+<li>5-character numeric string is right justified &amp; unused positions contain 0s (zero fill)</li>
+<li>Max. length of record is 99999 octets</li>
+</ul></li>
+</ul>
+</div>
+<div id="tabset-2-2" data-background-image="background.svg" data-background-size="contain">
+<ul>
 <li>Parts of MARC record
 <ul>
 <li>Fields: Contain Data</li>
@@ -478,7 +532,7 @@
 </ul></li>
 </ul>
 </div>
-<div id="tabset-1-2" data-background-image="background.svg" data-background-size="contain">
+<div id="tabset-2-3" data-background-image="background.svg" data-background-size="contain">
 <ul>
 <li>Parts of MARC record
 <ul>
@@ -489,14 +543,14 @@
 </ul></li>
 </ul>
 </div>
-<div id="tabset-1-3" data-background-image="background.svg" data-background-size="contain">
+<div id="tabset-2-4" data-background-image="background.svg" data-background-size="contain">
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="images/marc1.png"></p>
 </figure>
 </div>
 </div>
-<div id="tabset-1-4" data-background-image="background.svg" data-background-size="contain">
+<div id="tabset-2-5" data-background-image="background.svg" data-background-size="contain">
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="images/marc2.png"></p>
@@ -509,16 +563,16 @@
 <section id="marc-cont." class="slide level2" data-background-image="background.svg" data-background-size="contain">
 <h2>MARC (Cont.)</h2>
 <div class="panel-tabset">
-<ul id="tabset-2" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-2-1">Fields (Cont.)</a></li><li><a href="#tabset-2-2">MARC (Cont.)</a></li></ul>
+<ul id="tabset-3" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-3-1">Fields (Cont.)</a></li><li><a href="#tabset-3-2">MARC (Cont.)</a></li></ul>
 <div class="tab-content">
-<div id="tabset-2-1" data-background-image="background.svg" data-background-size="contain">
+<div id="tabset-3-1" data-background-image="background.svg" data-background-size="contain">
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="images/marc3.png"></p>
 </figure>
 </div>
 </div>
-<div id="tabset-2-2" data-background-image="background.svg" data-background-size="contain">
+<div id="tabset-3-2" data-background-image="background.svg" data-background-size="contain">
 <ul>
 <li>040 field contains codes that tell which institutions did the cataloging</li>
 </ul>

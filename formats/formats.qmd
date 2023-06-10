@@ -128,9 +128,58 @@ editor:
 ::: panel-tabset
 ## Intro
 
--   MARC stands for **MA**chine **R**eadable **C**ataloging
+-   MARC stands for **MA**chine **R**eadable **C**atalogue
 -   Data indexing system which was developed by LoC in 1965
 -   Allows computers to "understand" cataloging inputs
+- MARC code does not provide an instruction on description of library materials, but is a standard format for bibliographic info. into a computerized record
+
+- The
+information from a catalogue card cannot simply be typed into a computer to become part of
+an automated catalogue
+
+## Intro
+- The computer needs some program or code to interpret the
+information that is available in specific format on a catalogue card
+- MARC standard has ability
+to encode the bibliographic information in machine-readable format
+- MARC21 record contains various "signposts," before each piece of catalogue information
+so that it can be identified easily
+- Info. in a MARC record is stored in character form and records are coded in
+extended ASCII format
+
+
+## Intro
+
+##### Structure of MARC21 Record
+- A MARC record consists of 3 elements: 
+    - **Record Structure** provides information on tags, indicators
+and data elements that are used to create the record
+    - **Content Designation** are predefined codes that are used as prefix to the data elements
+    - **Content of the Record** are the data elements that are defined & rendered in accordance to standards such as AACR2
+:::
+
+## MARC
+
+::: panel-tabset
+## Intro (Cont.)
+- MARC21 record contains **Leader, Directory, variable** fields
+
+1. **Leader:** 
+
+- It is a 24 character (octet's postitions 0-23) fixed field that store imp. info. required for processing of record through computer
+- It is the first field in any MARC record
+- Only graphical charaters fof ASCII allowed
+
+#### Structure of Leader
+
+- Record Length (charc. position 00-04)        - contains 5-character ASCII numeric string equal to the length of the entire record including itself & record terminator
+    - 5-character numeric string is right justified & unused positions contain 0s (zero fill)
+    - Max. length of record is 99999 octets
+
+
+
+
+## Intro (Cont.)
 -   Parts of MARC record
     -   Fields: Contain Data
     -   Tags: Identify what is in the field (eg. 245 is title info.)
