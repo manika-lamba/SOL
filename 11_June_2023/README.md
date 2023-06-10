@@ -1,17 +1,13 @@
-# Week 5
+# Week 6
 
-This repository contains the Slides, Recorded Video, Quiz, & Reading Material for the Discussion Lecture held on **4th June 2023**.
+This repository contains the Slides, Recorded Video, Quiz, & Reading Material for the Discussion Lecture held on **11th June 2023**.
 
-1. [Slides](https://manika-lamba.github.io/SOL/4_June_2023/#/title-slide)
+1. [Slides](https://manika-lamba.github.io/SOL/11_June_2023/#/title-slide)
 
-2. [Video](https://www.youtube.com/live/nzpycAMFAwM?feature=share)
-This is the truncated version of 1 hour 30 mins lecture. The orginial full recorded video is not available due to technical error.
+2. [Video]
 
-3. [Quiz](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/quiz.pdf)
+3. [Quiz]
 
 4. Reading Material
-- [Principles & Evolution of Bibliographic Description](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/Principles-and-Evolution.pdf)
-- [Rules for Bibliographic Description](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/Rules.pdf)
-- [Standards of Bibliographic Description](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/Standards.pdf)
-- [FRBR](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/FRBR.pdf)
-- [Metadata](https://github.com/manika-lamba/SOL/blob/main/4_June_2023/reading-material/Metadata.pdf)
+- [Indexing Systems](https://github.com/manika-lamba/SOL/blob/main/11_June_2023/reading-materials/Indexing%20Systems.pdf)
+- [Metadata](https://github.com/manika-lamba/SOL/blob/main/11_June_2023/reading-materials/Metadata.pdf)

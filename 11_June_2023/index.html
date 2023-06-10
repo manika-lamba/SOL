@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<script src="formats_files/libs/clipboard/clipboard.min.js"></script>
-<script src="formats_files/libs/quarto-html/tabby.min.js"></script>
-<script src="formats_files/libs/quarto-html/popper.min.js"></script>
-<script src="formats_files/libs/quarto-html/tippy.umd.min.js"></script>
-<link href="formats_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="formats_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="formats_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<script src="indexing_files/libs/clipboard/clipboard.min.js"></script>
+<script src="indexing_files/libs/quarto-html/tabby.min.js"></script>
+<script src="indexing_files/libs/quarto-html/popper.min.js"></script>
+<script src="indexing_files/libs/quarto-html/tippy.umd.min.js"></script>
+<link href="indexing_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="indexing_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="indexing_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.1.189">
 
   <meta name="author" content="Dr.&nbsp;Manika Lamba">
-  <title>Standards for Bibliographic Record Formats</title>
+  <title>Indexing Systems, Metadata, &amp; Data Mining</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="formats_files/libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="formats_files/libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="indexing_files/libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="indexing_files/libs/revealjs/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -29,14 +29,14 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="formats_files/libs/revealjs/dist/theme/quarto.css" id="theme">
+  <link rel="stylesheet" href="indexing_files/libs/revealjs/dist/theme/quarto.css" id="theme">
   <link rel="stylesheet" href="_extensions/onyxia/logo.css">
-  <link href="formats_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="formats_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="formats_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="formats_files/libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
-  <link href="formats_files/libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
-  <link href="formats_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <link href="indexing_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="indexing_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="indexing_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="indexing_files/libs/revealjs/plugin/reveal-chalkboard/font-awesome/css/all.css" rel="stylesheet">
+  <link href="indexing_files/libs/revealjs/plugin/reveal-chalkboard/style.css" rel="stylesheet">
+  <link href="indexing_files/libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
 
   .callout {
@@ -328,262 +328,539 @@
     <div class="slides">
 
 <section id="title-slide" data-background-image="background.svg" data-background-size="contain" class="center">
-  <h1 class="title">Standards for Bibliographic Record Formats</h1>
+  <h1 class="title">Indexing Systems, Metadata, &amp; Data Mining</h1>
   <p class="subtitle"></p><p><strong><span class="orange">Paper-M-108</span></strong></p><p></p>
   <p class="author"></p><p><a href="https://manika-lamba.github.io">Dr.&nbsp;Manika Lamba</a></p><p></p>
   <p class="date">11th June 2023</p>
 </section>
 
 <section>
-<section id="standardization-of-international-standard-bibliographic-description-isbd" class="title-slide slide level1 center" data-background-color="#438496" data-background-image="background.svg" data-background-size="contain">
-<h1>Standardization of International Standard Bibliographic Description (ISBD)</h1>
+<section id="indexing-systems" class="title-slide slide level1 center" data-background-color="#438496" data-background-image="background.svg" data-background-size="contain">
+<h1>Indexing Systems</h1>
 
 </section>
-<section id="isbd" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>ISBD</h2>
+<section id="introduction" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Introduction</h2>
 <ul>
-<li><p>IFLA held an International Conference on Cataloguing Principles (ICCP) at Paris in 1961 with a purpose to achieve international standardization in cataloguing</p></li>
-<li><p>Standardization of International Standard Bibliographic Description (ISBD) made it economic &amp; technological necessity for the creation, conversion, and use of machine-readable records</p></li>
-<li><p>These rules are standards to promote universal bibliographic control</p></li>
-<li><p>Consistency while sharing bibliographic information is the main goal of ISBD</p></li>
+<li><p>Indexing operations have been performed intellectually by human indexers or quite a long time</p></li>
+<li><p>Automatic systems have been developed recently where text analysis and indexing are performed by computers</p></li>
+<li><p>The basic tasks involved in indexing are same, i.e.&nbsp;to analyse the content of a given document and represent the analysis by some content identifiers or keywords</p></li>
+<li><p>Lancaster mentions that the process of subject indexing involves 2 distinct intellectual steps, <strong>conceptual analysis</strong>, and <strong>representation</strong></p></li>
+<li><p>Subject Classification includes arrangement of documents according to their subject content by</p></li>
 </ul>
 </section>
-<section id="isbd-cont." class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>ISBD (Cont.)</h2>
+<section id="introduction-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Introduction (Cnt.)</h2>
+<p>notational systems such as DDC, UDC, LoC Classification</p>
 <ul>
-<li>The most important contribution has been made by ISBD(G) [General International Standard Bibliographic Description] which is intended to provide the generalized framework for descriptive information required in range of different bibliographic activities</li>
+<li><p>Subject Indexing is the process to match the contents of documents with users’ queries and is represented in a natural language form such as PRECIS, POPSI, Relational Indexing, Chain Indexing</p></li>
+<li><p>One basic problem involved in the process o subject indexing is the choice of appropriate keywords or descriptors though which index entry is to be represented</p></li>
+<li><p>The indexer prefers to use keywords that represents the subject clearly &amp; likely to be chosen by user when looking for the subject</p></li>
 </ul>
 </section>
-<section id="isbd-history" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>ISBD HISTORY</h2>
-<table>
-<colgroup>
-<col style="width: 29%">
-<col style="width: 70%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Year</th>
-<th>Event</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1971</td>
-<td>ISBD for Monographic Publications (ISBD (M)) was published &amp; was revised in 1974 as “First Standard Edition” and was again revised in 1987</td>
-</tr>
-<tr class="even">
-<td>1974</td>
-<td>ISBD (S) for serials was published &amp; revised in 1988</td>
-</tr>
-<tr class="odd">
-<td>1977</td>
-<td>ISBD (CM) for cartographic materials &amp; ISBD (NBM) for non-book materials were appeared and revised in 1987</td>
-</tr>
-<tr class="even">
-<td>1977</td>
-<td>ISBD (G) was published. It includes information about general. The basic need of ISBD (G) was to ensure the harmony among other ISBDs and was revised in 1992</td>
-</tr>
-</tbody>
-</table>
+<section id="introduction-cont." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Introduction (Cont.)</h2>
+<ul>
+<li><p>In order to standardize the task of choosing appropriate keywords for generation of index entries, no. of vocabulary control devices have been developed such as thesaurus</p></li>
+<li><p>These tools help the indexer to choose most appropriate term to represent the subject at indexing stage and help the users to pick most appropriate terms while formulating a query</p></li>
+<li><p>2 different indexers may analyse content of a given document in 2 different ways resulting in 2 different index entries (Serious Drawback of Manual Indexing)</p></li>
+<li><p>To avoid total dependence on human intellect, researchers have attempted to automate the whole process of subject indexing &amp; classification</p></li>
+</ul>
 </section>
-<section id="isbd-history-cont." class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>ISBD HISTORY (Cont.)</h2>
-<table>
-<colgroup>
-<col style="width: 29%">
-<col style="width: 70%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>1980</td>
-<td>International bibliographic book description for Antiquarian &amp; Printed music (ISBD (A)) &amp; ISBD (PM) were published &amp; revised in 1991</td>
-</tr>
-<tr class="even">
-<td>1988</td>
-<td>Description of component parts &amp; a guideline for application of article level was published</td>
-</tr>
-<tr class="odd">
-<td>1989</td>
-<td>Conference carrying agenda on Section of Cataloging adopting a schedule with its procedures for the development &amp; distribution of documents was held</td>
-</tr>
-<tr class="even">
-<td>1990</td>
-<td>International Standard Bibliographic Description for Computer Files ISBD (CF) was published</td>
-</tr>
-<tr class="odd">
-<td>2002</td>
-<td>Updated procedures on electronic environment opportunities</td>
-</tr>
-</tbody>
-</table>
+<section id="introduction-cont.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Introduction (Cont.)</h2>
+<ul>
+<li><p>Most of the systems developed so far for automatic content analysis are based on statistical calculation of occurrence of keywords in the documents</p></li>
+<li><p>Given the shortcomings of such statistically based systems, researchers have suggested the need of syntactic &amp; semantic analysis of text statements by using computational linguistics in the process of content analysis</p></li>
+<li><p>Subject indexing systems have been classified broadly as <strong>pre-coordinate</strong> and <strong>post-coordinate</strong> systems</p></li>
+<li><p>In <strong>post-coordinate</strong> systems, one entry is prepared for each keyword selected to represent the subject of a given document and all entries are organized in a file</p></li>
+<li><p>When a user puts forward a query, it is analyzed and some keywords are selected that are representative of user’s query. These query terms are then matched against the file of index terms and relevant documents are retrieved. Examples Uniterm</p></li>
+</ul>
 </section>
-<section id="five-phases-in-development-of-isbd" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>FIVE PHASES IN DEVELOPMENT OF ISBD</h2>
+<section id="introduction-cont.-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Introduction (Cont.)</h2>
+<ul>
+<li>In <strong>pre-coordinate</strong> systems, keyword chosen ar subject analysis stage are coordinated at indexing stage and thus each entry represents full content of the document. Examples PRECIS, POPSI, Chain Indexing, Relational Indexing</li>
+</ul>
+<h4 data-background-image="background.svg" data-background-size="contain" id="exhausitivity-and-specificity">Exhausitivity and Specificity</h4>
+<ul>
+<li><p>Effectiveness of an indexing system is controlled by 2 parameters called <strong>exhaustivity &amp; term specificity</strong></p></li>
+<li><p>Exhaustivity is the degree to which subject matter of a given document has been reflected through index entries. It represents the contents of input documents fully</p></li>
+</ul>
+</section>
+<section id="exhausitivity-and-specificity-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Exhausitivity and Specificity (Cnt.)</h2>
+<ul>
+<li><p>To attain exhaustivity, system has to select as many keywords as possible to represent the idea put forward in the document</p></li>
+<li><p>Specificity refers to how broad or how specific are the terms or keywords chosen under a given situation. More specific the terms, better is the representation of the subject through the index entry</p></li>
+<li><p>Recall &amp; Precision measure the effectiveness of a systems where</p></li>
+</ul>
+<p>Recall = No.&nbsp;of relevant documents retrieved / No.&nbsp;of relevant documents in the collection</p>
+</section>
+<section id="exhausitivity-and-specificity-cnt.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Exhausitivity and Specificity (Cnt.)</h2>
+<p>Precision = No.&nbsp;of relevant documents retrieved / Total no. of documents retrieved</p>
+<ul>
+<li><p>More Exhaustivity, higher recall &amp; lower precision</p></li>
+<li><p>More Specificity, higher precision &amp; lower recall</p></li>
+</ul>
+</section>
+<section id="theory-of-indexing" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Theory of Indexing</h2>
+<ul>
+<li><p>Some researchers like Quinn, Jones, and Fugmann suggested there are 5 levels in process of indexing</p></li>
+<li><p><strong>First Level</strong> is the concordance, which consists of references to all words in original text arranged in alphabetical order</p></li>
+<li><p><strong>Second Level</strong> is the information theoretic level which calculates the likelihood of a word being chosen for indexing based on its frequency of occurrence in a given text document</p></li>
+<li><p><strong>Third Level</strong> is the linguistic one, which attempts to explain how meaningful words are extracted from large units of text. Some indexers propose that sections like opening paragraphs, chapters, sections, opening &amp;</p></li>
+</ul>
+</section>
+<section id="theory-of-indexing-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Theory of Indexing (Cnt.)</h2>
+<p>closing sentences of a paragraph are good sources of choosing indexing terms</p>
+<ul>
+<li><p><strong>Fourth Level</strong> is the textual or skeletal framework where the text is prepared by the author in an organized manner and held together by skeletal structure</p></li>
+<li><p><strong>Fifth Level</strong> is the inferential level where indexer make inferences about relationships between words and phrases by observing the sentences and paragraph structure</p></li>
+</ul>
+</section>
+<section id="manual-indexing" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Manual Indexing</h2>
+
+<img data-src="images/indexing.png" class="r-stretch quarto-figure-center"></section>
+<section id="manual-indexing-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Manual Indexing (Cnt.)</h2>
+<ul>
+<li><p>Effectiveness of an indexing system and the performance of total retrieval system depends on exhausivity &amp; specificity of index terms</p></li>
+<li><p>A no. of vocabulary control devised are available to guide indexer in choosing most appropriate index terms</p></li>
+<li><p>For example, in pre-coordnated systems like PRECIS use inbuilt/online thesaurus and POPSI uses classaurus (hierarchical classification incorporating all the features of a thesaurus)</p></li>
+<li><p>In post-coordinated systems, after choosing the keywords, indexer has to put an index entry under each term separately along with necessary reference entries (‘see’ &amp; ‘see also’ entries)</p></li>
+</ul>
+</section>
+<section id="pre-coordinating-indexing-systems" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Pre-Coordinating Indexing Systems</h2>
+<p><strong>1. Chain Indexing</strong></p>
+<ul>
+<li><p>Dr.&nbsp;S.R Ranganathan developed pre-coordinated indexing method called chain indexing</p></li>
+<li><p>It attempts to represent the chain of concepts that constitutes a subject in natural language in contrast to the steps of classifying a document where we use artificial (notation) language for subject indexing</p></li>
+<li><p>Thus, if we can represent subject in natural language and can represent all terms/concepts in chain forming the subject statement in a systematic manner, then users can access subject matter by any of the constituent concepts</p></li>
+</ul>
+</section>
+<section id="chain-indexing-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>1. Chain Indexing (Cnt.)</h2>
+<p>Basic steps in chain indexing are:</p>
 <ol type="1">
-<li><p>Creating a draft text</p></li>
-<li><p>Worldwide Review</p></li>
-<li><p>Final Revision</p></li>
-<li><p>Balloting</p></li>
-<li><p>Publication</p></li>
+<li>Take class no. prepared for the given document</li>
+<li>Consult corresponding classification schedule and write the notations at each step and the corresponding term or phrase (from the schedule). This will produce a chain of concepts from general to specific</li>
+<li>Identify the sought, unsought, and false links
+<ul>
+<li>Sought links denote the concepts that user is likely to use as access point</li>
+<li>Unsought links are those that are not likely to be used as access points</li>
+</ul></li>
 </ol>
 </section>
-<section id="structure-of-isbd" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>STRUCTURE OF ISBD</h2>
+<section id="chain-indexing-cnt.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>1. Chain Indexing (Cnt.)</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
 <ul>
-<li>ISBD is divided into 8 areas on description</li>
+<li>False links are those that are really do not represent any valid concept (mostly these are the connecting symbols)</li>
 </ul>
+<ol start="4" type="1">
+<li>Invert the chain (process is called reverse rendering), and this will generate index entries</li>
+</ol>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/example.png"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="relational-indexing" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>2. Relational Indexing</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li><p>J.E.L. Farradane devised a scheme of pre-coordinate indexing known as relational indexing</p></li>
+<li><p>It was developed first in early 1950s and has been modified several times since then. The latest changes were appeared in 1980</p></li>
+<li><p>Farradane identified 9 relational categories which were represented in a</p></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p>matrix</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/relational.png"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="relational-indexing-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>2. Relational Indexing (Cnt.)</h2>
+<ul>
+<li>Any subject can be represented by identifying &amp; representing in the form of what he called <strong>analets</strong> (pairs of terms interposed by an operator), relationship between each pair of constituent concepts can be represented by the 9 relational operators</li>
+</ul>
+
+<img data-src="images/example2.png" class="r-stretch quarto-figure-center"></section>
+<section id="relational-indexing-cnt.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>2. Relational Indexing (Cnt.)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/eg.png"></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/eg2.png"></p>
+</figure>
+</div>
+</section>
+<section id="precis" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>3. PRECIS</h2>
+<ul>
+<li><p>PREserved Context Index System (PRECIS) was developed by Derek Austin and first came out in 1974 and revised in 1984</p></li>
+<li><p>It became very popular and the major tasks involved in indexing in this system are:</p>
+<ul>
+<li>analysing the concerned document and identifying the key concepts</li>
+<li>organizing the concepts into a subject statement based on principle of context dependency</li>
+<li>assigning codes (‘operators’) which signify syntactical function of each term</li>
+<li>deciding which terms should be the access points</li>
+</ul></li>
+</ul>
+</section>
+<section id="precis-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>3. PRECIS (Cnt.)</h2>
+<ul>
+<li>Major tasks:
+<ul>
+<li>and which should be in other positions in index entries and assigning further codes to achieve these results</li>
+<li>adding further prepositions, auxiliaries or phrases which would result in clarity and expressiveness of the resulting index entries</li>
+<li>making supporting reference entries from semantically related terms taken from a thesaurus</li>
+</ul></li>
+</ul>
+</section>
+<section id="precis-cnt.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>3. PRECIS (Cnt.)</h2>
+<ul>
+<li><p>Stages 2 to 4 deal with syntactic relation and are governed by</p>
+<ul>
+<li>schema of role operators, and</li>
+<li>associated rules for dealing with each role operator and making index entries</li>
+</ul></li>
+<li><p>There are 2 kinds of operators: <strong>primary</strong> &amp; <strong>secondary</strong></p></li>
+<li><p>There are 2 sets of <strong>primary codes</strong>: one set (theme interlinks) involves 3 codes used to link common or related themes in the subject statement</p></li>
+<li><p>Other (term codes) involves 3 codes used to denote status of a term in subject statement</p></li>
+</ul>
+</section>
+<section id="precis-cnt.-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>3. PRECIS (Cnt.)</h2>
+<ul>
+<li><p>There are <strong>secondary codes</strong> which are divided into 2 sets</p></li>
+<li><p>First set is <strong>differences</strong> and it involves 3 kinds of differences such as ‘preceding differences’, ‘date as a difference’ and ‘parenthetical differences’</p></li>
+<li><p>Second set involves ‘connectives’ which are used to connect any two or more consecutive terms in input string</p></li>
+<li><p>There are some <strong>typographic codes</strong> which are used to bring desired typographic form of a given term in resulting index entry</p></li>
+</ul>
+</section>
+<section id="precis-cnt.-3" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>3. PRECIS (Cnt.)</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Primary operators (mainline operators) perform the primary task in the syntactical side. There are 7 primary operator for 3 sets of concepts
+<ul>
+<li>0 is for ‘environment of core concepts’</li>
+<li>1,2,3 are for ‘core concepts’</li>
+<li>4,5,6 are for ‘extra-core concepts’</li>
+</ul></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/precis.png" style="width:80.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="precis-cnt.-4" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>3. PRECIS (Cnt.)</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Secondary operators (interposed operators) perform secondary functions and are used for 3 sets of concepts: f, g are for ‘coordinate concepts’; p, q, r are for ‘dependent elements’; s, t, u are for ‘special classes for action’</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Example of PRECIS entries:</li>
+</ul>
+<p><em>Subject statement</em>: Management of libraries in India</p>
+<p>Entries:</p>
+<ul>
+<li><p><strong>Management</strong></p>
+<ul>
+<li>Libraries. India</li>
+</ul></li>
+<li><p><strong>Libraries</strong>. Management</p>
+<ul>
+<li>India</li>
+</ul></li>
+<li><p><strong>India</strong>. Libraries. Management</p></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="popsi" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>4. POPSI</h2>
+<ul>
+<li><p>POstulated-based Permuted Subject Indexing (POPSI) is a pre-coordinated indexing system developed by G. Bhattacharyya</p></li>
+<li><p>It uses analytico-synthetic method for string formulation and permutation of constituent terms to satisfy different approach points to document</p></li>
+<li><p>There are 2 parts in POPSI index entry</p>
+<ul>
+<li><strong>Lead Heading</strong> which contains index term or access term</li>
+<li><strong>Context Heading</strong> which appears in line following lead heading &amp; contains subject words with auxiliary words denoting the context in which lead term has been discussed in given document</li>
+</ul></li>
+</ul>
+</section>
+<section id="popsi-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>4. POPSI (Cnt.)</h2>
+<ul>
+<li><p>He proposed 4 elementary categories, <strong>discipline, entity, property, </strong> and <strong>action</strong> (DEPA in short) and a special component called modifier</p></li>
+<li><p>Accd. to POPSI, a <strong>discipline</strong> is an elementary category which includes conventional fields of study or any aggregate of such fields or artificially created analogous fields such as physics, library science, computer science</p></li>
+<li><p><strong>Entity</strong> includes manifestations having perceptual correlates, or only a conceptual existence, and distinct from properties and actions performed by them or on them. EG. patent, lung, plant, so on</p></li>
+</ul>
+</section>
+<section id="popsi-cnt.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>4. POPSI (Cnt.)</h2>
+<ul>
+<li><p><strong>Property</strong> includes manifestations denoting concept or attribute - qualitative or quantitative. EG. specific gravity, disease, efficiency, so on</p></li>
+<li><p><strong>Action</strong> includes manifestations denoting concept of doing, either as self action or as external action. EG. evaluation, examination, migration</p></li>
+<li><p>In relation to manifestation of any one of the elementary categories the modifiers qualifies the manifestations without disturbing their conceptual wholeness. EG. ‘subject’ in ‘subject classification’</p></li>
+<li><p>A modifier can modify any of the fundamental categories or a combination of fundamental categories</p></li>
+</ul>
+</section>
+<section id="popsi-cnt.-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>4. POPSI (Cnt.)</h2>
+<ul>
+<li><p>Modifiers can be common modifiers like form, time, environment, and place, and special modifiers, which are discipline-based, property-based or action-based</p></li>
+<li><p>Basic rule of syntax is associated with deep structure of a subject indexing language is that discipline should be followed by entity appropriately interpolated or extrapolated wherever warranted by property and/or action</p></li>
+<li><p>There are other rules that govern syntactical structure of POPSI such as</p>
+<ul>
+<li>manifestation of property follows immediately the manifestation in relation to which it is a property</li>
+</ul></li>
+</ul>
+</section>
+<section id="popsi-cnt.-3" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>4. POPSI (Cnt.)</h2>
+<ul>
+<li><p>manifestation of action follows immediately the manifestation in relation to which it is an action</p></li>
+<li><p>property &amp; action can have another property and/or action directly related</p></li>
+<li><p>species or part follows immediately the manifestation in relation to which it is a species (genus-species relation such as Flower and Rose) or part (whole-part relation, such as Human Body &amp; Lungs)</p></li>
+<li><p>modifier follows immediately the manifestation in relation to which it is a modifier</p></li>
+</ul>
+</section>
+<section id="popsi-cnt.-4" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>4. POPSI (Cnt.)</h2>
+
+<img data-src="images/popsi.png" class="r-stretch quarto-figure-center"></section>
+<section id="post-coordinate-indexing-systems" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Post-Coordinate Indexing Systems</h2>
+<p><strong>1. Uniterm</strong></p>
+<ul>
+<li><p>Uniterm was developed by Mortimer Taube in 1953</p></li>
+<li><p>It is a simple post-coordinate indexing system</p></li>
+<li><p>It creates index entries for each unit term identified by the indexer</p></li>
+<li><p>The term is posted on top of card and the card is divided into 10 columns, 0 to 9</p></li>
+<li><p>Document no. (i.e.&nbsp;accession no. or no. of given document being indexed) is written on the card by a technique called ‘terminal digital posting’ - no. written in a column based on right-most digit in document no.</p></li>
+</ul>
+</section>
+<section id="uniterm" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>1. Uniterm</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li><p>Fig. shows entries for 2 subjects: automation of libraries in India (document no. 13) and management of libraries in England (document no. 45)</p></li>
+<li><p>During searching, user has to pick up all the cards related to his/her search request and has to identify those numbers that appear in all the cards</p></li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><img data-src="images/uniterm.png" data-fig-align="center"> - Process of comparing no. is quite difficult specially for large collection of documents</p>
+</div>
+</div>
+</section>
+<section id="optical-coincidencepeek-a-boo-cards" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>2. Optical Coincidence/Peek-a-Boo Cards</h2>
+<ul>
+<li><p>It was devised to overcome the manual searching problem of uniterm</p></li>
+<li><p>It is based on a simple principle: each card is divided into small units of numbered squares, each unit bearing a specific no. and a document no. is punched on appropriate position on the card</p></li>
+<li><p>Thus no. of small holes are produced on each card, each hole representing a particular document no. in which the term, written on top of the card appears</p></li>
+<li><p>During searching, user has to pick up all the cards matching a given query. Cards are then placed in a box</p></li>
+</ul>
+</section>
+<section id="optical-coincidencepeek-a-boo-cards-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>2. Optical Coincidence/Peek-a-Boo Cards</h2>
+<p>against source of light. Light will pass thorough those cards that have punched at the same position</p>
+<ul>
+<li><p>No.&nbsp;represented by these positions will contain all the terms present in the query and thus will be the output</p></li>
+<li><p>A peek-a-boo card contains space at the top of heading for posting of a term/phrase like a Uniterm card, and the body of the card is divided up to into numbered squares ranging from 500 to 1000 or upto 10,000</p></li>
+<li><p>This system removed some problem by Uniterm cards but if there were a large no. of punches on card, it could easily become mutilated after being used a no. of times</p></li>
+</ul>
+</section>
+<section id="automatic-indexing" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Automatic Indexing</h2>
+<ul>
+<li><p>In LIS ‘Automatic Indexing’ is interchangeably used used with term ‘computerized indexing’</p></li>
+<li><p>Use of computer in generating indexes of documents started from KWIC indexing developed by H.P.Luhn</p></li>
+<li><p>Keyword indexing system was originally developed by Andrea Crestadoro in 1956 under name ‘Keywords in Titles’ which was revised later to <strong>Keyword-in-Context (KWIC)</strong> in 1958</p></li>
+<li><p>Each entry in KWIC index consists of 3 parts:</p></li>
+</ul>
+<p><strong>a) Keywords</strong>: Subj. denoting words which serve as approach terms</p>
+</section>
+<section id="automatic-indexing-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Automatic Indexing (Cnt.)</h2>
+<p><strong>b) Context</strong>: Keywords that specify particular context of document (rest of terms of the title)</p>
+<p><strong>c) Identification or Location Code</strong>: Code used (serial no. of entries in main part) to provide address of document where full bibliographic description of document will be available</p>
+<ul>
+<li>No.&nbsp;of varieties of keyword index are there in literature which differ in terms of their formats but indexing techniques &amp; principles remain more or less same such as:</li>
+</ul>
+<p><strong>1. KWOC (Key-Word Out-Of-Context) Index</strong> where each keyword is taken out &amp; printed separately in left hand</p>
+</section>
+<section id="automatic-indexing-cnt.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Automatic Indexing (Cnt.)</h2>
+<p>margin with complete title in its normal order printed to the right</p>
+<p><strong>2. KWAC (Key-Word Augmented-in-Context) Index</strong> provides enrichment of keywords of title with additional keywords taken either from abstract or from original text of document and are inserted into title or added at the end to give further index entries</p>
+<p><strong>3. KWWC (Key-Word-With-Context) Index</strong> where part of title relevant to keyword is considered as entry term</p>
+<p><strong>4. KEYTALPHA (Key-Term Alphabetical) Index</strong> is a permuted subject index that lists only keywords assigned to each abstract</p>
+</section>
+<section id="automatic-indexing-cnt.-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Automatic Indexing (Cnt.)</h2>
+<p><strong>5. WADEX (Word &amp; Author Index)</strong> is an improved version of KWIC index where names of authors are also treated as keywords in addition to significant subject term and thus facilitates to satisfy author approach of documents</p>
+<p><strong>6. DKWTC (Double KWIC) Index</strong> is another improved version of KWIC index</p>
+<p><strong>7. KLIC (Key-Letter-In-Context) Index</strong> allows truncation of word either in beginning or at the end where a fragment can be specified and computer can pick up any term containing that fragment</p>
+</section>
+<section id="previous-year-questions" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>PREVIOUS YEAR QUESTIONS</h2>
+<h4 data-background-image="background.svg" data-background-size="contain" id="long-questions-12.5-marks">Long Questions (12.5 Marks)</h4>
 <ol type="1">
-<li>Title and statement of responsibility</li>
-<li>Edition</li>
-<li>Material (or type of Publication) specific data (used for cartographic materials &amp; serials)</li>
-<li>Publication, distribution data, including place &amp; date of Publication</li>
-<li>Physical description</li>
-<li>Series</li>
-<li>Notes</li>
-<li>Standard number &amp; terms of availability</li>
+<li><p>Explain by giving examples, salient features of Pre-Coordinate &amp; Post-Coordinate System of Indexing</p></li>
+<li><p>Write essay on Keyword Indexing System</p></li>
+<li><p>Define the concepts of ‘Index’, ‘Indexing’, ‘Indexing System’. Discuss suitable examples with major landmarks in indexing systems</p></li>
+<li><p>Write an essay on POPSI</p></li>
+<li><p>When you mention ‘automatic indexing’ what exactly do you mean? Explain how to use Microsoft Word to construct an automatic index</p></li>
 </ol>
 </section>
-<section id="purpose-of-isbd" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>PURPOSE OF ISBD</h2>
+<section id="previous-year-questions-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>PREVIOUS YEAR QUESTIONS</h2>
+<h4 data-background-image="background.svg" data-background-size="contain" id="short-questions-5-marks">Short Questions (5 Marks)</h4>
+<ol type="1">
+<li>Pre-coordinate indexing</li>
+<li>Chain Indexing</li>
+<li>Automatic Indexing</li>
+<li>Postulates in POPSI</li>
+<li>Evaluation of Indexing Systems</li>
+</ol>
+</section></section>
+<section>
+<section id="metadata" class="title-slide slide level1 center" data-background-color="#438496" data-background-image="background.svg" data-background-size="contain">
+<h1>Metadata</h1>
+
+</section>
+<section id="metadata-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Metadata</h2>
 <ul>
-<li><p>It makes it possible to interchange records from different sources</p></li>
-<li><p>It supports to overcome the language barriers and help to interpret records from one language to other</p></li>
-<li><p>It facilitates the conversion of bibliographic records to electronic form</p></li>
-<li><p>It defines the selection and order of data elements</p></li>
-<li><p>It prescribes punctuation marks to be used within a bibliography</p></li>
-<li><p>It establishes compatibility among cataloging for exchange of bibligraphic records for information centers</p></li>
+<li><p>‘Data which describes attributes of a resource’</p></li>
+<li><p>‘Meaningful data describing another discrete data object’</p></li>
+<li><p>’Data associated with objects which relieves their potential users of having to have full advance knowledge of their existence or characteristics</p></li>
+</ul>
+<h4 data-background-image="background.svg" data-background-size="contain" id="types-of-metadata">Types of Metadata</h4>
+<p><strong>A. Descriptive Metadata</strong>: It is used to describe a document.To locate &amp; identify documents, it is very imp. element. Field 856 in MARC, Call No.&nbsp;in Catalogue Card, Uniform Resource Identifier (URI) in web document all act as location identifier liker <em>IDENTIFIER</em> in Dublin Core Metadata. It helps to distinguish version &amp; curatorial info. of documents</p>
+</section>
+<section id="types-of-metadata-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Types of Metadata (Cnt.)</h2>
+<p><strong>B. Structural Metadata</strong>: It describes internal organization. Physical files and structure of logical objects are connected through structural metadata</p>
+<p><strong>C. Administrative Metadata</strong>: It provides info. designed for management of resources. During the creation of a document, the info. generated along the process which become integral part of the document is regarded as admin. metadata such as Ordering, Acquisition, Maintenance, Licensing, Rights, Ownership, Provenance</p>
+<p><strong>D. Rights Management Metadata</strong>: It is related to IPR which ensure that material is distributed correctly and rightful compensation is given to rights holder</p>
+</section>
+<section id="types-of-metadata-cnt.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Types of Metadata (Cnt.)</h2>
+<p><strong>E. Preservation Metadata</strong>: It is used for ‘digital longevity’. Preservation Metadata: Implementation Strategies or PREMIS is an example of standard metadata used in digital preservation. OCLC &amp; Research Library Group built the PREMIS</p>
+<p><strong>F. Technical Metadata</strong>: It is used to keep info. regarding software &amp; hardware. technical info. on digitization (file, format, size, type, date of creation, compression scheme, security, etc.).</p>
+</section>
+<section id="dublin-core-metadata" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Dublin Core Metadata</h2>
+<ul>
+<li><p>Dublin Core Metadata Workshop Series began in 1995 to develop discovery standards for electronic resources</p></li>
+<li><p>The first meeting took place in Dublin, Ohio and gave rise to metadata format called Dublin Core</p></li>
+<li><p>It has 15-element set of descriptors intended to promote author-generated description of internet resources</p></li>
+<li><p>It falls into 3 groups which indicate the class/scope of info. stored in them</p></li>
+<li><p>Elements related to <em>content of resources; resources when viewed as IP; instantiation of resources</em></p></li>
+</ul>
+</section>
+<section id="dublin-core-metadata-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Dublin Core Metadata (Cnt.)</h2>
+
+<img data-src="images/dublin.png" class="r-stretch quarto-figure-center"></section>
+<section id="dublin-core-metadata-cnt.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Dublin Core Metadata (Cnt.)</h2>
+<ul>
+<li><p><a href="http://www.ukoln.ac.uk/metadata/dcdot/">Dublin Core Metadata Editor</a> is a service that retrieves a given webpage and automatically generate Dublin Core metadata</p></li>
+<li><p>It also allows users to edit the tags or add or edit contents</p></li>
+<li><p>Following are the Dublin Core standard characteristics:</p>
+<ul>
+<li>Core set can be extended with further elements for a particular domain</li>
+<li>All elements are optional</li>
+<li>All elements are repeatable</li>
+<li>Any element may be modified by a qualifier</li>
+</ul></li>
 </ul>
 </section></section>
 <section>
-<section id="marc" class="title-slide slide level1 center" data-background-color="#438496" data-background-image="background.svg" data-background-size="contain">
-<h1>MARC</h1>
+<section id="data-mining" class="title-slide slide level1 center" data-background-color="#438496" data-background-image="background.svg" data-background-size="contain">
+<h1>Data Mining</h1>
 
 </section>
-<section id="marc-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>MARC</h2>
-<div class="panel-tabset">
-<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">Intro</a></li><li><a href="#tabset-1-2">Intro</a></li><li><a href="#tabset-1-3">Intro</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1" data-background-image="background.svg" data-background-size="contain">
+<section id="data-mining-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Data Mining</h2>
 <ul>
-<li><p>MARC stands for <strong>MA</strong>chine <strong>R</strong>eadable <strong>C</strong>atalogue</p></li>
-<li><p>Data indexing system which was developed by LoC in 1965</p></li>
-<li><p>Allows computers to “understand” cataloging inputs</p></li>
-<li><p>MARC code does not provide an instruction on description of library materials, but is a standard format for bibliographic info. into a computerized record</p></li>
-<li><p>The information from a catalogue card cannot simply be typed into a computer to become part of an automated catalogue</p></li>
+<li><p>Every day an exponential amount of data is being generated over the Internet</p></li>
+<li><p>For several years, advances in knowledge discovery in databases (KDD) have been undertaken to manage the information in an efficient manner</p></li>
+<li><p>Data mining is a part of the KDD process, which identifies the hidden patterns in large information repositories</p></li>
+<li><p>It involves several information extraction techniques, such as regression models, association rules, Bayesian methods, decision trees, neural networks, etc.</p></li>
 </ul>
-</div>
-<div id="tabset-1-2" data-background-image="background.svg" data-background-size="contain">
-<ul>
-<li>The computer needs some program or code to interpret the information that is available in specific format on a catalogue card</li>
-<li>MARC standard has ability to encode the bibliographic information in machine-readable format</li>
-<li>MARC21 record contains various “signposts,” before each piece of catalogue information so that it can be identified easily</li>
-<li>Info. in a MARC record is stored in character form and records are coded in extended ASCII format</li>
-</ul>
-</div>
-<div id="tabset-1-3" data-background-image="background.svg" data-background-size="contain">
-<h5 data-background-image="background.svg" data-background-size="contain" id="structure-of-marc21-record">Structure of MARC21 Record</h5>
-<ul>
-<li>A MARC record consists of 3 elements:
-<ul>
-<li><strong>Record Structure</strong> provides information on tags, indicators and data elements that are used to create the record</li>
-<li><strong>Content Designation</strong> are predefined codes that are used as prefix to the data elements</li>
-<li><strong>Content of the Record</strong> are the data elements that are defined &amp; rendered in accordance to standards such as AACR2</li>
-</ul></li>
-</ul>
-</div>
-</div>
-</div>
 </section>
-<section id="marc-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>MARC</h2>
-<div class="panel-tabset">
-<ul id="tabset-2" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-2-1">Intro (Cont.)</a></li><li><a href="#tabset-2-2">Intro (Cont.)</a></li><li><a href="#tabset-2-3">Intro (Cont.)</a></li><li><a href="#tabset-2-4">Intro (Cont.)</a></li><li><a href="#tabset-2-5">Intro (Cont.)</a></li></ul>
-<div class="tab-content">
-<div id="tabset-2-1" data-background-image="background.svg" data-background-size="contain">
+<section id="data-mining-process" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Data Mining Process</h2>
+
+<img data-src="images/dm.png" class="r-stretch quarto-figure-center"></section>
+<section id="data-mining-process-cnt." class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Data Mining Process (Cnt.)</h2>
+<p><strong>1. Problem Identification</strong>: Objectives of a research problem are identified</p>
+<p><strong>2. Pre-processing</strong>: Data is being prepared for pattern extraction where the raw text is transformed into some data representation format that can be used as input for the knowledge extraction algorithms</p>
+<p><strong>3. Pattern Extraction</strong>: Suitable algorithm to extract the hidden patterns is applied. The algorithm is chosen based on the data available and the type of pattern that is expected</p>
+<p><strong>4. Post-processing</strong>: Extracted knowledge is evaluated in this step</p>
+</section>
+<section id="data-mining-process-cnt.-1" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Data Mining Process (Cnt.)</h2>
+<p><strong>5. Knowledge Usage</strong>: If the knowledge from the post-processing step meets the process objectives, it is put available to the users. Otherwise, another cycle is performed, making changes in the data preparation activities and/or in pattern extraction parameters</p>
+</section>
+<section id="data-harvesting" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>Data Harvesting</h2>
 <ul>
-<li>MARC21 record contains <strong>Leader, Directory, variable</strong> fields</li>
+<li><p>It refers to collecting &amp; analyzing large amount of data from various sources such as social media, website</p></li>
+<li><p>It aims to extract valuable insights &amp; info. that can be used to make informed decisions &amp; improve business operations</p></li>
 </ul>
+</section>
+<section id="previous-year-questions-2" class="slide level2" data-background-image="background.svg" data-background-size="contain">
+<h2>PREVIOUS YEAR QUESTIONS</h2>
+<h4 data-background-image="background.svg" data-background-size="contain" id="long-questions-12.5-marks-1">Long Questions (12.5 Marks)</h4>
 <ol type="1">
-<li><strong>Leader:</strong></li>
+<li><p>Define concept of ‘Metadata’ by discussing various sets of elements. Describe the functions of a Metadata</p></li>
+<li><p>Discuss various types of Metadata element sets and its functions</p></li>
+<li><p>Explain the term ‘Metadata’. Discuss the role of metadata and Dublin Core Metadata Initiatives (DCMI) in the organization and management of e-resources</p></li>
+<li><p>What do you understand by ‘Data Mining’? Discuss the steps involved in data mining</p></li>
 </ol>
-<ul>
-<li>It is a 24 character (octet’s postitions 0-23) fixed field that store imp. info. required for processing of record through computer</li>
-<li>It is the first field in any MARC record</li>
-<li>Only graphical charaters fof ASCII allowed</li>
-</ul>
-<h4 data-background-image="background.svg" data-background-size="contain" id="structure-of-leader">Structure of Leader</h4>
-<ul>
-<li>Record Length (charc. position 00-04) - contains 5-character ASCII numeric string equal to the length of the entire record including itself &amp; record terminator
-<ul>
-<li>5-character numeric string is right justified &amp; unused positions contain 0s (zero fill)</li>
-<li>Max. length of record is 99999 octets</li>
-</ul></li>
-</ul>
-</div>
-<div id="tabset-2-2" data-background-image="background.svg" data-background-size="contain">
-<ul>
-<li>Parts of MARC record
-<ul>
-<li>Fields: Contain Data</li>
-<li>Tags: Identify what is in the field (eg. 245 is title info.)</li>
-<li>Indicator: Tell computers how to work with field (eg. in title field there is a non-filing indicator, if we have</li>
-</ul></li>
-</ul>
-</div>
-<div id="tabset-2-3" data-background-image="background.svg" data-background-size="contain">
-<ul>
-<li>Parts of MARC record
-<ul>
-<li>“The History of Art” title, the browser will display we want to begin filing with “history” &amp; not “the”)</li>
-<li>Subfield: Sections of field</li>
-<li>Subfield Codes: Identify content of subfield (eg. in 245 field, subfield C is statement of responsibility)</li>
-<li>Delimiters: Mark start of subfield</li>
-</ul></li>
-</ul>
-</div>
-<div id="tabset-2-4" data-background-image="background.svg" data-background-size="contain">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/marc1.png"></p>
-</figure>
-</div>
-</div>
-<div id="tabset-2-5" data-background-image="background.svg" data-background-size="contain">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/marc2.png"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="marc-cont." class="slide level2" data-background-image="background.svg" data-background-size="contain">
-<h2>MARC (Cont.)</h2>
-<div class="panel-tabset">
-<ul id="tabset-3" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-3-1">Fields (Cont.)</a></li><li><a href="#tabset-3-2">MARC (Cont.)</a></li></ul>
-<div class="tab-content">
-<div id="tabset-3-1" data-background-image="background.svg" data-background-size="contain">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/marc3.png"></p>
-</figure>
-</div>
-</div>
-<div id="tabset-3-2" data-background-image="background.svg" data-background-size="contain">
-<ul>
-<li>040 field contains codes that tell which institutions did the cataloging</li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/marc4.png"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
+<h4 data-background-image="background.svg" data-background-size="contain" id="short-questions-5-marks-1">Short Questions (5 Marks)</h4>
+<ol type="1">
+<li>Data Mining</li>
+</ol>
 <div class="footer footer-default">
 
 </div>
@@ -592,20 +869,20 @@
   </div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="formats_files/libs/revealjs/dist/reveal.js"></script>
+  <script src="indexing_files/libs/revealjs/dist/reveal.js"></script>
   <!-- reveal.js plugins -->
-  <script src="formats_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="formats_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="formats_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="formats_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="formats_files/libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="formats_files/libs/revealjs/plugin/quarto-support/support.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
-  <script src="formats_files/libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="formats_files/libs/revealjs/plugin/search/search.js"></script>
-  <script src="formats_files/libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="formats_files/libs/revealjs/plugin/math/math.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/search/search.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="indexing_files/libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
 
   <script>
