@@ -9,5 +9,5 @@ This repository contains the Slides, Recorded Video, Quiz, & Reading Material fo
 3. [Quiz]
 
 4. Reading Material
-- [Indexing Systems]()
+- [Indexing Systems](https://github.com/manika-lamba/SOL/blob/main/11_June_2023/reading-materials/Indexing.pdf)
 - [Metadata](https://github.com/manika-lamba/SOL/blob/main/11_June_2023/reading-material/Metadata.pdf)
