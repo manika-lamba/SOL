@@ -394,7 +394,7 @@ Entries:
 
 - Basic rule of syntax is associated with deep structure of a subject indexing language is that discipline should be followed by entity appropriately interpolated or extrapolated wherever warranted by property and/or action
 
-- There are other rules that govern syntactical structure of POPSI such as
+- There are other [rules that govern syntactical structure of POPSI]{style="color: blue;"} such as
 
   - manifestation of property follows immediately the manifestation in relation to which it is a property
 
@@ -416,22 +416,22 @@ Entries:
 
 **1. Uniterm**
 
-- Uniterm was developed by Mortimer Taube in 1953 
+- Uniterm was developed by **Mortimer Taube** in **1953** 
 
-- It is a simple post-coordinate indexing system
+- It is a [simple post-coordinate indexing system]{style="color: blue;"}
 
-- It creates index entries for each unit term identified by the indexer
+- It [creates index entries for each unit term identified by the indexer]{style="color: blue;"}
 
-- The term is posted on top of card and the card is divided into 10 columns, 0 to 9
+- The [term is posted on top of card and the card is divided into 10 columns, 0 to 9]{style="color: blue;"}
 
-- Document no. (i.e. accession no. or no. of given document being indexed) is written on the card by a technique called 'terminal digital posting' - no. written in a column based on right-most digit in document no.
+- [Document no.]{style="color: blue;"} (i.e. accession no. or no. of given document being indexed) is [written on the card by a technique called 'terminal digital posting']{style="color: red;"} - no. written in a column based on right-most digit in document no.
 
 ## 1. Uniterm
 ::: columns
 ::: {.column width="50%"}
-- Fig. shows entries for 2 subjects: automation of libraries in India (document no. 13) and management of libraries in England (document no. 45) 
+- Fig. shows entries for [2 subjects]{style="color: blue;"}: **automation of libraries in India (document no. 13)** and **management of libraries in England (document no. 45)** 
 
-- During searching, user has to pick up all the cards related to his/her search request and has to identify those numbers that appear in all the cards
+- During [searching]{style="color: blue;"}, [user has to pick up all the cards related to his/her search request]{style="color: red;"} and has to [identify those numbers that appear in all the cards]{style="color: blue;"}
 
 
 
@@ -447,67 +447,67 @@ Entries:
 
 ## 2. Optical Coincidence/Peek-a-Boo Cards
 
-- It was devised to overcome the manual searching problem of uniterm 
+- It was devised to [overcome the manual searching problem of Uniterm]{style="color: blue;"} 
 
-- It is based on a simple principle: each card is divided into small units of numbered squares, each unit bearing a specific no. and a document no. is punched on appropriate position on the card
+- It is based on a [simple principle]{style="color: blue;"}: [each card is divided into small units of numbered squares]{style="color: red;"}, [each unit bearing a specific no. and a document no. is punched on appropriate position on the card]{style="color: blue;"}
 
-- Thus no. of small holes are produced on each card, each hole representing a particular document no. in which the term, written on top of the card appears
+- Thus, [no. of small holes are produced on each card]{style="color: blue;"}, [each hole representing a particular document no. in which the term written on top of the card appears]{style="color: red;"}
 
-- During searching, user has to pick up all the cards matching a given query. Cards are then placed in a box
+- During [searching]{style="color: blue;"}, user has to [pick up all the cards matching a given query]{style="color: red;"}. [Cards are then placed in a box]{style="color: blue;"}
 
 
 ## 2. Optical Coincidence/Peek-a-Boo Cards
 
- against source of light. Light will pass thorough those cards that have punched at the same position
+ [against source of light]{style="color: blue;"}. [Light will pass thorough those cards that have punched at the same position]{style="color: red;"}
 
 - No. represented by these positions will contain all the terms present in the query and thus will be the output
 
-- A peek-a-boo card contains space at the top of heading for posting of a term/phrase like a Uniterm card, and the body of the card is divided up to into numbered squares ranging from 500 to 1000 or upto 10,000
+- A [peek-a-boo card]{style="color: blue;"} contains space at the top of heading for posting of a term/phrase like a Uniterm card, and the body of the card is divided up to into [numbered squares]{style="color: blue;"} ranging from [500 to 1000 or upto 10,000]{style="color: blue;"}
 
 - This system removed some problem by Uniterm cards but if there were a large no. of punches on card, it could easily become  mutilated after being used a no. of times
 
 
 ## Automatic Indexing
 
-- In LIS 'Automatic Indexing' is interchangeably used used with term 'computerized indexing'
+- In LIS ['Automatic Indexing']{style="color: blue;"} is [interchangeably used]{style="color: red;"} used with term ['computerized indexing']{style="color: blue;"}
 
-- Use of computer in generating indexes of documents started from KWIC indexing developed by H.P.Luhn
+- [Use of computer in generating indexes of documents started from KWIC indexing developed by H.P.Luhn]{style="color: blue;"}
 
-- Keyword indexing system was originally developed by Andrea Crestadoro in 1956 under name 'Keywords in Titles' which was revised later to **Keyword-in-Context (KWIC)** in 1958
+- Keyword indexing system was originally developed by **Andrea Crestadoro** in **1956** under name ['Keywords in Titles']{style="color: blue;"} which was revised later to **Keyword-in-Context (KWIC)** in 1958
 
-- Each entry in KWIC index consists of 3 parts:
+- Each entry in [KWIC index]{style="color: blue;"} consists of [3 parts]{style="color: blue;"}:
 
-**a) Keywords**: Subj. denoting words which serve as approach terms
+**a) Keywords**: [Subj.]{style="color: blue;"} denoting words which serve as approach terms
 
 ## Automatic Indexing (Cnt.)
 
-**b) Context**: Keywords that specify particular context of document (rest of terms of the title)
+**b) Context**: Keywords that [specify particular context]{style="color: blue;"} of document (rest of terms of the title)
 
-**c) Identification or Location Code**: Code used (serial no. of entries in main part) to provide address of document where full bibliographic description of document will be available
+**c) Identification or Location Code**: Code used (serial no. of entries in main part) to provide [address of document]{style="color: blue;"} where full bibliographic description of document will be available
 
 - No. of varieties of keyword index are there in literature which differ in terms of their formats but indexing techniques & principles remain more or less same such as:
 
-**1. KWOC (Key-Word Out-Of-Context) Index** where each keyword is taken out & printed separately in left hand 
+**1. KWOC (Key-Word Out-Of-Context) Index** where [each keyword is taken out & printed separately in left hand]{style="color: blue;"} 
 
 ## Automatic Indexing (Cnt.)
 
-margin with complete title in its normal order printed to the right
+[margin with complete title in its normal order printed to the right]{style="color: blue;"}
 
-**2. KWAC (Key-Word Augmented-in-Context) Index** provides enrichment of keywords of title with additional keywords taken either from abstract or from original text of document and are inserted into title or added at the end to give further index entries
+**2. KWAC (Key-Word Augmented-in-Context) Index** provides [enrichment of keywords of title with additional keywords taken either from abstract or from original text]{style="color: blue;"} of document and are inserted into title or added at the end to give further index entries
 
 
-**3. KWWC (Key-Word-With-Context) Index** where part of title relevant to keyword is considered as entry term
+**3. KWWC (Key-Word-With-Context) Index** where [part of title relevant to keyword is considered as entry term]{style="color: blue;"}
 
-**4. KEYTALPHA (Key-Term Alphabetical) Index** is a permuted subject index that lists only keywords assigned to each abstract
+**4. KEYTALPHA (Key-Term Alphabetical) Index** is a permuted [subject index that lists only keywords assigned to each abstract]{style="color: blue;"}
 
 ## Automatic Indexing (Cnt.)
 
 
-**5. WADEX (Word & Author Index)** is an improved version of KWIC index where names of authors are also treated as keywords in addition to significant subject term and thus facilitates to satisfy author approach of documents
+**5. WADEX (Word & Author Index)** is an improved version of KWIC index where names of [authors are also treated as keywords]{style="color: blue;"} in addition to significant subject term and thus facilitates to satisfy author approach of documents
 
 **6. DKWTC (Double KWIC) Index** is another improved version of KWIC index 
 
-**7. KLIC (Key-Letter-In-Context) Index** allows truncation of word either in beginning or at the end where a fragment can be specified and computer can pick up any term containing that fragment
+**7. KLIC (Key-Letter-In-Context) Index** allows [truncation of word either in beginning or at the end]{style="color: blue;"} where a fragment can be specified and computer can pick up any term containing that fragment
 
 ## PREVIOUS YEAR QUESTIONS
 
@@ -546,35 +546,35 @@ margin with complete title in its normal order printed to the right
 
 #### Types of Metadata
 
-**A. Descriptive Metadata**: It is used to describe a document.To locate & identify documents, it is very imp. element. Field 856 in MARC, Call No. in Catalogue Card, Uniform Resource Identifier (URI) in web document all act as location identifier liker  *IDENTIFIER* in Dublin Core Metadata. It helps to distinguish version & curatorial info. of documents
+**A. Descriptive Metadata**: It is used to [describe a document]{style="color: blue;"}. To [locate & identify documents]{style="color: red;"}, it is very imp. element. [Field 856 in MARC]{style="color: blue;"}, [Call No. in Catalogue Card]{style="color: red;"}, [Uniform Resource Identifier (URI) in web document]{style="color: blue;"} all act as location identifier liker  *IDENTIFIER* in Dublin Core Metadata. It helps to distinguish version & curatorial info. of documents
 
 ## Types of Metadata (Cnt.)
 
-**B. Structural Metadata**: It describes internal organization. Physical files and structure of logical objects are connected through structural metadata
+**B. Structural Metadata**: It describes [internal organization]{style="color: blue;"}. Physical files and structure of logical objects are connected through structural metadata
 
-**C. Administrative Metadata**: It provides info. designed for management of resources. During the creation of a document, the info. generated along the process which become integral part of the document is regarded as admin. metadata such as Ordering, Acquisition, Maintenance, Licensing, Rights, Ownership, Provenance
+**C. Administrative Metadata**: It provides info. designed for management of resources. During the [creation of a document]{style="color: blue;"}, the [info. generated along the process which become integral part of the document]{style="color: red;"} is regarded as admin. metadata such as Ordering, Acquisition, Maintenance, Licensing, Rights, Ownership, Provenance
 
-**D. Rights Management Metadata**: It is related to IPR which ensure that material is distributed correctly and rightful compensation is given to rights holder 
+**D. Rights Management Metadata**: It is related to [IPR which ensure that material is distributed correctly and rightful compensation]{style="color: blue;"} is given to rights holder 
 
 ## Types of Metadata (Cnt.)
 
-**E. Preservation Metadata**: It is used for 'digital longevity'. Preservation Metadata: Implementation Strategies or PREMIS is an example of standard metadata used in digital preservation. OCLC & Research Library Group built the PREMIS
+**E. Preservation Metadata**: It is used for **'digital longevity'**. [Preservation Metadata: Implementation Strategies or PREMIS]{style="color: blue;"} is an example of standard metadata used in digital preservation. OCLC & Research Library Group built the PREMIS
 
-**F. Technical Metadata**: It is used to keep info. regarding software & hardware. technical info. on digitization (file, format, size, type, date of creation, compression scheme, security, etc.). 
+**F. Technical Metadata**: It is used to [keep info. regarding software & hardware. technical info. on digitization]{style="color: blue;"} (file, format, size, type, date of creation, compression scheme, security, etc.). 
 
 
 ## Dublin Core Metadata
 
-- Dublin Core Metadata Workshop Series began in 1995 to develop discovery standards for electronic resources
+- **Dublin Core Metadata Workshop Series** began in **1995** to develop [discovery standards for electronic resources]{style="color: blue;"}
 
 
-- The first meeting took place in Dublin, Ohio and gave rise to metadata format called Dublin Core
+- The [first meeting]{style="color: blue;"} took place in [Dublin, Ohio]{style="color: blue;"} and gave rise to metadata format called Dublin Core
 
-- It has 15-element set of descriptors intended to promote author-generated description of internet resources
+- It has [15-element set of descriptors]{style="color: blue;"} intended to [promote author-generated description of internet resources]{style="color: red;"}
 
-- It falls into 3 groups which indicate the class/scope of info. stored in them
+- It falls into [3 groups]{style="color: blue;"} which indicate the [class/scope of info. stored in them]{style="color: blue;"}
 
-- Elements related to *content of resources; resources when viewed as IP; instantiation of resources*
+- Elements related to **content of resources; resources when viewed as IP; instantiation of resources**
 
 ## Dublin Core Metadata (Cnt.)
 
@@ -582,9 +582,9 @@ margin with complete title in its normal order printed to the right
 
 ## Dublin Core Metadata (Cnt.)
 
-- [Dublin Core Metadata Editor](http://www.ukoln.ac.uk/metadata/dcdot/) is a service that retrieves a given webpage and automatically generate Dublin Core metadata 
+- [Dublin Core Metadata Editor](http://www.ukoln.ac.uk/metadata/dcdot/) is a service that retrieves a given webpage and [automatically generate Dublin Core metadata]{style="color: blue;"} 
 
-- It also allows users to edit the tags or add or edit contents 
+- It also [allows users to edit the tags or add or edit contents ]{style="color: blue;"}
 
 - Following are the Dublin Core standard characteristics:
 
@@ -597,12 +597,12 @@ margin with complete title in its normal order printed to the right
 
 ## Data Mining
 
-- Every day an exponential amount of data is being generated over the Internet
-- For several years, advances in knowledge discovery in databases (KDD) have been
-undertaken to manage the information in an efficient manner
+- Every day an [exponential amount of data is being generated over the Internet]{style="color: blue;"}
+- For several years, [advances in knowledge discovery in databases (KDD)]{style="color: blue;"} have been
+undertaken to [manage the information in an efficient manner]{style="color: red;"}
 
-- Data mining is a part of the KDD process, which identifies the hidden patterns in large information
-repositories
+- [Data mining is a part of the KDD process]{style="color: blue;"}, which [identifies the hidden patterns in large information
+repositories]{style="color: red;"}
 - It involves several information extraction techniques, such as regression
 models, association rules, Bayesian methods, decision trees, neural networks,
 etc.
@@ -634,9 +634,9 @@ extraction parameters
 
 ## Data Harvesting
 
-- It refers to collecting & analyzing large amount of data from various sources such as social media, website
+- It refers to [collecting & analyzing large amount of data from various sources]{style="color: blue;"} such as social media, website
 
-- It aims to extract valuable insights & info. that can be used to make informed decisions & improve business operations
+- It aims to [extract valuable insights & info.]{style="color: blue;"} that can be used [to make informed decisions & improve business operations]{style="color: red;"}
 
 
 ## PREVIOUS YEAR QUESTIONS
