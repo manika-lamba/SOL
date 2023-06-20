@@ -4,7 +4,7 @@ This repository contains the Slides, Recorded Video, Quiz, & Reading Material fo
 
 1. [Slides](https://manika-lamba.github.io/SOL/21_May_2023/#/title-slide)
 
-2. [Video]
+2. [Video](https://youtu.be/6A37ZD1sdP0)
 
 3. [Quiz](https://github.com/manika-lamba/SOL/blob/main/21_May_2023/quiz.pdf)
 
