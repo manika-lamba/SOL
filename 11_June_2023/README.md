@@ -4,10 +4,8 @@ This repository contains the Slides, Recorded Video, Quiz, & Reading Material fo
 
 1. [Slides](https://manika-lamba.github.io/SOL/11_June_2023/#/title-slide)
 
-2. [Video]
-
-3. [Quiz]
-
-4. Reading Material
+2. [Video](https://www.youtube.com/live/NgIeh-yVIT4?feature=share)
+   
+3. Reading Material
 - [Indexing Systems](https://github.com/manika-lamba/SOL/blob/main/11_June_2023/reading-materials/Indexing.pdf)
 - [Metadata](https://github.com/manika-lamba/SOL/blob/main/11_June_2023/reading-material/Metadata.pdf)
